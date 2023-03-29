@@ -4,6 +4,7 @@
 
 <p align="center">
 	<b><i>Projects developed at <a href="https://1337.ma/en/">1337</a> programming school.</i></b><br>
+	Start date: 05/09/2022
 </p>
 
 <h3 align="center">
