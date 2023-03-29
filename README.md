@@ -1,4 +1,10 @@
-# 42-cursus
+<h1 align="center">
+	42cursus
+</h1>
+
+<p align="center">
+	<b><i>Projects developed at <a href="https://1337.ma/en/">1337</a> programming school.</i></b><br>
+</p>
 
 ## 🗣️ About 42
 
@@ -7,9 +13,10 @@
 	learning), with a methodology that develops both computing and life skills. The 42 cursus is
 	free for whoever is approved in its selection process* - the so-called "Piscine" - becoming
 	thus "cadets" (42's students).
-  
-  
-  ## 🛠️ Skills developed at 42cursus
+
+\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42Piscine-C).
+    
+## 🛠️ Skills developed at 42cursus
 
 ### Hard-skills
 
