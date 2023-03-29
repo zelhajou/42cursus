@@ -6,6 +6,14 @@
 	<b><i>Projects developed at <a href="https://1337.ma/en/">1337</a> programming school.</i></b><br>
 </p>
 
+<h3 align="center">
+	<a href="#%EF%B8%8F-about-42">About 42</a>
+	<span> · </span>
+	<a href="#%EF%B8%8F-skills-developed-at-42cursus">Skills developed at 42cursus</a>
+	<span> · </span>
+	<a href="#-42s-galaxy-curriculum">42's galaxy (curriculum)</a>
+</h3>
+
 ## 🗣️ About 42
 
 	42 is a global education initiative that offers a new way of learning technology:
@@ -54,3 +62,9 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 ![42's galaxy](galaxy.png)
 
 The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
+
+|CIRCLE	|PROJECT	|TECHNOLOGY	|EXPERIENCE	|STATUS	|ATTAINED LEVEL	|
+|:-:	|:--		|:--		|--:		|:-:	|:--		|
+|00	|[Libft](https://github.com/zakelh6/libft)	|C	|	|	|level 1 - 4%	|
+|:dizzy:|		|		|		|	|	|	|		|
+|01	|[ft_printf](https://github.com/zakelh6/ft_printf)	|C	|	|	|	|
