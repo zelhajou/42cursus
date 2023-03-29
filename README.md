@@ -15,6 +15,12 @@
 	<a href="#-42s-galaxy-curriculum">42's galaxy (curriculum)</a>
 </h3>
 
+<div align="center">
+	
+![1337](https://github.com/zakelh6/42-cursus/blob/main/img/1337.png)
+
+</div>
+
 ## 🗣️ About 42
 
 	42 is a global education initiative that offers a new way of learning technology:
