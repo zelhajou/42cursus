@@ -7,17 +7,11 @@
 	Start date: 05/09/2022
 </p>
 
-<h3 align="center">
-	<a href="#%EF%B8%8F-about-42">About 42</a>
-	<span> · </span>
-	<a href="#%EF%B8%8F-skills-developed-at-42cursus">Skills developed at 42cursus</a>
-	<span> · </span>
-	<a href="#-42s-galaxy-curriculum">42's galaxy (curriculum)</a>
-</h3>
-
 <div align="center">
 	
-![1337](https://github.com/zakelh6/42-cursus/blob/main/img/1337.png)
+[![zelhajou's 42 stats](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
+
 
 </div>
 
@@ -72,6 +66,8 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 |CIRCLE	|PROJECT	|TECHNOLOGY	|EXPERIENCE	|STATUS	|ATTAINED LEVEL	|
 |:-:	|:--		|:--		|--:		|:-:	|:--		|
-|00	|[Libft](https://github.com/zakelh6/libft)	|C	|	|	|level 1 - 4%	|
+|00	|[Libft](https://github.com/zakelh6/libft)	|C	|462	|[![zelhajou's 42 Libft Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2823562)](https://github.com/JaeSeoKim/badge42)	|level 1 - 4%	|
 |:dizzy:|		|		|		|	|	|	|		|
-|01	|[ft_printf](https://github.com/zakelh6/ft_printf)	|C	|	|	|	|
+|01	|[ft_printf](https://github.com/zakelh6/ft_printf)	|C	|	|[![zelhajou's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2890969)](https://github.com/JaeSeoKim/badge42)
+
+	|	|
