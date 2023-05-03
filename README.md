@@ -64,8 +64,9 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
-|CIRCLE	|PROJECT	|TECHNOLOGY	|EXPERIENCE	|STATUS	|ATTAINED LEVEL	|
-|:-:	|:--		|:--		|--:		|:-:	|:--		|
-|00	|[Libft](https://github.com/zakelh6/libft)	|C	|462	|[![zelhajou's 42 Libft Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2823562)](https://github.com/JaeSeoKim/badge42)	|level 1 - 4%	|
-|:dizzy:|		|		|		|	|	|	|		|
+|CIRCLE	|PROJECT	|TECHNOLOGY	|EXPERIENCE	|STATUS	|
+|:-:	|:--		|:--		|--:		|:-:	|
+|00	|[Libft](https://github.com/zakelh6/libft)	|C	|462	|[![zelhajou's 42 Libft Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2823562)](https://github.com/JaeSeoKim/badge42)	|
+|:dizzy:|		|		|		|	|	|	|
 |01	|[ft_printf](https://github.com/zakelh6/ft_printf)	|C	|	|[![zelhajou's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2890969)](https://github.com/JaeSeoKim/badge42)	|
+|02	|[get_next_line](https://github.com/zakelh6/Born2beRoot)	|VM, debian	|	|[![zelhajou's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/3065818)](https://github.com/JaeSeoKim/badge42)	|
