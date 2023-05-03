@@ -15,13 +15,13 @@
 
 </div>
 
+This repository contains my projects for the 42 Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
+
+
 ## 🗣️ About 42
 
-	42 is a global education initiative that offers a new way of learning technology:
-	no teachers, no classrooms, students learning from their fellow students (peer to peer
-	learning), with a methodology that develops both computing and life skills. The 42 cursus is
-	free for whoever is approved in its selection process* - the so-called "Piscine" - becoming
-	thus "cadets" (42's students).
+42 is a global education initiative that offers a new way of learning technology:
+no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The 42 cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42Piscine-C).
     
@@ -64,9 +64,12 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
-|CIRCLE	|PROJECT	|TECHNOLOGY	|EXPERIENCE	|STATUS	|
-|:-:	|:--		|:--		|--:		|:-:	|
-|00	|[Libft](https://github.com/zakelh6/libft)	|C	|462	|[![zelhajou's 42 Libft Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2823562)](https://github.com/JaeSeoKim/badge42)	|
-|:dizzy:|		|		|		|	|	|	|
-|01	|[ft_printf](https://github.com/zakelh6/ft_printf)	|C	|	|[![zelhajou's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2890969)](https://github.com/JaeSeoKim/badge42)	|
-|02	|[get_next_line](https://github.com/zakelh6/Born2beRoot)	|VM, debian	|	|[![zelhajou's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/3065818)](https://github.com/JaeSeoKim/badge42)	|
+## 🦾 Projects
+
+|CIRCLE	|PROJECT	| DESCRIPTION |TECHNOLOGY	|STATUS	|
+|:-:	|:--		|:--	|:--				|:-:	|
+|00	|[Libft](https://github.comzakelh6/libft)| A library of useful C functions	|C	|[![zelhajou's 42 Libft Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2823562)](https://github.com/JaeSeoKim/badge42)	|
+|:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
+|01	|[ft_printf](https://github.com/zakelh6/ft_printf)|A function that mimics the behavior of the C library printf function	|C	|[![zelhajou's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2890969)](https://github.com/JaeSeoKim/badge42)	|
+|02	|[Born2beroot](https://github.com/zakelh6/Born2beRoot)| A project on Virtualization basics 	|VM, debian	|[![zelhajou's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/3065818)](https://github.com/JaeSeoKim/badge42)	|
+|03	|[get_next_line]()| A function that reads a file line-by-line 	|C	|[![zelhajou's [![zelhajou's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/3065815)](https://github.com/JaeSeoKim/badge42)	|
