@@ -1,13 +1,12 @@
-<h1 align="center">
-	42cursus
-</h1>
+## 42cursus
 
-<p align="center">
-	<b><i>Projects developed at <a href="https://1337.ma/en/">1337</a> programming school.</i></b><br>
+
+<p align="left">
+	<b>Projects developed at <a href="https://1337.ma/en/">1337</a> programming school.</b><br>
 	Start date: 05/09/2022
 </p>
 
-<div align="center">
+<div align="left">
 	
 [![zelhajou's 42 stats](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
@@ -18,14 +17,14 @@
 This repository contains my projects for the 42 Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
 
 
-## 🗣️ About 42
+## About 42
 
 42 is a global education initiative that offers a new way of learning technology:
 no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The 42 cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42Piscine-C).
     
-## 🛠️ Skills developed at 42cursus
+## Skills developed at 42cursus
 
 ### Hard-skills
 
@@ -52,7 +51,7 @@ no teachers, no classrooms, students learning from their fellow students (peer t
 		demands excellent time management skills and resiliency for not "drowning" amid the
 		massive load of work demanded by the program.
 
-## 🌌 42's galaxy (curriculum)
+## 42's galaxy (curriculum)
 
 **42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
 
