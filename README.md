@@ -63,7 +63,7 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
-## 🦾 Projects
+## Projects
 
 |CIRCLE	|PROJECT	| DESCRIPTION |TECHNOLOGY	|STATUS	|
 |:-:	|:--		|:--	|:--				|:-:	|
