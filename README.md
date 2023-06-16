@@ -67,7 +67,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 |CIRCLE	|PROJECT	| DESCRIPTION |TECHNOLOGY	|STATUS	|
 |:-:	|:--		|:--	|:--				|:-:	|
-|00	|[Libft](https://github.comzakelh6/libft)| A library of useful C functions	|C	|[![zelhajou's 42 Libft Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2823562)](https://github.com/JaeSeoKim/badge42)	|
+|00	|[Libft](https://github.com/zakelh6/libft)| A library of useful C functions	|C	|[![zelhajou's 42 Libft Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2823562)](https://github.com/JaeSeoKim/badge42)	|
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
 |01	|[ft_printf](https://github.com/zakelh6/ft_printf)|A function that mimics the behavior of the C library printf function	|C	|[![zelhajou's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/2890969)](https://github.com/JaeSeoKim/badge42)	|
 |02	|[Born2beroot](https://github.com/zakelh6/Born2beRoot)| A project on Virtualization basics 	|VM, debian	|[![zelhajou's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/project/3065818)](https://github.com/JaeSeoKim/badge42)	|
