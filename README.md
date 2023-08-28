@@ -8,8 +8,7 @@
 
 <div align="left">
 	
-[![zelhajou's 42 stats](https://badge42.vercel.app/api/v2/clbazxfsj00350fjvpd9h5nhf/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
-
+[![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
 
 
 </div>
