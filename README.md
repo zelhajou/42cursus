@@ -69,6 +69,6 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
 |01	|[ft_printf](https://github.com/zakelh6/ft_printf)|A function that mimics the behavior of the C library printf function	|C	| ✔ 100 |
 |02	|[Born2beroot](https://github.com/zakelh6/Born2beRoot)| A project on Virtualization basics 	|VM, debian	| ✔ 108	|
-|03	|[get_next_line](https://github.com/zakelh6/get_next_line)| A function that reads a file line-by-line 	|C	| |
+|03	|[get_next_line](https://github.com/zakelh6/get_next_line)| A function that reads a file line-by-line 	|C	| ✔ 125 |
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
 
