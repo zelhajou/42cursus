@@ -14,6 +14,29 @@
 
 This repository contains my projects for the 42 Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
 
+## 42's galaxy (curriculum)
+
+**42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
+
+The **inner circle** is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
+
+The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
+
+![42's galaxy](img/holygraph.png)
+
+The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
+
+## Projects
+
+|CIRCLE	|PROJECT	| DESCRIPTION |TECHNOLOGY	|STATUS	|
+|:-:	|:--		|:--	|:--				|:-:	|
+|00	|[Libft](https://github.com/zelhajou/libft)| A library of useful C functions	|C	|✔ 122 	|
+|:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
+|01	|[ft_printf](https://github.com/zelhajou/ft_printf)|A function that mimics the behavior of the C library printf function|C| ✔ 100 |
+|02	|[Born2beroot](https://github.com/zelhajou/Born2beRoot)| A project on Virtualization basics 	|VM, debian| ✔ 108|
+|03	|[get_next_line](https://github.com/zelhajou/get_next_line)| A function that reads a file line-by-line 	|C| ✔ 125|
+|:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:|
+|04	|[push_swap](https://github.com/zelhajou/push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C| |
 
 ## About 42
 
@@ -48,27 +71,3 @@ no teachers, no classrooms, students learning from their fellow students (peer t
 		The school is open 24/7. Thus, the cadets are free to work whenever they want, which
 		demands excellent time management skills and resiliency for not "drowning" amid the
 		massive load of work demanded by the program.
-
-## 42's galaxy (curriculum)
-
-**42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
-
-The **inner circle** is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
-
-The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
-
-![42's galaxy](img/holygraph.png)
-
-The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
-
-## Projects
-
-|CIRCLE	|PROJECT	| DESCRIPTION |TECHNOLOGY	|STATUS	|
-|:-:	|:--		|:--	|:--				|:-:	|
-|00	|[Libft](https://github.com/zelhajou/libft)| A library of useful C functions	|C	|✔ 122 	|
-|:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|01	|[ft_printf](https://github.com/zelhajou/ft_printf)|A function that mimics the behavior of the C library printf function|C| ✔ 100 |
-|02	|[Born2beroot](https://github.com/zelhajou/Born2beRoot)| A project on Virtualization basics 	|VM, debian| ✔ 108|
-|03	|[get_next_line](https://github.com/zelhajou/get_next_line)| A function that reads a file line-by-line 	|C| ✔ 125|
-|:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:|
-|04	|[push_swap](https://github.com/zelhajou/push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C| |
