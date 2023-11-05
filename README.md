@@ -36,13 +36,13 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 |CIRCLE	|PROJECT	| DESCRIPTION |TECHNOLOGY	|STATUS	|
 |:-:	|:--		|:--	|:--				|:-:	|
-|00	|[Libft](https://github.com/zelhajou/libft)| A library of useful C functions	|C	|✔ 122 	|
+|00	|[Libft](https://github.com/zelhajou/libft)| A library of useful C functions	|C	|✅ 122 	|
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|01	|[ft_printf](https://github.com/zelhajou/ft_printf)|A function that mimics the behavior of the C library printf function|C| ✔ 100 |
-|02	|[Born2beroot](https://github.com/zelhajou/Born2beRoot)| A project on Virtualization basics 	|VM, debian| ✔ 108|
-|03	|[get_next_line](https://github.com/zelhajou/get_next_line)| A function that reads a file line-by-line 	|C| ✔ 125|
+|01	|[ft_printf](https://github.com/zelhajou/ft_printf)|A function that mimics the behavior of the C library printf function|C|✅  100 |
+|02	|[Born2beroot](https://github.com/zelhajou/Born2beRoot)| A project on Virtualization basics 	|VM, debian|✅  108|
+|03	|[get_next_line](https://github.com/zelhajou/get_next_line)| A function that reads a file line-by-line 	|C|✅  125|
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:|
-|04	|[push_swap](https://github.com/zelhajou/push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C| |
+|04	|[push_swap](https://github.com/zelhajou/push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C|✅ 125|
 
 ## Skills developed at 42cursus
 
