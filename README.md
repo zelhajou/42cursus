@@ -43,7 +43,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |03	|[get_next_line](https://github.com/zelhajou/get_next_line)| A function that reads a file line-by-line 	|C|✅  125|
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:|
 |04	|[push_swap](https://github.com/zelhajou/push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C|✅ 125|
-|05	|[minitalk](https://github.com/zelhajou/minitalk)| A UNIX signal-based communication program enabling message exchange between a client and a server |C| ⏳|
+|05	|[minitalk](https://github.com/zelhajou/minitalk)| A communication program that uses UNIX signals to exchange data between a client and a server. |C| ⏳|
 
 ## Skills developed at 42cursus
 
