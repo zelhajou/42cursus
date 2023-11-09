@@ -1,13 +1,14 @@
 ## 42cursus
 
 
-<p align="left">
+<p align="center">
 	<b>Projects developed at <a href="https://1337.ma/en/">1337</a> programming school.</b><br>
 </p>
 
-<div align="left">
+<div align="center">
 	
 <!-- [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42) -->
+[![zelhajou's 42 stats](https://badge.mediaplus.ma/greenbinary/zelhajou)](https://github.com/oakoudad/badge42)
 
 </div>
 
