@@ -1,14 +1,23 @@
 ## 42cursus
 
+This repository contains my projects developed at <a href="https://1337.ma/en/">1337</a> programming school for the <a href="https://42.fr/en/homepage/">42</a> Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
+
+
 <div align="center">
 	
 <!-- [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42) -->
 [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
 </div>
+<p align="center">
+	<a href="#about">About</a> •
+	<a href="#curriculum">Curriculum</a> •
+	<a href="#projects">Projects</a> •
+	<a href="#skills">Skills</a>
+</p>
 
-This repository contains my projects developed at <a href="https://1337.ma/en/">1337</a> programming school for the <a href="https://42.fr/en/homepage/">42</a> Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
 
-<h2> About 42 </h2>
+
+## About
 
 42 is a global education initiative that offers a new way of learning technology:
 no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The 42 cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
@@ -16,10 +25,7 @@ no teachers, no classrooms, students learning from their fellow students (peer t
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42Piscine-C).
 
 
-<details>
-<summary>
-<h2>42's galaxy (curriculum)</h2>
-</summary>
+## Curriculum
 
 **42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
 
@@ -34,7 +40,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 </details>
 
 ## Projects
-![42_common_core_banner_new](https://github.com/zelhajou/42-cursus/assets/39954629/34f5a1f4-1c06-4e0e-a731-33f31e6f09f5)
+<!-- ![42_common_core_banner_new](https://github.com/zelhajou/42-cursus/assets/39954629/34f5a1f4-1c06-4e0e-a731-33f31e6f09f5) -->
 
 |CIRCLE	|PROJECT	| DESCRIPTION |TECHNOLOGY	|STATUS	|
 |:-:	|:--		|:--	|:--				|:-:	|
@@ -47,7 +53,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |04	|[push_swap](https://github.com/zelhajou/push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C|✅ 125|
 |05	|[minitalk](https://github.com/zelhajou/minitalk)| A communication program that uses UNIX signals to exchange data between a client and a server. |C| ⏳|
 
-## Skills developed at 42cursus
+## Skills
 
 ### Hard-skills
 
