@@ -51,7 +51,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 ### Hard-skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,linux,bash,git,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux,bash,git,vim,vscode,md)](https://skillicons.dev)
 
 ### Soft-skills
 
