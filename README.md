@@ -1,4 +1,6 @@
-
+<!--
+<img width="1105" alt="Screen Shot 2023-12-20 at 1 49 38 PM" src="https://github.com/zelhajou/42-cursus/assets/39954629/7373d5c5-441e-467f-906c-bcb1196fa0af">
+-->
 ## 42cursus
 
 This repository contains my projects developed at <a href="https://1337.ma/en/">1337</a> programming school for the <a href="https://42.fr/en/homepage/">42</a> Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
