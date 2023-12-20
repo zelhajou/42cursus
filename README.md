@@ -1,10 +1,14 @@
+
 ## 42cursus
 
 This repository contains my projects developed at <a href="https://1337.ma/en/">1337</a> programming school for the <a href="https://42.fr/en/homepage/">42</a> Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
 
 
 <div align="center">
-	
+
+<img src="./img/42illu.png" width="400">
+
+
 <!-- [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42) -->
 <!-- [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42) -->
 </div>
