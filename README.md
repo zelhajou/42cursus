@@ -58,8 +58,9 @@ The table below presents the cursus curriculum in the chronological order in whi
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:|
 |04	|[push_swap](https://github.com/zelhajou/push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C|✅ 125|
 |05	|[minitalk](https://github.com/zelhajou/minitalk)| A communication program that uses UNIX signals to exchange data between a client and a server. |C| ✅  100|
-|05	|[fractol](https://github.com/zelhajou/fractol)| Renders Julia and Mandelbrot fractals |C| ⏳ |
-
+|06	|[fractol](https://github.com/zelhajou/fractol)| Renders Julia and Mandelbrot fractals |C| ✅  100 |
+|:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
+|⏳|⏳| ⏳ |⏳| ⏳ |
 
 ## Skills
 
