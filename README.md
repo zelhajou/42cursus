@@ -60,7 +60,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |05	|[minitalk](https://github.com/zelhajou/minitalk)| A communication program that uses UNIX signals to exchange data between a client and a server. |C| ✅  100|
 |06	|[fractol](https://github.com/zelhajou/fractol)| Renders Julia and Mandelbrot fractals |C| ✅  100 |
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|⏳|⏳| ⏳ |⏳| ⏳ |
+|07|[Philosophers](https://github.com/zelhajou/Philosophers)| Simulation of the Dining Philosophers problem using threads and mutexes |C| ⏳|
 
 ## Skills
 
