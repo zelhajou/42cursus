@@ -28,7 +28,7 @@ This repository contains my projects developed at <a href="https://1337.ma/en/">
 42 is a global education initiative that offers a new way of learning technology:
 no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The 42 cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
-\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42Piscine-C).
+\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42-piscine_c).
 
 
 ## Curriculum
@@ -50,18 +50,18 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 |CIRCLE	|PROJECT	| DESCRIPTION |TECHNOLOGY	|STATUS	|
 |:-:	|:--		|:--	|:--				|:-:	|
-|00	|[Libft](https://github.com/zelhajou/libft)| A library of useful C functions	|C	|✅ 122 	|
+|00	|[Libft](https://github.com/zelhajou/42-libft)| A library of useful C functions	|C	|✅ 122 	|
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|01	|[ft_printf](https://github.com/zelhajou/ft_printf)|A function that mimics the behavior of the C library printf function|C|✅  100 |
-|02	|[Born2beroot](https://github.com/zelhajou/Born2beRoot)| A project on Virtualization basics 	|VM, debian|✅  108|
-|03	|[get_next_line](https://github.com/zelhajou/get_next_line)| A function that reads a file line-by-line 	|C|✅  125|
+|01	|[ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C|✅  100 |
+|02	|[Born2beroot](https://github.com/zelhajou/42-Born2beRoot)| A project on Virtualization basics 	|VM, debian|✅  108|
+|03	|[get_next_line](https://github.com/zelhajou/42-get_next_line)| A function that reads a file line-by-line 	|C|✅  125|
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:|
-|04	|[push_swap](https://github.com/zelhajou/push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C|✅ 125|
-|05	|[minitalk](https://github.com/zelhajou/minitalk)| A communication program that uses UNIX signals to exchange data between a client and a server. |C| ✅  100|
-|06	|[fractol](https://github.com/zelhajou/fractol)| Renders Julia and Mandelbrot fractals |C| ✅  100 |
+|04	|[push_swap](https://github.com/zelhajou/42-push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C|✅ 125|
+|05	|[minitalk](https://github.com/zelhajou/42-minitalk)| A communication program that uses UNIX signals to exchange data between a client and a server. |C| ✅  100|
+|06	|[fractol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |C| ✅  100 |
 |07	|[Exam Rank 02](https://github.com/users/zelhajou/projects/13/views/1)| An exam designed to assess your programming skills and knowledge.  |C| ✅  100 |
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|07|[Philosophers](https://github.com/zelhajou/Philosophers)| Simulation of the Dining Philosophers problem using threads and mutexes |C| ⏳|
+|07|[Philosophers](https://github.com/zelhajou/42-Philosophers)| Simulation of the Dining Philosophers problem using threads and mutexes |C| ⏳|
 
 ## Skills
 
