@@ -18,7 +18,8 @@ This repository contains my projects developed at <a href="https://1337.ma/en/">
 	<a href="#about">About</a> •
 	<a href="#curriculum">Curriculum</a> •
 	<a href="#projects">Projects</a> •
-	<a href="#skills">Skills</a>
+	<a href="#skills">Skills</a> •
+<a href="#Bookshelf">Skills</a> 
 </p>
 
 
