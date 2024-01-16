@@ -76,3 +76,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 **Teamwork:** Some projects must or should be developed in groups, which promotes collaborative work among cadets. The major challenge here is to equalize the different knowledge levels while finding a common work methodology that allows all team members to contribute to the project.
 
 **Time management and resiliency:** The school is open 24/7. Thus, the cadets are free to work whenever they want, which demands excellent time management skills and resiliency for not "drowning" amid the massive load of work demanded by the program.
+
+## Bookshelf
+- [The Linux Programming Interface-Michael Kerrisk](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/_books/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf)
+- [Operating System Concepts](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/_books/Operating%20System%20Concepts%20(9th%2C2012_12).pdf)
