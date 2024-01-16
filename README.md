@@ -78,5 +78,11 @@ The table below presents the cursus curriculum in the chronological order in whi
 **Time management and resiliency:** The school is open 24/7. Thus, the cadets are free to work whenever they want, which demands excellent time management skills and resiliency for not "drowning" amid the massive load of work demanded by the program.
 
 ## Bookshelf
-- [The Linux Programming Interface-Michael Kerrisk](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/_books/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf)
-- [Operating System Concepts](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/_books/Operating%20System%20Concepts%20(9th%2C2012_12).pdf)
+
+| **Name**                                 | **Description**                                                                                                           | **Image** |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- |
+|  [The Linux Programming Interface-Michael Kerrisk](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf)       | A comprehensive guide to system programming on the Linux platform by Michael Kerrisk. Covers system calls, libraries, and more. | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/e8ceb45e-9c83-47f0-a5f1-41cd01c0d642" width="200"> |
+| [Advanced Programming in the Linux Environment](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/advanced%20programming%20in%20the%20linux%20environment.pdf) | Explores advanced topics in Linux programming, offering insights into system calls, libraries, and techniques for efficient software development. |   <img src="https://github.com/zelhajou/42-cursus/assets/39954629/08f28684-3f19-46fa-a284-ce64141b1bd5" width="200"> |
+| [Operating System Concepts](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/Operating%20System%20Concepts%20(9th%2C2012_12).pdf)            | A classic textbook on operating system principles and concepts, providing a foundational understanding of OS design and functionality. |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/98c74ba3-665e-481d-828e-a492ec516fa3" width="200">  |
+
+
