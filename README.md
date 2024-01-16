@@ -7,7 +7,9 @@ This repository contains my projects developed at <a href="https://1337.ma/en/">
 
 
 <div align="center">
-<img src="./img/42illu.png" width="400">
+	
+[![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
+
 </div>
 
 <p align="center">
