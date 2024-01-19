@@ -27,14 +27,14 @@ This repository contains my projects developed at <a href="https://1337.ma/en/">
 ## About
 
 42 is a global education initiative that offers a new way of learning technology:
-no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The 42 cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
+no teachers, no classrooms, students learning from their fellow students (peer-to-peer learning), with a methodology that develops both computing and life skills. The 42cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42-piscine_c).
 
 
 ## Curriculum
 
-**42cursus** comprises two groups of projects: the first one being known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
+**42cursus** comprises two groups of projects: the first one is known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
 
 The **inner circle** is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
 
@@ -42,7 +42,7 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 ![42's galaxy](img/holygraph.png)
 
-The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
+The table below presents the 42cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
 </details>
 
@@ -62,7 +62,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 |06	|[fractol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |C| ✅  100 |
 |07	|[Exam Rank 02](https://github.com/users/zelhajou/projects/13/views/1)| An exam designed to assess your programming skills and knowledge.  |C| ✅  100 |
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|07|[Philosophers](https://github.com/zelhajou/42-Philosophers)| Simulation of the Dining Philosophers problem using threads and mutexes |C| ⏳|
+|08	|[Philosophers](https://github.com/zelhajou/42-Philosophers)| Simulation of the Dining Philosophers problem using threads and mutexes |C| ⏳|
 
 ## Skills
 
@@ -72,7 +72,7 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 ### Soft-skills
 
-**Self-learning and proactivity:** At 42, self-learning is at the core of its peer to peer learning methodology. There are no teachers whatsoever; the learning process is based on googling, enquiring your classmates, and empirical knowledge, with each student learning at their own pace.
+**Self-learning and proactivity:** At 42, self-learning is at the core of its peer-to-peer learning methodology. There are no teachers whatsoever; the learning process is based on googling, enquiring your classmates, and empirical knowledge, with each student learning at their own pace.
 
 **Teamwork:** Some projects must or should be developed in groups, which promotes collaborative work among cadets. The major challenge here is to equalize the different knowledge levels while finding a common work methodology that allows all team members to contribute to the project.
 
