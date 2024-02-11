@@ -65,6 +65,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 |07	|[Exam Rank 02](https://github.com/users/zelhajou/projects/13/views/1)| An exam designed to assess your programming skills and knowledge.  |C| ✅  100 |
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
 |08	|[Philosophers](https://github.com/zelhajou/42-Philosophers)| Simulation of the Dining Philosophers problem using threads and mutexes |C| ✅  100 |
+|09	|Minishell| A custom shell program emulating basic bash functionalities|C| 🚧 In Progress |
 
 ## Skills
 
