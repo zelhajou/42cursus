@@ -19,7 +19,9 @@ This repository contains my projects developed at <a href="https://1337.ma/en/">
 	<a href="#curriculum">Curriculum</a> •
 	<a href="#projects">Projects</a> •
 	<a href="#skills">Skills</a> •
-	<a href="#bookshelf">Bookshelf</a> 
+	<a href="#bookshelf">Bookshelf</a> •
+	<a href="#my-articles">Articles</a>
+
 </p>
 
 
@@ -49,7 +51,6 @@ The table below presents the 42cursus curriculum in the chronological order in w
 </details>
 
 ## Projects
-<!-- ![42_common_core_banner_new](https://github.com/zelhajou/42-cursus/assets/39954629/34f5a1f4-1c06-4e0e-a731-33f31e6f09f5) -->
 
 |CIRCLE	|PROJECT	| DESCRIPTION |TECHNOLOGY	|STATUS	|
 |:-:	|:--		|:--	|:--				|:-:	|
@@ -89,4 +90,10 @@ The table below presents the 42cursus curriculum in the chronological order in w
 | [Advanced Programming in the Linux Environment](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/advanced%20programming%20in%20the%20linux%20environment.pdf) | Explores advanced topics in Linux programming, offering insights into system calls, libraries, and techniques for efficient software development. |   <img src="https://github.com/zelhajou/42-cursus/assets/39954629/08f28684-3f19-46fa-a284-ce64141b1bd5" width="200"> |
 | [Operating System Concepts](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/Operating%20System%20Concepts%20(9th%2C2012_12).pdf)            | A classic textbook on operating system principles and concepts, providing a foundational understanding of OS design and functionality. |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/98c74ba3-665e-481d-828e-a492ec516fa3" width="200">  |
 
+<!-- ## My 42 stats
 
+[![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42) -->
+
+## Articles
+
+- [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
