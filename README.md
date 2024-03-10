@@ -23,7 +23,7 @@ This repository contains my projects developed at <a href="https://1337.ma/en/">
 	<a href="#projects">Projects</a> •
 	<a href="#skills">Skills</a> •
 	<a href="#bookshelf">Bookshelf</a> •
-	<a href="#my-articles">Articles</a>
+	<a href="#my-articles">Blog</a>
 
 </p>
 
@@ -97,6 +97,6 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42) -->
 
-## Articles
+## Blog
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
