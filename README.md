@@ -59,20 +59,20 @@ The table below presents the 42cursus curriculum in the chronological order in w
 |:-:	|:--		|:--	|:--				|:-:	|
 |00	|[Libft](https://github.com/zelhajou/42-libft)| A library of useful C functions	|C	|✅ 122 	|
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|01	|[ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C|✅  100 |
-|02	|[born2beroot](https://github.com/zelhajou/42-Born2beRoot)| A project on Virtualization basics 	|VM, debian|✅  108|
-|03	|[get_next_line](https://github.com/zelhajou/42-get_next_line)| A function that reads a file line-by-line 	|C|✅  125|
+|01	|[Ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C|✅  100 |
+|02	|[Born2beroot](https://github.com/zelhajou/42-Born2beRoot)| A project on Virtualization basics 	|VM, debian|✅  108|
+|03	|[Get_next_line](https://github.com/zelhajou/42-get_next_line)| A function that reads a file line-by-line 	|C|✅  125|
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:|
-|04	|[push_swap](https://github.com/zelhajou/42-push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C|✅ 125|
-|05	|[minitalk](https://github.com/zelhajou/42-minitalk)| A communication program that uses UNIX signals to exchange data between a client and a server. |C| ✅  100|
-|06	|[fractol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |C| ✅  100 |
-|07	|[exam_rank_02](https://github.com/users/zelhajou/projects/13/views/1)| An exam designed to assess your programming skills and knowledge.  |C| ✅  100 |
+|04	|[Push_swap](https://github.com/zelhajou/42-push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C|✅ 125|
+|05	|[Minitalk](https://github.com/zelhajou/42-minitalk)| A communication program that uses UNIX signals to exchange data between a client and a server. |C| ✅  100|
+|06	|[Fractol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |C| ✅  100 |
+|07	|[Exam_rank_02](https://github.com/users/zelhajou/projects/13/views/1)| An exam designed to assess your programming skills and knowledge.  |C| ✅  100 |
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|08	|[philosophers](https://github.com/zelhajou/42-Philosophers)| Simulation of the Dining Philosophers problem using threads and mutexes |C| ✅  100 |
+|08	|[Philosophers](https://github.com/zelhajou/42-Philosophers)| Simulation of the Dining Philosophers problem using threads and mutexes |C| ✅  100 |
 |09	| [Minishell](https://github.com/zelhajou/42-minishell) | A custom shell program emulating basic bash functionalities|C| ✅  101 |
-|10	| [exam_rank_03](#) | An exam designed to assess your programming skills and knowledge. |C| ✅  100 |
+|10	| [Exam_rank_03](#) | An exam designed to assess your programming skills and knowledge. |C| ✅  100 |
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|11	| net_practice | A project focused on practicing networking concepts and protocols. | Networking, Protocols | 🚧 In Progress |
+|11	| Net_practice | A project focused on practicing networking concepts and protocols. | Networking, Protocols | 🚧 In Progress |
 
 
 ## Skills
