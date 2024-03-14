@@ -104,3 +104,12 @@ The table below presents the 42cursus curriculum in the chronological order in w
 ## Blog
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
+
+## Useful links
+
+- [codequoi](https://www.codequoi.com/en/home-english/)
+- [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
+- [42 cursus gitbook](https://42-cursus.gitbook.io/guide/)
+- [42-resources](https://github.com/jotavare/42-resources)
+- [42tools](https://www.42tools.me/subjects/index.html)
+- [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
