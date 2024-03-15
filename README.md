@@ -1,8 +1,8 @@
 <!--
 <img width="1105" alt="Screen Shot 2023-12-20 at 1 49 38 PM" src="https://github.com/zelhajou/42-cursus/assets/39954629/7373d5c5-441e-467f-906c-bcb1196fa0af">
--->
-![ascii-text-art](https://github.com/zelhajou/42-cursus/assets/39954629/61f52082-1676-42f0-a7fa-0759ffd97884)
 
+![ascii-text-art](https://github.com/zelhajou/42-cursus/assets/39954629/61f52082-1676-42f0-a7fa-0759ffd97884)
+-->
 
 ## 42-cursus
 
@@ -115,3 +115,4 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [42tools](https://www.42tools.me/subjects/index.html)
 - [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
