@@ -116,3 +116,4 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
