@@ -117,3 +117,4 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
