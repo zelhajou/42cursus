@@ -118,3 +118,4 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+- [Developer Handbook](https://github.com/apptension/developer-handbook)
