@@ -73,9 +73,11 @@ The table below presents the 42cursus curriculum in the chronological order in w
 |09	| [Minishell](https://github.com/zelhajou/42-minishell) | A custom shell program emulating basic bash functionalities|C| ✅  101 |
 |10	| [Exam_rank_03](#) | An exam designed to assess your programming skills and knowledge. |C| ✅  100 |
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|11	| Net_practice | A project focused on practicing networking concepts and protocols. | Networking, Protocols | 🚧 In Progress |
+|11	| [Net_practice](https://github.com/zelhajou/42-net_practice) | A project focused on practicing networking concepts and protocols. | Networking, Protocols | ✅  100 |
+| 12     | [cub3d]() | A 3D graphical representation of a maze using raycasting techniques | C | 🚧 In Progres |
 
 
+<!-- 🚧 In Progres -->
 ## Skills
 
 ### Hard-skills
