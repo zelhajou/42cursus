@@ -23,12 +23,9 @@ This repository contains my projects developed at <a href="https://1337.ma/en/">
 	<a href="#projects">Projects</a> •
 	<a href="#skills">Skills</a> •
 	<a href="#bookshelf">Bookshelf</a> •
-	<a href="#my-articles">Blog</a> •
+	<a href="#blog">Blog</a> •
 	<a href="#useful-links">Useful links</a>
-
 </p>
-
-
 
 ## About
 
@@ -36,7 +33,6 @@ This repository contains my projects developed at <a href="https://1337.ma/en/">
 no teachers, no classrooms, students learning from their fellow students (peer-to-peer learning), with a methodology that develops both computing and life skills. The 42cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42-piscine_c).
-
 
 ## Curriculum
 
@@ -75,6 +71,8 @@ The table below presents the 42cursus curriculum in the chronological order in w
 |:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
 |11	| [Net_practice](https://github.com/zelhajou/42-net_practice) | A project focused on practicing networking concepts and protocols. | Networking, Protocols | ✅  100 |
 | 12     | [cub3d]() | A 3D graphical representation of a maze using raycasting techniques | C | 🚧 In Progres |
+| 13     | CPP Module 00 | Introduction to C++ concepts and syntax | C++ | 🚧 In Progres |
+
 
 
 <!-- 🚧 In Progres -->
@@ -100,7 +98,6 @@ The table below presents the 42cursus curriculum in the chronological order in w
 | [Advanced Programming in the Linux Environment](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/advanced%20programming%20in%20the%20linux%20environment.pdf) | Explores advanced topics in Linux programming, offering insights into system calls, libraries, and techniques for efficient software development. |   <img src="https://github.com/zelhajou/42-cursus/assets/39954629/08f28684-3f19-46fa-a284-ce64141b1bd5" width="200"> |
 | [Operating System Concepts](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/Operating%20System%20Concepts%20(9th%2C2012_12).pdf)            | A classic textbook on operating system principles and concepts, providing a foundational understanding of OS design and functionality. |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/98c74ba3-665e-481d-828e-a492ec516fa3" width="200">  |
 | [Networking Essentials - A CompTIA Network+ N10-008 Textbook](https://github.com/zelhajou/42-net_practice/blob/main/Networking%20Essentials%20-%20A%20CompTIA%20Network%2B%20N10-008%20Textbook%20--%20Jeffrey%20S.%20Beasley%20Piyasat%20Nilkaew%20--%206%2C%202021%20--%20Pearson%20IT%20Certification.pdf) | Provides comprehensive coverage of essential networking concepts and technologies required for CompTIA Network+ certification exam N10-008. Authored by Jeffrey S. Beasley and Piyasat Nilkaew, this textbook offers detailed explanations and practical examples to help readers understand networking fundamentals.| <img src="https://github.com/zelhajou/42-cursus/assets/39954629/54e56797-b95e-490e-ac31-9a7f2d818f9e" width="200">  |
-
 
 
 <!-- ## My 42 stats
