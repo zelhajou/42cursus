@@ -1,14 +1,7 @@
-<!--
-<img width="1105" alt="Screen Shot 2023-12-20 at 1 49 38 PM" src="https://github.com/zelhajou/42-cursus/assets/39954629/7373d5c5-441e-467f-906c-bcb1196fa0af">
-
-![ascii-text-art](https://github.com/zelhajou/42-cursus/assets/39954629/61f52082-1676-42f0-a7fa-0759ffd97884)
--->
-
 ## 42-cursus
 
 This repository contains my projects developed at <a href="https://1337.ma/en/">1337</a> programming school for the <a href="https://42.fr/en/homepage/">42</a> Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
 
-<br>
 <br>
 
 <div align="center">
@@ -85,6 +78,12 @@ The table below presents the 42cursus curriculum in the chronological order in w
 **Teamwork:** Some projects must or should be developed in groups, which promotes collaborative work among cadets. The major challenge here is to equalize the different knowledge levels while finding a common work methodology that allows all team members to contribute to the project.
 
 **Time management and resiliency:** The school is open 24/7. Thus, the cadets are free to work whenever they want, which demands excellent time management skills and resiliency for not "drowning" amid the massive load of work demanded by the program.
+
+
+## My 42 stats
+
+[![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
+
  
 ## Bookshelf
 
@@ -94,32 +93,37 @@ The table below presents the 42cursus curriculum in the chronological order in w
 | [Advanced Programming in the Linux Environment](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/advanced%20programming%20in%20the%20linux%20environment.pdf) | Explores advanced topics in Linux programming, offering insights into system calls, libraries, and techniques for efficient software development. |  Computer System-level Programming |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/08f28684-3f19-46fa-a284-ce64141b1bd5" width="200"> |
 | [Operating System Concepts](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/Operating%20System%20Concepts%20(9th%2C2012_12).pdf)            | A classic textbook on operating system principles and concepts, providing a foundational understanding of OS design and functionality. |  Computer System-level Programming |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/98c74ba3-665e-481d-828e-a492ec516fa3" width="200">  |
 | [Networking Essentials - A CompTIA Network+ N10-008 Textbook](https://github.com/zelhajou/42-net_practice/blob/main/Networking%20Essentials%20-%20A%20CompTIA%20Network%2B%20N10-008%20Textbook%20--%20Jeffrey%20S.%20Beasley%20Piyasat%20Nilkaew%20--%206%2C%202021%20--%20Pearson%20IT%20Certification.pdf) | Provides comprehensive coverage of essential networking concepts and technologies required for CompTIA Network+ certification exam N10-008. Authored by Jeffrey S. Beasley and Piyasat Nilkaew, this textbook offers detailed explanations and practical examples to help readers understand networking fundamentals.| Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/54e56797-b95e-490e-ac31-9a7f2d818f9e" width="200">  |
+| Computer Networks - A Tanenbaum - 5th edition | A comprehensive textbook on computer networking, authored by Andrew S. Tanenbaum, covering a wide range of networking topics including protocols, architectures, and applications. | Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/6141d72a-e655-429d-84f8-c0bd06f42709" width="200">  |
 
-## My 42 stats
 
-[![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
 
 ## Blog
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
 
+## cheat sheets
+
+- [C-cheat_sheet](https://github.com/zelhajou/C-cheat_sheet)
+- [CPP-cheat_sheet](https://github.com/zelhajou/CPP-cheat_sheet)
+- [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
+
+
+
 ## Useful links
 
+42:
 - [codequoi](https://www.codequoi.com/en/home-english/)
 - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 - [42 cursus gitbook](https://42-cursus.gitbook.io/guide/)
 - [42-resources](https://github.com/jotavare/42-resources)
 - [42tools](https://www.42tools.me/subjects/index.html)
+
+Other:
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
 
----
-
-- [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
-- [C-cheat_sheet](https://github.com/zelhajou/C-cheat_sheet)
-- [CPP-cheat_sheet](https://github.com/zelhajou/CPP-cheat_sheet)
 
 
