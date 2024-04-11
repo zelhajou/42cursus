@@ -1,0 +1,4 @@
+- Virtualization Concepts
+- Kernel-based Virtual Machine (KVM/QEMU)
+- Containers (Docker, Podman, LXC)
+- VirtualBox
