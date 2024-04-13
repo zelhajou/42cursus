@@ -1,0 +1,175 @@
+/* Initial reset */
+
+body {
+  box-sizing: border-box;
+  font-size: 16px;
+  width: 100vw;
+  height: 100dvh;
+  background-color: #62272d;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+  /*outline: 1px dashed blue; /* Debugging purposes */
+}
+
+.conatiner {
+  width: 100vw;
+  height: 100dvh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: stretch;
+  gap: 30px;
+  padding: 20px;
+}
+
+.left-nav, .chat-nav, .friends-nav{
+  display: flex;
+  flex-direction: column;
+  background-color: #361518;
+  width: 80px;
+  height: 100%;
+  justify-content: space-between;
+  padding: 20px;
+  border-radius: 28px;
+  align-items: center;
+}
+
+.left-nav > div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  gap: 30px;
+}
+
+div > .icon-list {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.icon-list > li {
+  list-style: none;
+  cursor: pointer;
+}
+
+icon-list > li > img {
+  color: white;
+  stroke: white;
+  fill: white;
+  border-color: white;
+}
+
+.logo {
+  height: 25px;
+  width: 25px;
+  background-color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.logo::before {
+  content: "";
+  position: absolute;
+  top: -5px;
+  left: 18px;
+  height: 30px;
+  width: 5px;
+  rotate: -40deg;
+  background-color: #361518;
+}
+
+.logo::after {
+  content: "";
+  position: absolute;
+  top: -5px;
+  left: 10px;
+  height: 50px;
+  width: 5px;
+  rotate: -40deg;
+  background-color: #361518;
+  overflow: hidden;
+}
+
+button {
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  border: 2px dashed #bf3f3f;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+
+button::after {
+  content: "";
+  width: 50%;
+  height: 50%;
+  background-color: #bf3f3f;
+  border-radius: 50px;
+  box-shadow: 0px 0px 35px 6px #bf3f3f;
+}
+
+button::before {
+  content: "+";
+  font-size: 18px;
+  color: white;
+  position: absolute;
+}
+
+
+.right-nav {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	gap: 20px;
+	height: 100%;
+}
+
+.friends-nav {
+	height: 180%;
+}
+
+main {
+	display: flex;
+	align-items: ;
+	flex-direction: column;
+	margin-top: 4px;
+	gap: 6px;
+  width: 100%;
+}
+
+main > nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 38px;
+	background-color: aliceblue;
+}
+
+
+.user-name {
+	display: flex;
+	align-items: flex-end;
+	text-align: center;
+	gap: 4px;
+}
+
+.user-name > h1 {
+	font-size: 14px;
+}
+h1 {
+	font-size: px;
+}
+

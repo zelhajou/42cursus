@@ -32,6 +32,3 @@ Modularity and organization are fundamental principles in programming that help 
 
 
 - ## [[Libraries and frameworks]]
-
-- ## [[Header Files]] (C)
-
