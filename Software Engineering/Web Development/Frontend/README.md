@@ -1,7 +1,5 @@
 # frontend_world
 
-
-
 ## Tools
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
