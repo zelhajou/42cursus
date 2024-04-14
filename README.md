@@ -94,18 +94,9 @@ The table below presents the 42cursus curriculum in the chronological order in w
 | Computer Networks - A Tanenbaum - 5th edition | A comprehensive textbook on computer networking, authored by Andrew S. Tanenbaum, covering a wide range of networking topics including protocols, architectures, and applications. | Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/6141d72a-e655-429d-84f8-c0bd06f42709" width="200">  |
 | UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API | A classic reference on UNIX network programming, authored by W. Richard Stevens, offering in-depth coverage of the Sockets API and various networking concepts on UNIX-based systems | Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/9e14fd69-a5c7-46cb-9042-e1cb6a401f44" width="200"> |
 
-
 ## Blog
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
-
-## Cheat sheets
-
-- [C-cheat_sheet](https://github.com/zelhajou/C-cheat_sheet)
-- [CPP-cheat_sheet](https://github.com/zelhajou/CPP-cheat_sheet)
-- [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
-
-
 
 ## Useful links
 
@@ -115,6 +106,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [42 cursus gitbook](https://42-cursus.gitbook.io/guide/)
 - [42-resources](https://github.com/jotavare/42-resources)
 - [42tools](https://www.42tools.me/subjects/index.html)
+- [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
 
 Other:
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
