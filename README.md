@@ -16,8 +16,8 @@ This repository contains my projects developed at <a href="https://1337.ma/en/">
 	<a href="#projects">Projects</a> •
 	<a href="#skills">Skills</a> •
 	<a href="#bookshelf">Bookshelf</a> •
-	<a href="#blog">Blog</a> •
-	<a href="#useful-links">Useful links</a>
+	<a href="#writing">Writing</a> •
+	<a href="#bookmarks">Bookmarks</a>
 </p>
 
 ## About
@@ -69,7 +69,15 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 ### Hard-skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,bash,git)](https://skillicons.dev)
+- Low-Level Programming
+- Algorithms And Data Structures
+- C/C++ (Programming Language)
+- Virtualization
+- Shell Scripting
+- Version Control
+- Computer Networking
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,bash,git,vscode,vim,emacs,md,github,figma)](https://skillicons.dev)
 
 ### Soft-skills
 
@@ -79,8 +87,6 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 ## Tech stack
 
-### Dev & Design
-[![Dev & Design](https://skillicons.dev/icons?i=vscode,replit,vim,emacs,md,github,figma)](https://skillicons.dev)
 
 ### Apps
 [![Apps](https://skillicons.dev/icons?i=discord,obsidian)](https://skillicons.dev)
@@ -103,13 +109,13 @@ The table below presents the 42cursus curriculum in the chronological order in w
 | Computer Networks - A Tanenbaum - 5th edition | A comprehensive textbook on computer networking, authored by Andrew S. Tanenbaum, covering a wide range of networking topics including protocols, architectures, and applications. | Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/6141d72a-e655-429d-84f8-c0bd06f42709" width="200">  |
 | UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API | A classic reference on UNIX network programming, authored by W. Richard Stevens, offering in-depth coverage of the Sockets API and various networking concepts on UNIX-based systems | Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/9e14fd69-a5c7-46cb-9042-e1cb6a401f44" width="200"> |
 
-## Blog
+## Writing
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
 
 
 
-## Useful links
+## Bookmarks
 
 42:
 - [codequoi](https://www.codequoi.com/en/home-english/)
