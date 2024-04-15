@@ -77,7 +77,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - **Teamwork:** Some projects must or should be developed in groups, which promotes collaborative work among cadets. The major challenge here is to equalize the different knowledge levels while finding a common work methodology that allows all team members to contribute to the project.
 - **Time management and resiliency:** The school is open 24/7. Thus, the cadets are free to work whenever they want, which demands excellent time management skills and resiliency for not "drowning" amid the massive load of work demanded by the program.
 
-## Tack stack
+## Tech stack
 
 ### Dev & Design
 [![Dev & Design](https://skillicons.dev/icons?i=vscode,replit,vim,emacs,md,github,figma)](https://skillicons.dev)
