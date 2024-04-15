@@ -43,26 +43,26 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 ## Projects
 
-|CIRCLE	|PROJECT	| DESCRIPTION |TECHNOLOGY	|STATUS	|
-|:-:	|:--		|:--	|:--				|:-:	|
-|00	|[Libft](https://github.com/zelhajou/42-libft)| A library of useful C functions	|C	|✅ 122 	|
-|:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|01	|[Ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C|✅  100 |
-|02	|[Born2beroot](https://github.com/zelhajou/42-Born2beRoot)| A project on Virtualization basics 	|VM, debian|✅  108|
-|03	|[Get_next_line](https://github.com/zelhajou/42-get_next_line)| A function that reads a file line-by-line 	|C|✅  125|
-|:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:|
-|04	|[Push_swap](https://github.com/zelhajou/42-push_swap)| A program that sorts a stack of numbers using a minimal set of operations |C|✅ 125|
-|05	|[Minitalk](https://github.com/zelhajou/42-minitalk)| A communication program that uses UNIX signals to exchange data between a client and a server. |C| ✅  100|
-|06	|[Fractol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |C| ✅  100 |
-|07	|[Exam_rank_02](https://github.com/users/zelhajou/projects/13/views/1)| An exam designed to assess your programming skills and knowledge.  |C| ✅  100 |
-|:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|08	|[Philosophers](https://github.com/zelhajou/42-Philosophers)| Simulation of the Dining Philosophers problem using threads and mutexes |C| ✅  100 |
-|09	| [Minishell](https://github.com/zelhajou/42-minishell) | A custom shell program emulating basic bash functionalities|C| ✅  101 |
-|10	| [Exam_rank_03](#) | An exam designed to assess your programming skills and knowledge. |C| ✅  100 |
-|:dizzy:|	:dizzy:	|	:dizzy:	|	:dizzy:	|:dizzy:	|:dizzy:	|
-|11	| [Net_practice](https://github.com/zelhajou/42-net_practice) | A project focused on practicing networking concepts and protocols. | Networking, Protocols | ✅  100 |
-| 12     | [cub3d]() | A 3D graphical representation of a maze using raycasting techniques | C | 🚧 In Progres |
-| 13     | CPP Module 00 | Introduction to C++ concepts and syntax | C++ | 🚧 In Progres |
+|CIRCLE	|PROJECT	|DESCRIPTION	|KEY TAKEAWAYS	|TECHNOLOGY	|STATUS	|
+|:-:	|:--		|:--		|:--		|:--		|:-:	|
+|00	|[Libft](https://github.com/zelhajou/42-libft)| A library of useful C functions	|Basics of C programming, data structures	|C |✅ 122 	|
+|:dizzy:|	:dizzy:	|	:dizzy:	|:dizzy:	|	:dizzy:	|:dizzy:	|
+|01	|[Ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C string formatting, variadic functions |C | ✅  100 |
+|02	|[Born2beroot](https://github.com/zelhajou/42-Born2beRoot)| A project on Virtualization basics |Virtualization, Linux basics |VM, debian |✅  108|
+|03	|[Get_next_line](https://github.com/zelhajou/42-get_next_line)| A function that reads a file line-by-line |File I/O, memory management |C |✅  125|
+|:dizzy:|	:dizzy:	|	:dizzy:	|:dizzy:	|	:dizzy:	|:dizzy:	|
+|04	|[Push_swap](https://github.com/zelhajou/42-push_swap)| A program that sorts a stack of numbers |Algorithm optimization, stack manipulation |C |✅ 125|
+|05	|[Minitalk](https://github.com/zelhajou/42-minitalk)| A communication program using UNIX signals |UNIX signals, inter-process communication |C | ✅  100|
+|06	|[Fractol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |Graphics programming, fractal mathematics |C | ✅  100 |
+|07	|[Exam_rank_02](https://github.com/users/zelhajou/projects/13/views/1)| Programming skills assessment |Problem-solving, time management |C | ✅  100 |
+|:dizzy:|	:dizzy:	|	:dizzy:	|:dizzy:	|	:dizzy:	|:dizzy:	|
+|08	|[Philosophers](https://github.com/zelhajou/42-Philosophers)| Dining Philosophers problem simulation |Concurrency, thread synchronization |C | ✅  100 |
+|09	| [Minishell](https://github.com/zelhajou/42-minishell) | Custom shell emulating bash |Shell scripting, process management |C | ✅  101 |
+|10	| [Exam_rank_03](#) | Programming skills assessment |Advanced programming concepts, debugging |C | ✅  100 |
+|:dizzy:|	:dizzy:	|	:dizzy:	|:dizzy:	|	:dizzy:	|:dizzy:	|
+|11	| [Net_practice](https://github.com/zelhajou/42-net_practice) | Networking concepts and protocols |Networking fundamentals, protocol analysis |Networking, Protocols | ✅  100 |
+|12	| [cub3d]() | 3D maze using raycasting |Graphics programming, raycasting |C | 🚧 In Progress |
+|13	| CPP Module 00 | Introduction to C++ |C++ basics, object-oriented programming |C++ | 🚧 In Progress |
 
 <!-- 🚧 In Progres -->
 ## Skills
