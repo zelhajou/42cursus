@@ -1,14 +1,8 @@
-## 42-cursus
+# 42-cursus
 
-This repository contains my projects developed at <a href="https://1337.ma/en/">1337</a> programming school for the <a href="https://42.fr/en/homepage/">42</a> Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
+This repository contains my projects developed at [1337](https://1337.ma/en/) programming school for the [42](https://42.fr/en/homepage/) Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
 
 <br>
-
-<div align="center">
-<!--
-[![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
--->
-</div>
 
 <p align="center">
 	<a href="#about">About</a> •
@@ -87,21 +81,18 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 ## Tech stack
 
-
 ### Apps
+
 [![Apps](https://skillicons.dev/icons?i=discord,obsidian)](https://skillicons.dev)
-
-
 
 ## My 42 stats
 
 [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
 
- 
 ## Bookshelf
 
-| **Name**                                 | **Description**                                                                                                           | **Category** | **Image** |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | 
+| **Name**| **Description**| **Category** | **Image** |
+| --------- | --------- | --------- | --------- | 
 |  [The Linux Programming Interface-Michael Kerrisk](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf)       | A comprehensive guide to system programming on the Linux platform by Michael Kerrisk. Covers system calls, libraries, and more. |  Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/e8ceb45e-9c83-47f0-a5f1-41cd01c0d642" width="200"> |
 | [Advanced Programming in the Linux Environment](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/advanced%20programming%20in%20the%20linux%20environment.pdf) | Explores advanced topics in Linux programming, offering insights into system calls, libraries, and techniques for efficient software development. |  Computer System-level Programming |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/08f28684-3f19-46fa-a284-ce64141b1bd5" width="200"> |
 | [Operating System Concepts](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/Operating%20System%20Concepts%20(9th%2C2012_12).pdf)            | A classic textbook on operating system principles and concepts, providing a foundational understanding of OS design and functionality. |  Computer System-level Programming |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/98c74ba3-665e-481d-828e-a492ec516fa3" width="200">  |
@@ -113,11 +104,10 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
 
-
-
 ## Bookmarks
 
 42:
+
 - [codequoi](https://www.codequoi.com/en/home-english/)
 - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 - [42 cursus gitbook](https://42-cursus.gitbook.io/guide/)
@@ -126,11 +116,9 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
 
 Other:
+
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
-
-
-
