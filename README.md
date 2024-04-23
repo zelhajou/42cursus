@@ -83,7 +83,9 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 ### Apps
 
-[![Apps](https://skillicons.dev/icons?i=discord,obsidian)](https://skillicons.dev)
+- [Discord](https://discord.com/) - Free communications app
+- [Obsidian](https://obsidian.md/) - Obsidian is the private and flexible note‑taking app that adapts to the way you think.
+- [Commander One](https://mac.eltima.com/file-manager.html) - Free file manager for Mac to replace Finder
 
 ## My 42 stats
 
