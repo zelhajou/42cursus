@@ -124,3 +124,9 @@ Other:
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
+
+## Music
+
+- [My Favorite Music](https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=43be812e860148c4) - Take a moment to listen to some of my favorite playlists. I hope you enjoy them as much as I do!
+- [Radiooooo](https://radiooooo.com/) -  A website that lets you explore music from different countries and decades.
+
