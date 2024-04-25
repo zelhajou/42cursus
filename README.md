@@ -128,7 +128,7 @@ Other:
 ## Music
 
 - [My Favorite Music](https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=43be812e860148c4) - Take a moment to listen to some of my favorite playlists. I hope you enjoy them as much as I do!
-- [My Gnawa plylist](https://www.youtube.com/playlist?list=PLzjH3XFHoi6jLbOxqwmOKibXFZKyoY7Iv)
+- [My Gnawa playlist](https://www.youtube.com/playlist?list=PLzjH3XFHoi6jLbOxqwmOKibXFZKyoY7Iv)
 - [Radiooooo](https://radiooooo.com/) -  A website that lets you explore music from different countries and decades.
 
 ## Contact
