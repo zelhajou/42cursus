@@ -130,3 +130,20 @@ Other:
 - [My Favorite Music](https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=43be812e860148c4) - Take a moment to listen to some of my favorite playlists. I hope you enjoy them as much as I do!
 - [Radiooooo](https://radiooooo.com/) -  A website that lets you explore music from different countries and decades.
 
+## Contact
+
+<a  href="mailto:zelhajou@gmail.com">
+   <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
+ </a>
+ <a href="https://www.linkedin.com/in/zelhajou/">
+   <img align="left" alt="Linkedin" width="18px" src="https://cdn.simpleicons.org/linkedin/000/fff" />
+ </a>
+ <a href="https://twitter.com/aaaikrz">
+   <img align="left" alt="Twitter" width="18px" src="https://cdn.simpleicons.org/x/000/fff" />
+ </a>
+ <a href="https://discord.com/users/aaaikrz">
+   <img align="left" alt="Discord" width="18px" src="https://cdn.simpleicons.org/discord/000/fff" />
+ </a>
+ <a href="https://t.me/aaaikrz">
+   <img align="left" alt="Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/000/fff" />
+ </a>
