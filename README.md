@@ -14,14 +14,14 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 	<a href="#bookmarks">Bookmarks</a>
 </p>
 
-## About 42
+## 🔄 About 42
 
 42 is a global education initiative that offers a new way of learning technology:
 no teachers, no classrooms, students learning from their fellow students (peer-to-peer learning), with a methodology that develops both computing and life skills. The 42cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42-piscine_c).
 
-## Curriculum
+## 📚 Curriculum
 
 **42cursus** comprises two groups of projects: the first one is known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
 
@@ -35,7 +35,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 </details>
 
-## Projects
+## 📋 Projects
 
 |CIRCLE	|PROJECT	|DESCRIPTION	|KEY TAKEAWAYS	|TECHNOLOGY	|STATUS	|
 |:-:	|:--		|:--		|:--		|:--		|:-:	|
@@ -59,7 +59,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 |13	| CPP Module 00 | Introduction to C++ |C++ basics, object-oriented programming |C++ | 🚧 In Progress |
 
 <!-- 🚧 In Progres -->
-## Skills
+##  🛠️ Skills
 
 ### Hard-skills
 
@@ -79,7 +79,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - **Teamwork:** Some projects must or should be developed in groups, which promotes collaborative work among cadets. The major challenge here is to equalize the different knowledge levels while finding a common work methodology that allows all team members to contribute to the project.
 - **Time management and resiliency:** The school is open 24/7. Thus, the cadets are free to work whenever they want, which demands excellent time management skills and resiliency for not "drowning" amid the massive load of work demanded by the program.
 
-## Tech stack
+## 💻 Tech stack
 
 ### Apps
 
@@ -87,11 +87,11 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [Obsidian](https://obsidian.md/) -  A private and flexible note‑taking app that adapts to the way you think.
 - [Commander One](https://mac.eltima.com/file-manager.html) - Free file manager for Mac to replace Finder
 
-## My 42 stats
+## 📊 My 42 stats
 
 [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
 
-## Bookshelf
+## 📚🛋️ Bookshelf
 
 | **Name**| **Description**| **Category** | **Image** |
 | --------- | --------- | --------- | --------- | 
@@ -102,11 +102,11 @@ The table below presents the 42cursus curriculum in the chronological order in w
 | Computer Networks - A Tanenbaum - 5th edition | A comprehensive textbook on computer networking, authored by Andrew S. Tanenbaum, covering a wide range of networking topics including protocols, architectures, and applications. | Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/6141d72a-e655-429d-84f8-c0bd06f42709" width="200">  |
 | UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API | A classic reference on UNIX network programming, authored by W. Richard Stevens, offering in-depth coverage of the Sockets API and various networking concepts on UNIX-based systems | Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/9e14fd69-a5c7-46cb-9042-e1cb6a401f44" width="200"> |
 
-## Writing
+##  📝 Writing
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
 
-## Bookmarks
+## 🔖 Bookmarks
 
 42:
 
@@ -125,13 +125,13 @@ Other:
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
 
-## Music
+## 🎧 Music
 
 - [My Favorite Music](https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=43be812e860148c4) - Take a moment to listen to some of my favorite playlists. I hope you enjoy them as much as I do!
 - [My Gnawa playlist](https://www.youtube.com/playlist?list=PLzjH3XFHoi6jLbOxqwmOKibXFZKyoY7Iv)
 - [Radiooooo](https://radiooooo.com/) -  A website that lets you explore music from different countries and decades.
 
-## Contact
+## 🤝 Contact
 
 <a  href="mailto:zelhajou@gmail.com">
    <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
