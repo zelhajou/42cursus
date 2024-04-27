@@ -2,4 +2,4 @@
 
 [Online Docker Training Course | KodeKloud](https://kodekloud.com/learning-path-devops-basics/)
 
-[[JIHAD FORMATION - Deployment]]
+[Github - devops-exercises](https://github.com/bregman-arie/devops-exercises)
