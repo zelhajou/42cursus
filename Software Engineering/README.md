@@ -1,15 +1,8 @@
 # software-engineering
  
 
-[[Software Development]]
-
-[[Software Development Methodologies]]
-
 
 [Software engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
-
-
-
 
 
 |-- Software Engineering
@@ -19,8 +12,6 @@
 |   |-- DevOps
 |   |-- Agile & Scrum
 |
-
-
 
 |-- Testing and Quality Assurance
 
