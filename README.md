@@ -118,6 +118,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 **[1337]**
 - https://iscsi-tools.1337.ma/
+- https://mail-students.1337.ma/SOGo/so/zelhajou@student.1337.ma/Mail/view#!/Mail/0/INBOX/1
 
 **[Github]**
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
