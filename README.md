@@ -108,8 +108,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 ## 🔖 Bookmarks
 
-42:
-
+**[42]**
 - [codequoi](https://www.codequoi.com/en/home-english/)
 - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 - [42 cursus gitbook](https://42-cursus.gitbook.io/guide/)
@@ -117,8 +116,10 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [42tools](https://www.42tools.me/subjects/index.html)
 - [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
 
-Other:
+**[1337]**
+- https://iscsi-tools.1337.ma/
 
+**[Github]**
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
