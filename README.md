@@ -118,9 +118,11 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 **[1337]**
 - https://iscsi-tools.1337.ma/
-- https://mail-students.1337.ma/SOGo/so/zelhajou@student.1337.ma/Mail/view#!/Mail/0/INBOX/1
+- https://mail-students.1337.ma/SOGo/
 
 **[Github]**
+- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
@@ -134,18 +136,18 @@ The table below presents the 42cursus curriculum in the chronological order in w
 
 ## 🤝 Contact
 
-<a  href="mailto:zelhajou@gmail.com">
+<a href="mailto:zelhajou@gmail.com">
    <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
- </a>
- <a href="https://www.linkedin.com/in/zelhajou/">
+</a>
+<a href="https://www.linkedin.com/in/zelhajou/">
    <img align="left" alt="Linkedin" width="18px" src="https://cdn.simpleicons.org/linkedin/000/fff" />
- </a>
- <a href="https://twitter.com/aaaikrz">
+</a>
+<a href="https://twitter.com/aaaikrz">
    <img align="left" alt="Twitter" width="18px" src="https://cdn.simpleicons.org/x/000/fff" />
- </a>
- <a href="https://discord.com/users/aaaikrz">
+</a>
+<a href="https://discord.com/users/aaaikrz">
    <img align="left" alt="Discord" width="18px" src="https://cdn.simpleicons.org/discord/000/fff" />
- </a>
- <a href="https://t.me/aaaikrz">
+</a>
+<a href="https://t.me/aaaikrz">
    <img align="left" alt="Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/000/fff" />
- </a>
+</a>
