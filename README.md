@@ -86,6 +86,11 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [Discord](https://discord.com/) - Free communications app
 - [Obsidian](https://obsidian.md/) -  A private and flexible note‑taking app that adapts to the way you think.
 - [Commander One](https://mac.eltima.com/file-manager.html) - Free file manager for Mac to replace Finder
+- [Replit](https://replit.com/) - Online IDE for coding
+- [tldraw](https://tldraw.com/) - A collaborative whiteboard tool
+- [Edge](https://www.microsoft.com/en-us/edge) - Web browser
+- [12ft.io](https://12ft.io/) - Remove popups, banners, and ads
+from any website.
 
 ## 📊 My 42 stats
 
