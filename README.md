@@ -156,3 +156,7 @@ from any website.
 <a href="https://t.me/aaaikrz">
    <img align="left" alt="Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/000/fff" />
 </a>
+<a href="https://www.instagram.com/aaaikrz/">
+   <img align="left" alt="Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/000/fff" />
+</a>
+
