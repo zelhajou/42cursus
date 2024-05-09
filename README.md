@@ -96,7 +96,7 @@ from any website.
 
 [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
 
-## 📚🛋️ Bookshelf
+## 📚🛋️ [Bookshelf](https://github.com/zelhajou/1337-Bookshelf)
 
 | **Name**| **Description**| **Category** | **Image** |
 | --------- | --------- | --------- | --------- | 
