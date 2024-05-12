@@ -154,6 +154,7 @@ from any website.
 ## 🎧 Music
 
 - [My Favorite Music](https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=43be812e860148c4) - Take a moment to listen to some of my favorite playlists. I hope you enjoy them as much as I do!
+- [Coding days](https://www.youtube.com/playlist?list=PLzjH3XFHoi6h4zT9JfqFUDAIyXpk02lyO) - A playlist of my favorite music to listen to while coding.
 - [Radiooooo](https://radiooooo.com/) -  A website that lets you explore music from different countries and decades.
 
 ## 🤝 Contact
