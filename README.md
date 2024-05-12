@@ -97,7 +97,14 @@ from any website.
 - [cppinsights](https://www.cppinsights.io/) - Online C++ code analysis tool
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor
 
-
+### Extensions
+- [42 Header](https://marketplace.visualstudio.com/items?itemName=42School.42header) - 42 header for C and C++ files
+- [42 ft count lines](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line) - Count lines of code in C and C++ files
+- [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display PDF files in Visual Studio Code
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
 ## 📊 My 42 stats
 
 [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
@@ -116,6 +123,10 @@ from any website.
 ##  📝 Writing
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
+
+**Other articles by other 42 students:**
+ 
+- [Jun Han Ng](https://hackmd.io/@nszl)
 
 ## 🔖 Bookmarks
 
