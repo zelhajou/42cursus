@@ -9,6 +9,8 @@
 
 ## Introduction
 
+C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes" (source: Wikipedia)
+
 <table>
 
 <tr>
@@ -130,3 +132,9 @@ int main() {
 
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)
 - [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+
+
+## Online editors
+
+- [cppinsights](https://www.cppinsights.io/)
+- [godbolt](https://www.godbolt.org/)

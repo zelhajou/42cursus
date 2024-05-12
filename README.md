@@ -86,11 +86,17 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [Discord](https://discord.com/) - Free communications app
 - [Obsidian](https://obsidian.md/) -  A private and flexible note‑taking app that adapts to the way you think.
 - [Commander One](https://mac.eltima.com/file-manager.html) - Free file manager for Mac to replace Finder
-- [Replit](https://replit.com/) - Online IDE for coding
 - [tldraw](https://tldraw.com/) - A collaborative whiteboard tool
 - [Edge](https://www.microsoft.com/en-us/edge) - Web browser
 - [12ft.io](https://12ft.io/) - Remove popups, banners, and ads
 from any website.
+
+### Editor
+- [Replit](https://replit.com/) - Online IDE for coding in multiple languages
+- [Godbolt](https://www.godbolt.org/) - Online compiler explorer
+- [cppinsights](https://www.cppinsights.io/) - Online C++ code analysis tool
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor
+
 
 ## 📊 My 42 stats
 
@@ -159,4 +165,6 @@ from any website.
 <a href="https://www.instagram.com/aaaikrz/">
    <img align="left" alt="Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/000/fff" />
 </a>
-
+<a href="https://www.youtube.com/channel/UCWc0bGsAyEes36f7uggxmUQ">
+   <img align="left" alt="Youtube" width="18px" src="https://cdn.simpleicons.org/youtube/000/fff" />
+</a>
