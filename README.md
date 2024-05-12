@@ -55,7 +55,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 |10	| [Exam_rank_03](#) | Programming skills assessment |Advanced programming concepts, debugging |C | ✅  100 |
 |:dizzy:|	:dizzy:	|	:dizzy:	|:dizzy:	|	:dizzy:	|:dizzy:	|
 |11	| [Net_practice](https://github.com/zelhajou/42-net_practice) | Networking concepts and protocols |Networking fundamentals, protocol analysis |Networking, Protocols | ✅  100 |
-|12	| [cub3d]() | 3D maze using raycasting |Graphics programming, raycasting |C | 🚧 In Progress |
+|12	| [cub3d](https://github.com/zelhajou/42-cub3D) | 3D maze using raycasting |Graphics programming, raycasting |C | ✅  115 |
 |13	| CPP Module 00 | Introduction to C++ |C++ basics, object-oriented programming |C++ | 🚧 In Progress |
 
 <!-- 🚧 In Progres -->
