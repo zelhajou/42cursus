@@ -137,7 +137,7 @@ from any website.
 
 ## 🔖 Bookmarks
 
-### 42
+#### 42
 
 - [42 Intra](https://profile.intra.42.fr/)
 - [42tools](https://www.42tools.me/subjects/index.html)
@@ -147,16 +147,16 @@ from any website.
 - [codequoi](https://www.codequoi.com/en/home-english/)
 - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 
-### 1337
+#### 1337
 
 - https://iscsi-tools.1337.ma/
 - https://mail-students.1337.ma/SOGo/
 
-### Cheatsheets
+#### Cheatsheets
 
 - [C](https://github.com/zelhajou/C-cheat_sheet)
 
-### Github Repositories
+#### Github Repositories
 
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
@@ -167,21 +167,21 @@ from any website.
 - [developer-handbook](https://github.com/apptension/developer-handbook)
 - [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 
-### AI prompts
+#### AI prompts
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts#-write-detailed-blogs)
 
-### General Resources**
+#### General Resources
 
 - [Developer Roadmap](https://roadmap.sh/)
 - [Devdocs](https://devdocs.io/)
 - [Devhints](https://devhints.io/)
 
-### Youtube Channels
+#### Youtube Channels
 
-### Blogs
+#### Blogs
 
 - [ML4Devs](https://www.ml4devs.com/) - Machine Learning for Developers
 
