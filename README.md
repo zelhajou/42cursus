@@ -32,7 +32,10 @@ The **inner circle** is the basic curriculum, with all projects being mandatory 
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
-![download (1)](https://github.com/zelhajou/42-cursus/assets/39954629/8a8bb646-d8f2-49fa-8b16-559d4cf432ab)
+![download (1)](https://github.com/zelhajou/42-cursus/assets/39954629/7df2085b-6c9e-4fb1-9d27-5c019ddabfb8)
+
+
+
 
 The table below presents the 42cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
