@@ -137,6 +137,7 @@ from any website.
 ## 🔖 Bookmarks
 
 **[42]**
+
 - [42 Intra](https://profile.intra.42.fr/)
 - [42tools](https://www.42tools.me/subjects/index.html)
 - [42-resources](https://github.com/jotavare/42-resources)
@@ -146,10 +147,12 @@ from any website.
 - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 
 **[1337]**
+
 - https://iscsi-tools.1337.ma/
 - https://mail-students.1337.ma/SOGo/
 
 **[Github Repos]**
+
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
@@ -157,8 +160,12 @@ from any website.
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
+
+**[AI Chat prompts]**
+
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts#-write-detailed-blogs)
 
 **[General Resources]**
 
