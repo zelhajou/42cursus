@@ -5,16 +5,16 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 <br>
 
 <p align="center">
-	<a href="#about">About 42</a> •
-	<a href="#curriculum">Curriculum</a> •
-	<a href="#projects">Projects</a> •
-	<a href="#skills">Skills</a> •
-	<a href="#tech-stack">Tech stack</a> •
-	<a href="#bookshelf">Bookshelf</a> •
-	<a href="#writing">Writing</a> •
-	<a href="#bookmarks">Bookmarks</a> •
-	<a href="#music">Music</a> •
-	<a href="#contact">Contact</a>
+	| <a href="#about">About 42</a> |
+	<a href="#curriculum">Curriculum</a> |
+	<a href="#projects">Projects</a> |
+	<a href="#skills">Skills</a> |
+	<a href="#tech-stack">Tech stack</a> |
+	<a href="#bookshelf">Bookshelf</a> |
+	<a href="#writing">Writing</a> |
+	<a href="#bookmarks">Bookmarks</a> |
+	<a href="#music">Music</a> |
+	<a href="#contact">Contact</a> |
 </p>
 
 ## 🔄 About 42
