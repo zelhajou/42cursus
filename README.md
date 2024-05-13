@@ -100,7 +100,7 @@ from any website.
 - [cppinsights](https://www.cppinsights.io/) - Online C++ code analysis tool
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor
 
-### Extensions
+### VS Code Extensions
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=42School.42header) - 42 header for C and C++ files
 - [42 ft count lines](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line) - Count lines of code in C and C++ files
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display PDF files in Visual Studio Code
@@ -134,18 +134,19 @@ from any website.
 ## 🔖 Bookmarks
 
 **[42]**
+- [42 Intra](https://profile.intra.42.fr/)
+- [42tools](https://www.42tools.me/subjects/index.html)
+- [42-resources](https://github.com/jotavare/42-resources)
+- [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
+- [42 cursus gitbook](https://42-cursus.gitbook.io/guide/)
 - [codequoi](https://www.codequoi.com/en/home-english/)
 - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
-- [42 cursus gitbook](https://42-cursus.gitbook.io/guide/)
-- [42-resources](https://github.com/jotavare/42-resources)
-- [42tools](https://www.42tools.me/subjects/index.html)
-- [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
 
 **[1337]**
 - https://iscsi-tools.1337.ma/
 - https://mail-students.1337.ma/SOGo/
 
-**[Repos]**
+**[Github Repos]**
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
@@ -155,6 +156,18 @@ from any website.
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
+**[General Resources]**
+
+- [Developer Roadmap](https://roadmap.sh/)
+- [Devdocs](https://devdocs.io/)
+- [Devhints](https://devhints.io/)
+
+**[Youtube Channels]**
+
+**[Blogs]**
+
+- [ML4Devs](https://www.ml4devs.com/) - Machine Learning for Developers
 
 ## 🎧 Music
 
