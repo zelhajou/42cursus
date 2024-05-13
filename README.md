@@ -22,7 +22,7 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 42 is a global education initiative that offers a new way of learning technology:
 no teachers, no classrooms, students learning from their fellow students (peer-to-peer learning), with a methodology that develops both computing and life skills. The 42cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
-\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42-piscine_c).
+\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zelhajou/42-piscine_c).
 
 ## 📚 Curriculum
 
