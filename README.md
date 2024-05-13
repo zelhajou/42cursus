@@ -22,7 +22,7 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 42 is a global education initiative that offers a new way of learning technology:
 no teachers, no classrooms, students learning from their fellow students (peer-to-peer learning), with a methodology that develops both computing and life skills. The 42cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
-\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zakelh6/42-piscine_c).
+\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zelhajou/42-piscine_c).
 
 ## 📚 Curriculum
 
@@ -32,7 +32,10 @@ The **inner circle** is the basic curriculum, with all projects being mandatory 
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
-![download (1)](https://github.com/zelhajou/42-cursus/assets/39954629/8a8bb646-d8f2-49fa-8b16-559d4cf432ab)
+![download (1)](https://github.com/zelhajou/42-cursus/assets/39954629/7df2085b-6c9e-4fb1-9d27-5c019ddabfb8)
+
+
+
 
 The table below presents the 42cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
