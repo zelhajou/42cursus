@@ -150,6 +150,7 @@ from any website.
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 ## 🎧 Music
 
