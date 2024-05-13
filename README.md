@@ -96,6 +96,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - [Edge](https://www.microsoft.com/en-us/edge) - Web browser
 - [12ft.io](https://12ft.io/) - Remove popups, banners, and ads
 from any website.
+- [TeraBox](https://terabox.com/) - Cloud storage service
 
 ### Editor
 - [Replit](https://replit.com/) - Online IDE for coding in multiple languages
