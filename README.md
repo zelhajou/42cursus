@@ -152,6 +152,10 @@ from any website.
 - https://iscsi-tools.1337.ma/
 - https://mail-students.1337.ma/SOGo/
 
+**[Cheatsheets]**
+
+- [C](https://github.com/zelhajou/C-cheat_sheet)
+
 **[Github Repos]**
 
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
@@ -176,6 +180,7 @@ from any website.
 - [Devhints](https://devhints.io/)
 
 **[Youtube Channels]**
+
 
 **[Blogs]**
 
