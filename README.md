@@ -159,10 +159,11 @@ from any website.
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
-- [Developer Handbook](https://github.com/apptension/developer-handbook)
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+- [developer-handbook](https://github.com/apptension/developer-handbook)
+- [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 
-**[AI Chat prompts]**
+**AI Chat prompts**
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
