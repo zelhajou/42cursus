@@ -128,10 +128,15 @@ int main() {
 }
 ```
 
-## Resources
+## References
+
+- [cppreference](www.cppreference.com)
+- [learncpp](https://www.learncpp.com/)
+- [cplusplus](http://www.cplusplus.com/)
 
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)
 - [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+
 
 
 ## Online editors

@@ -1,5 +1,4 @@
 
-```
 ## [[Programming Languages]]
 
 - ### Types of Languages
@@ -17,9 +16,3 @@
 - #### Object-Oriented
 
 - #### Functional
-
-- ### Popular Language Overviews
-
-- #### Python, JavaScript, Java, etc.
-
-```
