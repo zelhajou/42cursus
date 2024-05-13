@@ -142,7 +142,7 @@ from any website.
 - https://iscsi-tools.1337.ma/
 - https://mail-students.1337.ma/SOGo/
 
-**[Github]**
+**[Repos]**
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
@@ -151,6 +151,7 @@ from any website.
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ## 🎧 Music
 
