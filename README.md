@@ -141,6 +141,7 @@ from any website.
 
 - [42 Intra](https://profile.intra.42.fr/)
 - [42tools](https://www.42tools.me/subjects/index.html)
+- [find-peers](https://find-peers.codam.nl/Khouribga)
 - [42-resources](https://github.com/jotavare/42-resources)
 - [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
 - [42 cursus gitbook](https://42-cursus.gitbook.io/guide/)
