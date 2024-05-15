@@ -1,9 +1,6 @@
 # software-engineering
  
-
-
 [Software engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
-
 
 |-- Software Engineering
 |   |-- Software Design
