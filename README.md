@@ -9,9 +9,10 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 	<a href="#curriculum">Curriculum</a> |
 	<a href="#projects">Projects</a> |
 	<a href="#skills">Skills</a> |
-	<a href="#tech-stack">Tech stack</a> |
+	<a href="#tech-stack">Tech Stack</a> |
 	<a href="#bookshelf">Bookshelf</a> |
 	<a href="#writing">Writing</a> |
+	<a href="#cheatsheets">Cheatsheets</a> |
 	<a href="#bookmarks">Bookmarks</a> |
 	<a href="#music">Music</a> |
 	<a href="#contact">Contact</a> |
@@ -85,7 +86,7 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - **Teamwork:** Some projects must or should be developed in groups, which promotes collaborative work among cadets. The major challenge here is to equalize the different knowledge levels while finding a common work methodology that allows all team members to contribute to the project.
 - **Time management and resiliency:** The school is open 24/7. Thus, the cadets are free to work whenever they want, which demands excellent time management skills and resiliency for not "drowning" amid the massive load of work demanded by the program.
 
-## 💻 Tech stack
+## 💻 Tech Stack
 
 ### Apps
 
@@ -137,13 +138,9 @@ from any website.
 
 ## 📄 Cheatsheets
 
-- [Emacs](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/Emacs.md)
-- [Vim](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/VIM.md)
-- [Git](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Git.md)
-- [C](https://github.com/zelhajou/C-cheat_sheet)
-- [C++](https://github.com/zelhajou/42-cursus/tree/main/Computer%20Science/Programming%20Knowledge/Programming%20Languages/C%2B%2B)
-- [HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML)
-- [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS)
+- [Emacs](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/Emacs.md) | [Vim](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/VIM.md) | [Git](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Git.md)
+- [C](https://github.com/zelhajou/C-cheat_sheet) | [C++](https://github.com/zelhajou/42-cursus/tree/main/Computer%20Science/Programming%20Knowledge/Programming%20Languages/C%2B%2B)
+- [HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML) | [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS)
 
 ## 🔖 Bookmarks
 
