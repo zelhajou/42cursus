@@ -135,6 +135,15 @@ from any website.
 
 - [Jun Han Ng](https://hackmd.io/@nszl)
 
+## 📄 Cheatsheets
+
+- [Emacs](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/Emacs.md)
+- [Vim](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/VIM.md)
+- [C](https://github.com/zelhajou/C-cheat_sheet)
+- [HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML)
+- [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS)
+
+
 ## 🔖 Bookmarks
 
 #### 42
@@ -153,9 +162,6 @@ from any website.
 - https://iscsi-tools.1337.ma/
 - https://mail-students.1337.ma/SOGo/
 
-#### Cheatsheets
-
-- [C](https://github.com/zelhajou/C-cheat_sheet)
 
 #### Github Repositories
 
