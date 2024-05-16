@@ -16,7 +16,7 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
     <a href="#cheatsheets">Cheatsheets</a> |
     <a href="#bookmarks">Bookmarks</a> |
     <a href="#music">Music</a> |
-    <a href="#contact">Contact</a> |
+    <a href="#you-can-find-me-on">Contact</a>
 </p>
 
 ## 🔄 About 42
@@ -202,7 +202,7 @@ from any website.
 - [Radiooooo](https://radiooooo.com/) -  A website that lets you explore music from different countries and decades.
 - [Moroccan tapes](https://moroccantapes.com/) - A website that showcases Moroccan music from the 60s, 70s, and 80s.
 
-## 📫 Contact
+## You can find me on 🌍
 
 <a href="mailto:zelhajou@gmail.com">
     <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
@@ -222,6 +222,8 @@ from any website.
 <a href="https://www.instagram.com/aaaikrz/">
     <img align="left" alt="Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/000/fff" />
 </a>
+<a href="https://www.snapchat.com/add/aaaikrz">
+    <img align="left" alt="Snapchat" width="18px" src="https://cdn.simpleicons.org/snapchat/000/fff" />
 <a href="https://www.youtube.com/channel/UCWc0bGsAyEes36f7uggxmUQ">
     <img align="left" alt="Youtube" width="18px" src="https://cdn.simpleicons.org/youtube/000/fff" />
 </a>
@@ -231,4 +233,3 @@ from any website.
 <a href="https://www.soundcloud.com/aaaikrz">
     <img align="left" alt="Soundcloud" width="18px" src="https://cdn.simpleicons.org/soundcloud/000/fff" />
 </a>
-
