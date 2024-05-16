@@ -202,7 +202,7 @@ from any website.
 - [Radiooooo](https://radiooooo.com/) -  A website that lets you explore music from different countries and decades.
 - [Moroccan tapes](https://moroccantapes.com/) - A website that showcases Moroccan music from the 60s, 70s, and 80s.
 
-## 🤝 Contact
+## 📫 Contact
 
 <a href="mailto:zelhajou@gmail.com">
     <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
@@ -225,3 +225,10 @@ from any website.
 <a href="https://www.youtube.com/channel/UCWc0bGsAyEes36f7uggxmUQ">
     <img align="left" alt="Youtube" width="18px" src="https://cdn.simpleicons.org/youtube/000/fff" />
 </a>
+<a href="https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=05c72a19cd994cd7">
+    <img align="left" alt="Spotify" width="18px" src="https://cdn.simpleicons.org/spotify/000/fff" />
+</a>
+<a href="https://www.soundcloud.com/aaaikrz">
+    <img align="left" alt="Soundcloud" width="18px" src="https://cdn.simpleicons.org/soundcloud/000/fff" />
+</a>
+
