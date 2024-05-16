@@ -84,7 +84,7 @@ These are some of the skills I've developed during my time at 42.
 
 ## Stats
 
-[![zelhajou's 42 stats](https://badge42.herokuapp.com/api/stats/zelhajou)](
+These are some of my stats and achievements at 42.
 
 [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
 
