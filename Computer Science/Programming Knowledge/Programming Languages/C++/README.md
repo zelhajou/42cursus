@@ -253,64 +253,6 @@ Comments in C++ are used to document code and improve its readability. They are 
 
 C++ has a set of reserved keywords that have special meanings and cannot be used as identifiers (such as variable names, function names, or class names). These keywords are used to define the syntax and structure of the language and should not be used for other purposes.
 
-| Keyword     | Description |
-| ----------- | ----------- |
-| `auto`      | Specifies that the type of a variable should be automatically deduced from its initializer. |
-| `break`     | Exits a loop or switch statement. |
-| `case`      | Defines a case in a switch statement. |
-| `char`      | Declares a character type. |
-| `class`     | Defines a class. |
-| `const`     | Declares an object as constant. |
-| `continue`  | Skips the rest of a loop iteration. |
-| `default`   | Defines the default case in a switch statement. |
-| `delete`    | Deallocates memory allocated by `new`. |
-| `do`        | Starts a do-while loop. |
-| `double`    | Declares a double-precision floating-point type. |
-| `else`      | Specifies an alternative in an if-else statement. |
-| `enum`      | Declares an enumeration type. |
-| `explicit`  | Specifies that a constructor is explicit. |
-| `extern`    | Declares an external variable or function. |
-| `float`     | Declares a floating-point type. |
-| `for`       | Starts a for loop. |
-| `friend`    | Declares a function or class as a friend
-| `goto`      | Transfers control to a labeled statement. |
-| `if`        | Starts an if statement. |
-| `inline`    | Specifies that a function should be inlined. |
-| `int`       | Declares an integer type. |
-| `long`      | Declares a long integer type. |
-| `mutable`   | Specifies that a member of a class can be modified even if the object is const. |
-| `namespace` | Defines a namespace. |
-| `new`       | Allocates memory for an object. |
-| `operator`  | Declares an operator function. |
-| `private`   | Specifies that members of a class are private
-| `protected` | Specifies that members of a class are protected. |
-| `public`    | Specifies that members of a class are public. |
-| `register`  | Declares a register variable. |
-| `reinterpret_cast` | Converts a pointer to another type. |
-| `return`    | Exits a function and returns a value. |
-| `short`     | Declares a short integer type. |
-| `signed`    | Declares a signed integer type. |
-| `sizeof`    | Returns the size of a type or object. |
-| `static`    | Specifies that a variable or function is static. |
-| `static_cast` | Converts a value from one type to another. |
-| `struct`    | Defines a structure. |
-| `switch`    | Starts a switch statement. |
-| `template`  | Declares a template. |
-| `this`      | Pointer to the current object. |
-| `throw`     | Throws an exception. |
-| `try`       | Starts a block of code that can throw exceptions. |
-| `typedef`   | Defines a type alias. |
-| `typeid`    | Returns the type of an expression. |
-| `typename`  | Specifies that a name is a type. |
-| `union`     | Defines a union. |
-| `unsigned`  | Declares an unsigned integer type. |
-| `using`     | Specifies a namespace or type to be used. |
-| `virtual`   | Specifies that a function is virtual. |
-| `void`      | Declares a void type. |
-| `volatile`  | Specifies that a variable can be modified by external processes. |
-| `wchar_t`   | Declares a wide character type. |
-| `while`     | Starts a while loop. |
-
 [Keywords in C++ | List of all keywords in C++ ( Full Explanation )](https://www.scholarhat.com/tutorial/cpp/keywords-in-cpp)
 
 ## Data Types
