@@ -4,8 +4,7 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 
 <br>
 
-[About 42](#about-42) | 
-
+[About 42](#about-42) | [Curriculum](#curriculum) | [Projects](#projects) | [Skills](#skills) | [Stats](#stats) | [Bookshelf](#bookshelf) | [Articles](#articles) | [Study notes](#study-notes-and-cheat-sheets) | [Tech Stack](#tech-stack) | [Bookmarks](#bookmarks) | [Contact](#contact)
 ## About 42
 
 42 is a global education initiative that offers a new way of learning technology:
@@ -23,7 +22,7 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 <details>
 
-<summary><b>Click to expand the 42 Holy Graph</b>></summary>
+<summary><b>Click to expand the 42 Holy Graph</b></summary>
 
 ![42 Holy Graph](https://github.com/zelhajou/42-cursus/assets/39954629/7df2085b-6c9e-4fb1-9d27-5c019ddabfb8)
 
@@ -91,6 +90,8 @@ These are some of the skills I've developed during my time at 42.
 
 ## [Bookshelf](https://github.com/zelhajou/1337-Bookshelf)
 
+These are some of the books I've read or plan to read to deepen my knowledge in computer science, programming, and other subjects.
+
 | **Name**| **Description**| **Category** | **Image** |
 | --------- | --------- | --------- | --------- |
 |  [The Linux Programming Interface-Michael Kerrisk](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf)       | A comprehensive guide to system programming on the Linux platform by Michael Kerrisk. Covers system calls, libraries, and more. |  Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/e8ceb45e-9c83-47f0-a5f1-41cd01c0d642" width="200"> |
@@ -106,7 +107,7 @@ These are some of the articles I've written about programming, computer science,
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
 
-**Other Articles by other 42 students:**
+**Articles by other 42 students:**
 
 - [Jun Han Ng](https://hackmd.io/@nszl)
 
@@ -119,8 +120,6 @@ These are some of the study notes and cheat sheets I've created to help me learn
 - [HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML) | [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS)
 
 ## Tech Stack
-
-These are some of the technologies I've worked with during my time at 42.
 
 ### Apps
 
@@ -152,7 +151,9 @@ from any website.
 
 ## Bookmarks
 
-### 42
+These are some of the websites I've bookmarked for 42-related resources, programming tools, and other useful information.
+
+### 42 Resources
 
 - [42 Intra](https://profile.intra.42.fr/) - 42's intranet
 - [42tools](https://www.42tools.me/subjects/index.html) - 42's tools and resources
@@ -163,12 +164,12 @@ from any website.
 - [codequoi](https://www.codequoi.com/en/home-english/)
 - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 
-### 1337
+### 1337 Resources
 
 - <https://iscsi-tools.1337.ma/> - iSCSI tools
 - <https://mail-students.1337.ma/SOGo/> - 1337 webmail
 
-### Github Repositories
+### Github Repositories and Gists
 
 - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - A collection of resources for learning low-level programming
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer
@@ -179,26 +180,27 @@ from any website.
 - [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - A collection of resources for developers
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 
-### AI prompts
+### AI prompts and Chatbot Resources
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - A curated list of awesome chatbot prompts
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - A guide to prompt engineering
 - [dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts#-write-detailed-blogs) - A collection of prompts for training chatbots
 
-### General Resources
+### General Resources 
 
 - [Developer Roadmap](https://roadmap.sh/) - Roadmap for web developers
 - [Devdocs](https://devdocs.io/) - A collection of API documentation
 - [Devhints](https://devhints.io/) - A collection of cheatsheets for web developers
 
-### Youtube Channels
+### Youtube Channels and Podcasts
 
-### Blogs
+### Blogs and Newsletters
 
 - [ML4Devs](https://www.ml4devs.com/) - Machine Learning for Developers
 
-## Music
+## Music and Playlists
 
+Here are some of my favorite music and playlists to listen to while coding or relaxing.
 
 - [Coding days](https://www.youtube.com/playlist?list=PLzjH3XFHoi6h4zT9JfqFUDAIyXpk02lyO) - A playlist of my favorite music to listen to while coding.
 - [My Favorite Music](https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=43be812e860148c4) - Take a moment to listen to some of my favorite playlists. I hope you enjoy them as much as I do!
