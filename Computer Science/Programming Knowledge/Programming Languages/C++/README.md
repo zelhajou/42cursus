@@ -430,27 +430,15 @@ Control structures in C++ are used to alter the flow of a program based on certa
 
 - **try-catch Block**: `try { /* code */ } catch (exceptionType e) { /* handler code */ }`
 
-## Short-circuit Evaluation
-
-- **Short-circuit Evaluation of Logical Operators**: `if (x != nullptr && *x > 0) { /* code */ }`
-
-## Conditional Compilation
+### Conditional Compilation
 
 - **Conditional Compilation**: `#ifdef`, `#ifndef`, `#endif`, `#if`, `#else`, `#elif`
 
-## Macros
+### Macros
 
 - **Define Macro**: `#define NAME value`
 - **Conditional Macro**: `#ifdef`, `#ifndef`, `#endif`
 
-## Range-based for Loop (C++11)
-
-- **Iterating Over Containers**: `for (auto element : container) { /* code */ }`
-
-## Using Statements
-
-- **Using Directives**: `using namespace std;`
-- **Using Declarations**: `using std::cout;`
 
 ## Basic Input/Output
 
@@ -636,7 +624,7 @@ Pointers and references are used in C++ to store memory addresses and access dat
 - **Shared Pointer**: `std::shared_ptr<type> ptr;`.
 - **Weak Pointer**: `std::weak_ptr<type> ptr;`.
 
-##
+
 
 ## Resources
 
