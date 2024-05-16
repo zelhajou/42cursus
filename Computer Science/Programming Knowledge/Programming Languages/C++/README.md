@@ -439,31 +439,6 @@ Control structures in C++ are used to alter the flow of a program based on certa
 - **Define Macro**: `#define NAME value`
 - **Conditional Macro**: `#ifdef`, `#ifndef`, `#endif`
 
-
-## Basic Input/Output
-
-- **Input**: Reading data from the user or external sources.
-
-```cpp
-int x;
-std::cin >> x; // Read an integer from the console
-```
-
-- **Output**: Displaying data to the user or external destinations.
-
-```cpp
-
-std::cout << "Hello, World!" << std::endl; // Print a message to the console
-```
-
-- **Formatted Output**: Specifying the format of output data.
-
-```cpp
-int x = 42;
-double y = 3.14;
-std::cout << "Value of x: " << x << ", Value of y: " << y << std::endl;
-```
-
 ## Command Line Arguments
 
 Command-line arguments are parameters passed to a program when it is executed from the command line. In C++, the `main()` function can accept command-line arguments as arguments.
@@ -623,6 +598,123 @@ Pointers and references are used in C++ to store memory addresses and access dat
 - **Unique Pointer**: `std::unique_ptr<type> ptr;`.
 - **Shared Pointer**: `std::shared_ptr<type> ptr;`.
 - **Weak Pointer**: `std::weak_ptr<type> ptr;`.
+
+## Input and Output
+
+Input and output operations in C++ are performed using the `iostream` library, which provides classes and objects for reading from and writing to the console, files, and other input/output devices.
+
+### Output (Printing)
+
+- **Standard Output Stream**: `std::cout`
+  - **Description**: Used for printing output to the console.
+  - **Example**:
+    ```cpp
+    #include <iostream>
+    int main() {
+        std::cout << "Hello, world!" << std::endl;
+        return 0;
+    }
+    ```
+- **Standard Error Stream**: `std::cerr`
+    - **Description**: Used for printing error messages to the console.
+    - **Example**:
+        ```cpp
+        #include <iostream>
+        int main() {
+            std::cerr << "Error: File not found!" << std::endl;
+            return 1;
+        }
+        ```
+- **Standard Log Stream**: `std::clog`
+    - **Description**: Used for printing log messages to the console.
+    - **Example**:
+        ```cpp
+        #include <iostream>
+        int main() {
+            std::clog << "Log: Program started" << std::endl;
+            return 0;
+        }
+        ```
+- **Formatting Output**: `std::setw`, `std::setprecision`, `std::fixed`, `std::scientific`
+    - **Description**: Used to format the output of numeric values.
+    - **Example**:
+        ```cpp
+        #include <iostream>
+        #include <iomanip>
+        int main() {
+            double pi = 3.14159;
+            std::cout << std::fixed << std::setprecision(2) << pi << std::endl;
+            return 0;
+        }
+        ```
+- **Output Manipulators**: `std::endl`, `std::setw`, `std::setfill`, `std::setprecision`
+    - **Description**: Used to control the formatting of output.
+    - **Example**:
+        ```cpp
+        #include <iostream>
+        #include <iomanip>
+        int main() {
+            int x = 42;
+            std::cout << std::setw(10) << std::setfill('*') << x << std::endl;
+            return 0;
+        }
+        ```
+### Input (Reading)
+
+- **Standard Input Stream**: `std::cin`
+    - **Description**: Used for reading input from the console.
+    - **Example**:
+        ```cpp
+        #include <iostream>
+        int main() {
+            int number;
+            std::cout << "Enter a number: ";
+            std::cin >> number;
+            std::cout << "You entered: " << number << std::endl;
+            return 0;
+        }
+        ```
+
+- **Reading Strings**: `std::getline`
+    - **Description**: Used to read a line of text from the console.
+    - **Example**:
+        ```cpp
+        #include <iostream>
+        #include <string>
+        int main() {
+            std::string name;
+            std::cout << "Enter your name: ";
+            std::getline(std::cin, name);
+            std::cout << "Hello, " << name << "!" << std::endl;
+            return 0;
+        }
+        ```
+- **Input Validation**: `std::cin.fail()`, `std::cin.clear()`, `std::cin.ignore()`
+    - **Description**: Used to handle input errors and clear the input buffer.
+    - **Example**:
+        ```cpp
+        #include <iostream>
+        int main() {
+            int number;
+            while (true) {
+                std::cout << "Enter a number: ";
+                std::cin >> number;
+                if (std::cin.fail()) {
+                    std::cin.clear();
+                    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+                    std::cout << "Invalid input. Please try again." << std::endl;
+                } else {
+                    std::cout << "You entered: " << number << std::endl;
+                    break;
+                }
+            }
+            return 0;
+        }
+        ```
+
+### File Input/Output
+
+
 
 
 
