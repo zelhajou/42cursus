@@ -102,65 +102,26 @@ Object-oriented, Generic programming, Metaprogramming, Exception handling, Stand
 
 </table>
 
-
 ## Table of Contents
 
 - [C++ Programming Language cheat sheet](#c-programming-language-cheat-sheet) 
   - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Why C++?](#why-c)
   - [Code Example](#code-example)
-  - [C vs C++](#c-vs-c)
   - [Installation and Setup](#installation-and-setup)
   - [Process of C++ Program execution](#process-of-c-program-execution)
   - [Hello World Program](#hello-world-program)
-	- [Header Files and Preprocessor Directives](#header-files-and-preprocessor-directives)
-	- [Comments](#comments)
-	- [Main Function](#main-function)
-	- [Output Statement](#output-statement)
-	- [Return Statement](#return-statement)
+    - [Header Files and Preprocessor Directives](#header-files-and-preprocessor-directives)
+    - [Comments](#comments)
+    - [Main Function](#main-function)
+    - [Output Statement](#output-statement)
+    - [Return Statement](#return-statement)
   - [keywords](#keywords)
   - [Operators](#operators)
   - [Control Structures](#control-structures)
   - [Functions](#functions)
-  - [Classes and Objects](#classes-and-objects)
   - [Data Types](#data-types)
   - [Resources](#resources)
-  - [Online editors](#online-editors)
 
-
-## Introduction
-
-- C++ is a powerful and versatile programming language that is widely used in the software development industry. Developed by Bjarne Stroustrup in the early 1980s, C++ is an extension of the C programming language with added features such as object-oriented programming (OOP) capabilities, generic programming support, and improved memory management.
-
-- One of the key features of C++ is its efficiency and performance. It allows low-level manipulation of memory through features like pointers, making it suitable for system programming and applications where performance is critical. At the same time, C++ provides high-level abstractions through OOP, enabling developers to organize and structure their code in a more modular and reusable way.
-
-- C++ has a rich standard library that provides a wide range of functions and data structures, allowing developers to accomplish various tasks without having to reinvent the wheel. Additionally, C++ supports multiple programming paradigms including procedural, object-oriented, and generic programming, giving developers the flexibility to choose the most appropriate approach for their projects.
-
-- C++ is used extensively in industries such as game development, system programming, embedded systems, finance, and high-performance computing. Its popularity stems from its combination of power, flexibility, and performance, making it a preferred choice for many developers and organizations worldwide.
-
-## Why C++?
-
-**Advantages**: of C++ C++ is extremely fast and has the power and extensibility to write large-scale programs and runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. Most famous software has their backbone in C++ and many programming languages depend on C++'s performance and reliability in their implementation [Examples include: JVM, JavaScript interpreters and Web frameworks]. C++ [a superset of C] is said to use static typing when type checking is performed during compile-time as opposed to run-time.
-
-**Limitation**: Some tasks can be implemented in C++, though not very quickly. For example: designing GUI screens for applications. Other programming languages like VB, Python have GUI design elements built into them. Therefore, they are better suited for GUI type of task.
-
-**Uses**: Used in the development of new programming languages [C#, Java, JavaScript, Perl, PHP, Python and Verilog], Apple Macintosh, PC running Windows, operating systems and Adobe Systems (like Photoshop, Acrobat etc), softwares for MRI machines, high-end CAD/CAM systems. C++ fully supports most important features of object-oriented programming including the four pillars of object-oriented development:
-- Encapsulation
-- Data hiding
-- Inheritance
-- Polymorphism
-
-<!-- 1. **Performance**: C++ allows for low-level memory manipulation and direct hardware access, making it highly efficient. This performance is crucial for applications where speed is paramount, such as real-time systems, game engines, and operating system.
-2. **Versatility**: C++ supports multiple programming paradigms including procedural, object-oriented, and generic programming. This versatility allows developers to choose the most suitable paradigm for their project, making C++ applicable in a wide range of domains.
-3. **Portability**: C++ code can be compiled and executed on various platforms, including Windows, macOS, Linux, and embedded systems. This portability makes C++ a practical choice for developing cross-platform applications and system software.
-4. **Scalability**: C++ is well-suited for developing large-scale applications due to its support for modular programming and powerful abstractions. With features like classes, templates, and namespaces, developers can organize and manage complex codebases effectively.
-6. **Compatibility with C**: C++ is largely compatible with C, allowing developers to leverage existing C libraries and codebases. This compatibility makes it easier to integrate C++ code with legacy systems and libraries.
-7. **Object-Oriented Programming**: C++ supports object-oriented programming (OOP) concepts such as classes, inheritance, polymorphism, and encapsulation. These features enable developers to create reusable and maintainable code, leading to improved productivity and code quality.
-8. **Support for low-level and high-level programming**: C++ provides low-level features like pointers and memory management, as well as high-level abstractions like classes and templates. This duality allows developers to write code at different levels of abstraction, depending on the requirements of the project.
-5. **Standard Library**: C++ comes with a rich standard library that provides a wide range of functions and data structures. This library simplifies common programming tasks and reduces the need for developers to write code from scratch.
-6. **Combination with C languages**: C++ can be used in conjunction with C languages, allowing developers to take advantage of the strengths of both languages. This combination is particularly useful for system programming, embedded systems, and performance-critical applications.
-7. **Community and Support**: C++ has a large and active community of developers who contribute to libraries, frameworks, and tools. This ecosystem provides abundant resources, documentation, and support for C++ programmers. -->
 
 ## Code Example
 
@@ -196,32 +157,6 @@ int main() {
     return 0;
 }
 ```
-
-## C vs C++
-
-- **C**:
-  - Procedural programming language
-  - Simple and minimalistic syntax
-  - No built-in support for classes and objects
-  - No exception handling
-  - No function overloading
-  - No operator overloading
-  - No templates
-  - No namespaces
-  - No references
-  - No standard template library (STL)
-
-- **C++**:
-  - Multi-paradigm programming language (procedural, object-oriented, generic)
-  - Complex syntax with additional features
-  - Built-in support for classes and objects
-  - Exception handling
-  - Function overloading
-  - Operator overloading
-  - Templates
-  - Namespaces
-  - References
-  - Standard template library (STL)
 
 ## Installation and Setup
 
@@ -264,8 +199,8 @@ Before you can start programming in C++, you need to set up your development env
 ```cpp
 #include <iostream> // Preprocessor directive to include the iostream header file
 int main() { // Main function directive
-	std::cout << "Hello, World!" << std::endl; // Output statement
-	return 0; // Return statement
+    std::cout << "Hello, World!" << std::endl; // Output statement
+    return 0; // Return statement
 }
 ```
 Save the above code in a file named `hello.cpp` and compile it using a C++ compiler. For example, if you are using GCC, you can compile the code with the following command:
@@ -395,7 +330,6 @@ Data types in C++ specify the type of data that a variable can hold. They define
   - **Arrays**: `int[]`, `char[]`, `double[]`
   - **References**: `int&`, `char&`, `double&`
   - **Functions**: `int(*)(int, int)`, `void(*)(int)`
-  - **Structures**: `struct`, `class`, `union`, `enum`
 
 - **User-Defined Data Types**: Data types that are defined by the user using classes, structures, and enumerations.
 
@@ -434,19 +368,19 @@ Data types in C++ specify the type of data that a variable can hold. They define
 
 - **Static Data Types**: Data types that are known at compile time and do not change during program execution. They are determined by the compiler based on the variable declaration.
 
+Example:
+```cpp
+int x = 42; // Static data type (int)
+```
+
 - **Dynamic Data Types**: Data types that are determined at runtime and can change during program execution. They are typically used in dynamically allocated memory and polymorphic programming.
 
-Example of static data type:
-
+Example:
 ```cpp
-int x = 5; // Static data type (integer)
+int *ptr = new int; // Dynamic data type (int*)
 ```
 
-Example of dynamic data type:
 
-```cpp
-int* ptr = new int(5); // Dynamic data type (pointer to integer)
-```
 
 ### Type Casting
 
@@ -516,185 +450,256 @@ Operators in C++ are symbols that perform specific operations on one or more ope
 
 - **Reference Operator**: `&` (reference operator)
 
-
 ## Control Structures
 
 Control structures in C++ are used to alter the flow of a program based on certain conditions or loops. They include if-else statements, switch statements, loops, and jump statements.
 
-- **If-Else Statement**: Executes a block of code based on a condition.
+### Conditional Statements
+
+- **if Statement**: `if (condition) { /* code */ }`
+- **if-else Statement**: `if (condition) { /* code */ } else { /* code */ }`
+- **Nested if Statements**: `if (condition1) { if (condition2) { /* code */ } }`
+
+### Switch Statement
+
+- **Switch Case**: `switch (expression) { case value1: /* code */ break; case value2: /* code */ break; default: /* code */ }`
+
+### Loops
+
+- **for Loop**: `for (initialization; condition; update) { /* code */ }`
+- **while Loop**: `while (condition) { /* code */ }`
+- **do-while Loop**: `do { /* code */ } while (condition);`
+
+### Jump Statements
+
+- **break Statement**: Exits loop or switch statement.
+- **continue Statement**: Skips current iteration of loop.
+- **return Statement**: Exits function and optionally returns a value.
+
+### Conditional Operator
+
+- **Ternary Operator**: `condition ? expression1 : expression2`
+
+### Control Flow
+
+- **Goto Statement**: `goto label;` (use sparingly, can lead to spaghetti code)
+
+### Exception Handling
+
+- **try-catch Block**: `try { /* code */ } catch (exceptionType e) { /* handler code */ }`
+
+## Short-circuit Evaluation
+
+- **Short-circuit Evaluation of Logical Operators**: `if (x != nullptr && *x > 0) { /* code */ }`
+
+## Conditional Compilation
+
+- **Conditional Compilation**: `#ifdef`, `#ifndef`, `#endif`, `#if`, `#else`, `#elif`
+
+## Macros
+
+- **Define Macro**: `#define NAME value`
+- **Conditional Macro**: `#ifdef`, `#ifndef`, `#endif`
+
+## Range-based for Loop (C++11)
+
+- **Iterating Over Containers**: `for (auto element : container) { /* code */ }`
+
+## Using Statements
+
+- **Using Directives**: `using namespace std;`
+- **Using Declarations**: `using std::cout;`
+
+## Basic Input/Output
+
+- **Input**: Reading data from the user or external sources.
 
 ```cpp
-if (condition) {
-	// Code to execute if the condition is true
-} else {
-	// Code to execute if the condition is false
+int x;
+std::cin >> x; // Read an integer from the console
+```
+
+- **Output**: Displaying data to the user or external destinations.
+
+```cpp
+
+std::cout << "Hello, World!" << std::endl; // Print a message to the console
+```
+
+- **Formatted Output**: Specifying the format of output data.
+
+```cpp
+int x = 42;
+double y = 3.14;
+std::cout << "Value of x: " << x << ", Value of y: " << y << std::endl;
+```
+
+## Command Line Arguments
+
+Command-line arguments are parameters passed to a program when it is executed from the command line. In C++, the `main()` function can accept command-line arguments as arguments.
+
+```cpp
+int main(int argc, char* argv[]) {
+    for (int i = 0; i < argc; i++) {
+        std::cout << "Argument " << i << ": " << argv[i] << std::endl;
+    }
+    return 0;
 }
 ```
-
-- **Switch Statement**: Executes different blocks of code based on the value of an expression.
-```cpp
-switch (expression) {
-	case value1:
-		// Code to execute if expression equals value1
-		break;
-	case value2:
-		// Code to execute if expression equals value2
-		break;
-	default:
-		// Code to execute if expression does not match any case
-}
-```
-
-- **While Loop**: Executes a block of code as long as a condition is true.
-```cpp
-while (condition) {
-	// Code to execute while the condition is true
-}
-```
-
-- **Do-While
-```cpp
-do {
-	// Code to execute at least once
-} while (condition);
-```
-
-- **For Loop**: Executes a block of code a specified number of times.
-```cpp
-for (initialization; condition; update) {
-	// Code to execute in each iteration
-}
-```
-
-- **Break Statement**: Exits a loop or switch statement.
-```cpp
-while (true) {
-	if (condition) {
-		break; // Exit the loop
-	}
-}
-```
-
-- **Continue Statement**: Skips the rest of a loop iteration.
-```cpp
-for (int i = 0; i < 10; i++) {
-	if (i % 2 == 0) {
-		continue; // Skip even numbers
-	}
-}
-```
-
-- **Goto Statement**: Transfers control to a labeled statement.
-```cpp
-goto label;
-// Code to skip
-label:
-// Code to execute
-```
-
-- **Return Statement**: Exits a function and returns a value.
-```cpp
-int add(int a, int b) {
-	return a + b;
-}
-```
-
+the `argc` parameter is an integer that represents the number of command-line arguments passed to the program, and `argv` is an array of strings that contains the actual arguments.
 
 ## Functions
 
 Functions in C++ are blocks of code that perform a specific task. They are defined using a return type, name, parameters, and a body of code. Functions can be standalone or part of a class (member functions).
 
-- **Function Declaration**: Specifies the name, return type, and parameters of a function.
-```cpp
-int add(int a, int b);
-```
+### Function Basics
 
-- **Function Definition**: Implements the functionality of a function.
-```cpp
-int add(int a, int b) {
-	return a + b;
-}
-```
+- **Declaration**: `returnType functionName(parameters);`
+- **Definition**: `returnType functionName(parameters) { /* body */ }`
+- **Invocation**: `functionName(arguments);`
 
-- **Function Call**: Invokes a function with specified arguments.
-```cpp
-int sum = add(5, 3);
-```
+### Function Parameters
 
-- **Function Overloading**: Defines multiple functions with the same name but different parameters.
-```cpp
-int add(int a, int b);
-double add(double a, double b);
-```
+- **Pass by Value**: `void foo(int x);`
+- **Pass by Reference**: `void foo(int &x);`
+- **Pass by Pointer**: `void foo(int *x);`
 
-- **Default Arguments**: Specifies default values for function parameters.
-```cpp
-int add(int a, int b = 0);
-```
+### Return Types
 
-- **Function Prototypes**: Declares a function signature before its definition.
-```cpp
-int add(int a, int b);
-```
+- **Returning Value**: `return value;`
+- **Returning Void**: `return;`
 
-- **Recursion**: Calls a function from within itself.
-```cpp
-int factorial(int n) {
-	if (n == 0) {
-		return 1;
-	}
-	return n * factorial(n - 1);
-}
-```
+### Return Multiple Values
 
-- **Lambda Expressions**: Defines anonymous functions inline.
-```cpp
-auto sum = [](int a, int b) { return a + b; };
-```
-[Lambda expressions in modern C++ (in depth step by step tutorial)](https://youtu.be/MH8mLFqj-n8)
+- **Using References**: `void foo(int &result1, int &result2);`
 
-- **Function Pointers**: Stores the address of a function for dynamic invocation.
-```cpp
-int (*func)(int, int) = add;
-int result = func(5, 3);
-```
+### Function Overloading
 
-- **Inline Functions**: Expands the function code at the call site for performance.
-```cpp
-inline int add(int a, int b) {
-	return a + b;
-}
-```
+- **Multiple Functions with Same Name**: `void foo(int x);` `void foo(double x);`
 
-- **Function Templates**: Defines generic functions that work with any data type.
-```cpp
-template <typename T>
-T add(T a, T b) {
-	return a + b;
-}
-```
+### Default Arguments
 
-- **Recursive Lambda**: Defines a lambda function that calls itself.
+- **Specifying Default Values**: `void foo(int x, int y = 0);`
+
+### Inline Functions
+
+- **Inlining**: `inline returnType functionName(parameters) { /* body */ }`
+
+### Recursion
+
+- **Function Calling Itself**: `void recursiveFunc(int n) { if (n > 0) recursiveFunc(n-1); }`
+
+### Function Pointers
+
+- **Pointer to Function**: `returnType (*ptrName)(parameters);`
+
+### Lambda Expressions (C++11)
+
+- **Anonymous Functions**: `[capture](parameters) { /* body */ }`
+
+### Function Templates
+
+- **Generic Functions**: `template <typename T> void swap(T &a, T &b) { T temp = a; a = b; b = temp; }`
+
+### Function Objects
+
+A function object is an object that can be called like a function. It is a class that overloads the function call operator `operator()`. Function objects are also known as functors.
+
 ```cpp
-std::function<int(int)> factorial = [&](int n) {
-	if (n == 0) {
-		return 1;
-	}
-	return n * factorial(n - 1);
+class Add {
+public:
+    int operator()(int a, int b) {
+        return a + b;
+    }
 };
+
+int main() {
+    Add add;
+    int sum = add(5, 3);
+    std::cout << "Sum: " << sum << std::endl;
+    return 0;
+}
 ```
 
-## Classes and Objects
+### Variadic Functions (C++11)
 
+- **Functions with Variable Number of Arguments**: `void variadicFunc(int arg1, ...);`
 
+## Pointers and References
 
-## Data Types
+Pointers and references are used in C++ to store memory addresses and access data indirectly. They are essential for dynamic memory allocation, function calls, and efficient data manipulation.
+
+**Pointers**: is a variable that stores the memory address of another variable. It allows direct access to the memory location of a variable.
+
+**References**: is an alias for a variable that provides an alternative name for the same memory location. It allows indirect access to the variable.
+
+### Basics
+
+- **Declaration**: `type *ptr;`
+- **Initialization**: `int *ptr = &variable;`
+- **Dereferencing**: `*ptr` retrieves the value pointed to by `ptr`.
+- **Address-of Operator**: `&variable` gets the memory address of `variable`.
+
+### Pointer Arithmetic
+
+- **Increment/Decrement**: `ptr++`, `ptr--`.
+- **Arithmetic Operations**: `ptr + n`, `ptr - n`.
+
+### Dynamic Memory Allocation
+
+- **Allocation**: `type *ptr = new type;`
+- **Deallocation**: `delete ptr;`
+- **Array Allocation**: `type *arr = new type[size];`
+- **Array Deallocation**: `delete[] arr;`
+
+### Pointer and Arrays
+
+- **Array Name as Pointer**: Arrays decay into pointers to their first element.
+- **Accessing Array Elements**: `*(arr + i)` or `arr[i]`.
+
+### Pointers and Functions
+
+- **Passing Pointers to Functions**: `void foo(int *ptr)`.
+- **Returning Pointers from Functions**: `int* foo()`.
+- **Pointer to Functions**: `returnType (*ptrName)(parameters);`.
+
+### Pointer and Classes
+
+- **Pointer to Object**: `ClassName *ptr = new ClassName;`
+- **Accessing Members**: `ptr->member` or `(*ptr).member`.
+
+### Pointer to Pointer (Double Pointer)
+
+- **Declaration**: `type **ptr;`
+- **Initialization**: `type **ptr = &anotherPtr;`
+- **Use**: `**ptr` retrieves the value pointed to by another pointer.
+
+### Null Pointers
+
+- **Null Pointer**: `nullptr`.
+- **Checking Null Pointers**: `if (ptr == nullptr)`.
+
+### Pointer Casting
+
+- **Casting Pointers**: `type *ptr = reinterpret_cast<type*>(anotherPtr);`
+
+### Pointer and Const
+
+- **Constant Pointers**: `const type *ptr;` or `type *const ptr;`.
+- **Pointer to Constant**: `const int *ptr;` (value is constant, pointer is not) or `int *const ptr;` (pointer is constant, value is not).
+
+### Smart Pointers (C++11)
+
+- **Unique Pointer**: `std::unique_ptr<type> ptr;`.
+- **Shared Pointer**: `std::shared_ptr<type> ptr;`.
+- **Weak Pointer**: `std::weak_ptr<type> ptr;`.
+
+##
 
 ## Resources
 
 - [cppreference](www.cppreference.com)
 - [learncpp](https://www.learncpp.com/)
 - [cplusplus](http://www.cplusplus.com/)
-
 - [cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)
 - [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)

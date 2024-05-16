@@ -3,8 +3,6 @@
 
 ![[Von-Neumann-Architecture.svg]]
 
-
-
 Any computer system to be useful, it needs a **storage - storage for data**. A computer needs **primary storage** for any data. that it needs access quickly. this includes the start-up instructions the operating system, **Program** that are running and any associated data.
 
 There are tow main types of **Primary storage : RAM - ROM**

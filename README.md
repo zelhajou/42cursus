@@ -134,7 +134,7 @@ These are some of the study notes and cheat sheets I've created to help me learn
 
 - Text editors and version control ([Emacs](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/Emacs.md), [Vim](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/VIM.md),  [Git](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Git.md))
 -  Programming languages ([C](https://github.com/zelhajou/C-cheat_sheet), [C++](https://github.com/zelhajou/42-cursus/tree/main/Computer%20Science/Programming%20Knowledge/Programming%20Languages/C%2B%2B))
-- Frontend web development ([HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML), [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS))
+- [Frontend web development](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend) ([HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML), [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS))
 
 
 ## Tech Stack
