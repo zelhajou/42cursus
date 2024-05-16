@@ -16,7 +16,7 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
     <a href="#cheatsheets">Cheatsheets</a> |
     <a href="#bookmarks">Bookmarks</a> |
     <a href="#music">Music</a> |
-    <a href="#you-can-find-me-on">Contact</a>
+    <a href="#you-can-find-me-on-🌍">Contact</a>
 </p>
 
 ## 🔄 About 42
