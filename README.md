@@ -4,31 +4,16 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 
 <br>
 
-## Table of Contents
+[About 42](#about-42) | 
 
-- [About 42](#🔄-about-42)
-- [Curriculum](#📚-curriculum)
-- [Projects](#-projects)
-- [Skills](#%EF%B8%8F-skills)
-- [Tech Stack](#-tech-stack)
-- [My 42 stats](#-my-42-stats)
-- [Bookshelf](#-bookshelf)
-- [Writing](#-writing)
-- [Cheatsheets](#-cheatsheets)
-- [Bookmarks](#-bookmarks)
-- [Music](#-music)
-- [Contact](#-contact)
-
-    
-
-## 🔄 About 42
+## About 42
 
 42 is a global education initiative that offers a new way of learning technology:
 no teachers, no classrooms, students learning from their fellow students (peer-to-peer learning), with a methodology that develops both computing and life skills. The 42cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zelhajou/42-piscine_c).
 
-## 📚 Curriculum
+## Curriculum
 
 **42cursus** comprises two groups of projects: the first one is known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
 
@@ -36,13 +21,18 @@ The **inner circle** is the basic curriculum, with all projects being mandatory 
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
-![download (1)](https://github.com/zelhajou/42-cursus/assets/39954629/7df2085b-6c9e-4fb1-9d27-5c019ddabfb8)
+<details>
 
-The table below presents the 42cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
+<summary><b>Click to expand the 42 Holy Graph</b>></summary>
+
+![42 Holy Graph](https://github.com/zelhajou/42-cursus/assets/39954629/7df2085b-6c9e-4fb1-9d27-5c019ddabfb8)
 
 </details>
 
-## 📋 Projects
+
+## Projects
+
+The following table lists the projects I've completed as part of the 42 Cursus. Each project is linked to its repository, where you can find the project's description, requirements, and my implementation.
 
 |CIRCLE |PROJECT |DESCRIPTION |KEY TAKEAWAYS |TECHNOLOGY |STATUS |
 |:-: |:--  |:--  |:--  |:--  |:-: |
@@ -66,7 +56,9 @@ The table below presents the 42cursus curriculum in the chronological order in w
 |13 | CPP Module 00 | Introduction to C++ |C++ basics, object-oriented programming |C++ | 🚧 In Progress |
 
 <!-- 🚧 In Progres -->
-## 🛠️ Skills
+## Skills
+
+These are some of the skills I've developed during my time at 42.
 
 ### Hard-skills
 
@@ -91,7 +83,44 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - **Problem-solving:** The projects are designed to challenge the cadets' problem-solving skills, requiring them to think outside the box and find creative solutions to complex problems.
 - **Communication:** The peer-to-peer learning methodology requires cadets to communicate effectively with their peers, both to ask for help and to help others. This promotes the development of communication skills, which are essential in the workplace.
 
-## 💻 Tech Stack
+## Stats
+
+[![zelhajou's 42 stats](https://badge42.herokuapp.com/api/stats/zelhajou)](
+
+[![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
+
+## [Bookshelf](https://github.com/zelhajou/1337-Bookshelf)
+
+| **Name**| **Description**| **Category** | **Image** |
+| --------- | --------- | --------- | --------- |
+|  [The Linux Programming Interface-Michael Kerrisk](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf)       | A comprehensive guide to system programming on the Linux platform by Michael Kerrisk. Covers system calls, libraries, and more. |  Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/e8ceb45e-9c83-47f0-a5f1-41cd01c0d642" width="200"> |
+| [Advanced Programming in the Linux Environment](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/advanced%20programming%20in%20the%20linux%20environment.pdf) | Explores advanced topics in Linux programming, offering insights into system calls, libraries, and techniques for efficient software development. |  Computer System-level Programming |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/08f28684-3f19-46fa-a284-ce64141b1bd5" width="200"> |
+| [Operating System Concepts](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/Operating%20System%20Concepts%20(9th%2C2012_12).pdf)            | A classic textbook on operating system principles and concepts, providing a foundational understanding of OS design and functionality. |  Computer System-level Programming |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/98c74ba3-665e-481d-828e-a492ec516fa3" width="200">  |
+| [Networking Essentials - A CompTIA Network+ N10-008 Textbook](https://github.com/zelhajou/42-net_practice/blob/main/Networking%20Essentials%20-%20A%20CompTIA%20Network%2B%20N10-008%20Textbook%20--%20Jeffrey%20S.%20Beasley%20Piyasat%20Nilkaew%20--%206%2C%202021%20--%20Pearson%20IT%20Certification.pdf) | Provides comprehensive coverage of essential networking concepts and technologies required for CompTIA Network+ certification exam N10-008. Authored by Jeffrey S. Beasley and Piyasat Nilkaew, this textbook offers detailed explanations and practical examples to help readers understand networking fundamentals.| Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/54e56797-b95e-490e-ac31-9a7f2d818f9e" width="200">  |
+| Computer Networks - A Tanenbaum - 5th edition | A comprehensive textbook on computer networking, authored by Andrew S. Tanenbaum, covering a wide range of networking topics including protocols, architectures, and applications. | Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/6141d72a-e655-429d-84f8-c0bd06f42709" width="200">  |
+| UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API | A classic reference on UNIX network programming, authored by W. Richard Stevens, offering in-depth coverage of the Sockets API and various networking concepts on UNIX-based systems | Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/9e14fd69-a5c7-46cb-9042-e1cb6a401f44" width="200"> |
+
+## Articles
+
+These are some of the articles I've written about programming, computer science, and other topics.
+
+- [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
+
+**Other Articles by other 42 students:**
+
+- [Jun Han Ng](https://hackmd.io/@nszl)
+
+## Study notes and cheat sheets
+
+These are some of the study notes and cheat sheets I've created to help me learn and remember key concepts in computer science, programming, and other subjects.
+
+- [Emacs](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/Emacs.md) | [Vim](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/VIM.md) | [Git](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Git.md)
+- [C](https://github.com/zelhajou/C-cheat_sheet) | [C++](https://github.com/zelhajou/42-cursus/tree/main/Computer%20Science/Programming%20Knowledge/Programming%20Languages/C%2B%2B)
+- [HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML) | [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS)
+
+## Tech Stack
+
+These are some of the technologies I've worked with during my time at 42.
 
 ### Apps
 
@@ -121,36 +150,7 @@ from any website.
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
 
-## 📊 My 42 stats
-
-[![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
-
-## 📚🛋️ [Bookshelf](https://github.com/zelhajou/1337-Bookshelf)
-
-| **Name**| **Description**| **Category** | **Image** |
-| --------- | --------- | --------- | --------- |
-|  [The Linux Programming Interface-Michael Kerrisk](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf)       | A comprehensive guide to system programming on the Linux platform by Michael Kerrisk. Covers system calls, libraries, and more. |  Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/e8ceb45e-9c83-47f0-a5f1-41cd01c0d642" width="200"> |
-| [Advanced Programming in the Linux Environment](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/advanced%20programming%20in%20the%20linux%20environment.pdf) | Explores advanced topics in Linux programming, offering insights into system calls, libraries, and techniques for efficient software development. |  Computer System-level Programming |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/08f28684-3f19-46fa-a284-ce64141b1bd5" width="200"> |
-| [Operating System Concepts](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/Operating%20System%20Concepts%20(9th%2C2012_12).pdf)            | A classic textbook on operating system principles and concepts, providing a foundational understanding of OS design and functionality. |  Computer System-level Programming |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/98c74ba3-665e-481d-828e-a492ec516fa3" width="200">  |
-| [Networking Essentials - A CompTIA Network+ N10-008 Textbook](https://github.com/zelhajou/42-net_practice/blob/main/Networking%20Essentials%20-%20A%20CompTIA%20Network%2B%20N10-008%20Textbook%20--%20Jeffrey%20S.%20Beasley%20Piyasat%20Nilkaew%20--%206%2C%202021%20--%20Pearson%20IT%20Certification.pdf) | Provides comprehensive coverage of essential networking concepts and technologies required for CompTIA Network+ certification exam N10-008. Authored by Jeffrey S. Beasley and Piyasat Nilkaew, this textbook offers detailed explanations and practical examples to help readers understand networking fundamentals.| Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/54e56797-b95e-490e-ac31-9a7f2d818f9e" width="200">  |
-| Computer Networks - A Tanenbaum - 5th edition | A comprehensive textbook on computer networking, authored by Andrew S. Tanenbaum, covering a wide range of networking topics including protocols, architectures, and applications. | Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/6141d72a-e655-429d-84f8-c0bd06f42709" width="200">  |
-| UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API | A classic reference on UNIX network programming, authored by W. Richard Stevens, offering in-depth coverage of the Sockets API and various networking concepts on UNIX-based systems | Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/9e14fd69-a5c7-46cb-9042-e1cb6a401f44" width="200"> |
-
-## 📝 Writing
-
-- [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
-
-**Other articles by other 42 students:**
-
-- [Jun Han Ng](https://hackmd.io/@nszl)
-
-## 📄 Cheatsheets
-
-- [Emacs](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/Emacs.md) | [Vim](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/VIM.md) | [Git](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Git.md)
-- [C](https://github.com/zelhajou/C-cheat_sheet) | [C++](https://github.com/zelhajou/42-cursus/tree/main/Computer%20Science/Programming%20Knowledge/Programming%20Languages/C%2B%2B)
-- [HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML) | [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS)
-
-## 🔖 Bookmarks
+## Bookmarks
 
 ### 42
 
@@ -197,14 +197,17 @@ from any website.
 
 - [ML4Devs](https://www.ml4devs.com/) - Machine Learning for Developers
 
-## 🎧 Music
+## Music
+
 
 - [Coding days](https://www.youtube.com/playlist?list=PLzjH3XFHoi6h4zT9JfqFUDAIyXpk02lyO) - A playlist of my favorite music to listen to while coding.
 - [My Favorite Music](https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=43be812e860148c4) - Take a moment to listen to some of my favorite playlists. I hope you enjoy them as much as I do!
 - [Radiooooo](https://radiooooo.com/) -  A website that lets you explore music from different countries and decades.
 - [Moroccan tapes](https://moroccantapes.com/) - A website that showcases Moroccan music from the 60s, 70s, and 80s.
 
-## You can find me on 🌍
+## Contact
+
+Feel free to reach out to me if you have any questions, suggestions, or just want to chat!
 
 <a href="mailto:zelhajou@gmail.com">
     <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
