@@ -50,25 +50,25 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 The following table lists the projects I've completed as part of the 42 Cursus. Each project is linked to its repository, where you can find the project's description, requirements, and my implementation.
 
-|CIRCLE |PROJECT |DESCRIPTION |KEY TAKEAWAYS |TECHNOLOGY |STATUS |
-|:-: |:--  |:--  |:--  |:--  |:-: |
-|00 |[Libft](https://github.com/zelhajou/42-libft)| A library of useful C functions |Basics of C programming, data structures |C |✅ 122  |
+|CIRCLE |PROJECT |DESCRIPTION |KEY TAKEAWAYS |TECHNOLOGY |STATUS | STARS |
+|:-: |:--  |:--  |:--  |:--  |:-: |:-: |
+|00 |[Libft](https://github.com/zelhajou/42-libft)| A library of useful C functions |Basics of C programming, data structures |C |✅ 122  | ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-libft?style=social) |
 |:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
-|01 |[Ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C string formatting, variadic functions |C | ✅  100 |
-|02 |[Born2beroot](https://github.com/zelhajou/42-Born2beRoot)| A project on Virtualization basics |Virtualization, Linux basics |VM, debian |✅  108|
-|03 |[Get_next_line](https://github.com/zelhajou/42-get_next_line)| A function that reads a file line-by-line |File I/O, memory management |C |✅  125|
+|01 |[Ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C string formatting, variadic functions |C | ✅  100 | ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-ft_printf?style=social) |
+|02 |[Born2beroot](https://github.com/zelhajou/42-Born2beRoot)| A project on Virtualization basics |Virtualization, Linux basics |VM, debian |✅  108| ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-Born2beRoot?style=social) |
+|03 |[Get_next_line](https://github.com/zelhajou/42-get_next_line)| A function that reads a file line-by-line |File I/O, memory management |C |✅  125| ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-get_next_line?style=social) |
 |:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
-|04 |[Push_swap](https://github.com/zelhajou/42-push_swap)| A program that sorts a stack of numbers |Algorithm optimization, stack manipulation |C |✅ 125|
-|05 |[Minitalk](https://github.com/zelhajou/42-minitalk)| A communication program using UNIX signals |UNIX signals, inter-process communication |C | ✅  100|
-|06 |[Fractol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |Graphics programming, fractal mathematics |C | ✅  100 |
-|07 |[Exam_rank_02](https://github.com/users/zelhajou/projects/13/views/1)| Programming skills assessment |Problem-solving, time management |C | ✅  100 |
+|04 |[Push_swap](https://github.com/zelhajou/42-push_swap)| A program that sorts a stack of numbers |Algorithm optimization, stack manipulation |C |✅ 125| ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-push_swap?style=social) |
+|05 |[Minitalk](https://github.com/zelhajou/42-minitalk)| A communication program using UNIX signals |UNIX signals, inter-process communication |C | ✅  100| ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-minitalk?style=social) |
+|06 |[Fractol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |Graphics programming, fractal mathematics |C | ✅  100 | ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-fractol?style=social) |
+|07 |[Exam_rank_02](https://github.com/users/zelhajou/projects/13/views/1)| Programming skills assessment |Problem-solving, time management |C | ✅  100 | |
 |:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
-|08 |[Philosophers](https://github.com/zelhajou/42-Philosophers)| Dining Philosophers problem simulation |Concurrency, thread synchronization |C | ✅  100 |
-|09 | [Minishell](https://github.com/zelhajou/42-minishell) | Custom shell emulating bash |Shell scripting, process management |C | ✅  101 |
-|10 | [Exam_rank_03](#) | Programming skills assessment |Advanced programming concepts, debugging |C | ✅  100 |
+|08 |[Philosophers](https://github.com/zelhajou/42-Philosophers)| Dining Philosophers problem simulation |Concurrency, thread synchronization |C | ✅  100 | ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-Philosophers?style=social) |
+|09 | [Minishell](https://github.com/zelhajou/42-minishell) | Custom shell emulating bash |Shell scripting, process management |C | ✅  101 | ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-minishell?style=social) |
+|10 | [Exam_rank_03](#) | Programming skills assessment |Advanced programming concepts, debugging |C | ✅  100 | |
 |:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
-|11 | [Net_practice](https://github.com/zelhajou/42-net_practice) | Networking concepts and protocols |Networking fundamentals, protocol analysis |Networking, Protocols | ✅  100 |
-|12 | [cub3d](https://github.com/zelhajou/42-cub3D) | 3D maze using raycasting |Graphics programming, raycasting |C | ✅  115 |
+|11 | [Net_practice](https://github.com/zelhajou/42-net_practice) | Networking concepts and protocols |Networking fundamentals, protocol analysis |Networking, Protocols | ✅  100 | ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-net_practice?style=social) |
+|12 | [cub3d](https://github.com/zelhajou/42-cub3D) | 3D maze using raycasting |Graphics programming, raycasting |C | ✅  115 | ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-cub3D?style=social) |
 |13 | CPP Module 00 | Introduction to C++ |C++ basics, object-oriented programming |C++ | 🚧 In Progress |
 
 <!-- 🚧 In Progres -->
@@ -118,13 +118,13 @@ These are some of the books I've read or plan to read to deepen my knowledge in 
 | Computer Networks - A Tanenbaum - 5th edition | A comprehensive textbook on computer networking, authored by Andrew S. Tanenbaum, covering a wide range of networking topics including protocols, architectures, and applications. | Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/6141d72a-e655-429d-84f8-c0bd06f42709" width="200">  |
 | UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API | A classic reference on UNIX network programming, authored by W. Richard Stevens, offering in-depth coverage of the Sockets API and various networking concepts on UNIX-based systems | Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/9e14fd69-a5c7-46cb-9042-e1cb6a401f44" width="200"> |
 
-## Articles
+## Blogs and Articles
 
-These are some of the articles I've written about programming, computer science, and other topics.
+These are some of the blogs and articles I've written about my experiences at 42 and other topics related to computer science and programming.
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
 
-**Articles by other 42 students:**
+**Other blogs and articles by 42 students:**
 
 - [Jun Han Ng](https://hackmd.io/@nszl)
 
