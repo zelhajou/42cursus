@@ -5,17 +5,18 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 <br>
 
 <p align="center">
-	| <a href="#about">About 42</a> |
-	<a href="#curriculum">Curriculum</a> |
-	<a href="#projects">Projects</a> |
-	<a href="#skills">Skills</a> |
-	<a href="#tech-stack">Tech Stack</a> |
-	<a href="#bookshelf">Bookshelf</a> |
-	<a href="#writing">Writing</a> |
-	<a href="#cheatsheets">Cheatsheets</a> |
-	<a href="#bookmarks">Bookmarks</a> |
-	<a href="#music">Music</a> |
-	<a href="#contact">Contact</a> |
+    <a href="#about">About 42</a> |
+    <a href="#curriculum">Curriculum</a> |
+    <a href="#projects">Projects</a> |
+    <a href="#skills">Skills</a> |
+    <a href="#tech-stack">Tech Stack</a> |
+    <a href="#42-stats">42 Stats</a> |
+    <a href="#bookshelf">Bookshelf</a> |
+    <a href="#writing">Writing</a> |
+    <a href="#cheatsheets">Cheatsheets</a> |
+    <a href="#bookmarks">Bookmarks</a> |
+    <a href="#music">Music</a> |
+    <a href="#contact">Contact</a> |
 </p>
 
 ## 🔄 About 42
@@ -35,48 +36,48 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 ![download (1)](https://github.com/zelhajou/42-cursus/assets/39954629/7df2085b-6c9e-4fb1-9d27-5c019ddabfb8)
 
-
-
-
 The table below presents the 42cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
 </details>
 
 ## 📋 Projects
 
-|CIRCLE	|PROJECT	|DESCRIPTION	|KEY TAKEAWAYS	|TECHNOLOGY	|STATUS	|
-|:-:	|:--		|:--		|:--		|:--		|:-:	|
-|00	|[Libft](https://github.com/zelhajou/42-libft)| A library of useful C functions	|Basics of C programming, data structures	|C |✅ 122 	|
-|:dizzy:|	:dizzy:	|	:dizzy:	|:dizzy:	|	:dizzy:	|:dizzy:	|
-|01	|[Ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C string formatting, variadic functions |C | ✅  100 |
-|02	|[Born2beroot](https://github.com/zelhajou/42-Born2beRoot)| A project on Virtualization basics |Virtualization, Linux basics |VM, debian |✅  108|
-|03	|[Get_next_line](https://github.com/zelhajou/42-get_next_line)| A function that reads a file line-by-line |File I/O, memory management |C |✅  125|
-|:dizzy:|	:dizzy:	|	:dizzy:	|:dizzy:	|	:dizzy:	|:dizzy:	|
-|04	|[Push_swap](https://github.com/zelhajou/42-push_swap)| A program that sorts a stack of numbers |Algorithm optimization, stack manipulation |C |✅ 125|
-|05	|[Minitalk](https://github.com/zelhajou/42-minitalk)| A communication program using UNIX signals |UNIX signals, inter-process communication |C | ✅  100|
-|06	|[Fractol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |Graphics programming, fractal mathematics |C | ✅  100 |
-|07	|[Exam_rank_02](https://github.com/users/zelhajou/projects/13/views/1)| Programming skills assessment |Problem-solving, time management |C | ✅  100 |
-|:dizzy:|	:dizzy:	|	:dizzy:	|:dizzy:	|	:dizzy:	|:dizzy:	|
-|08	|[Philosophers](https://github.com/zelhajou/42-Philosophers)| Dining Philosophers problem simulation |Concurrency, thread synchronization |C | ✅  100 |
-|09	| [Minishell](https://github.com/zelhajou/42-minishell) | Custom shell emulating bash |Shell scripting, process management |C | ✅  101 |
-|10	| [Exam_rank_03](#) | Programming skills assessment |Advanced programming concepts, debugging |C | ✅  100 |
-|:dizzy:|	:dizzy:	|	:dizzy:	|:dizzy:	|	:dizzy:	|:dizzy:	|
-|11	| [Net_practice](https://github.com/zelhajou/42-net_practice) | Networking concepts and protocols |Networking fundamentals, protocol analysis |Networking, Protocols | ✅  100 |
-|12	| [cub3d](https://github.com/zelhajou/42-cub3D) | 3D maze using raycasting |Graphics programming, raycasting |C | ✅  115 |
-|13	| CPP Module 00 | Introduction to C++ |C++ basics, object-oriented programming |C++ | 🚧 In Progress |
+|CIRCLE |PROJECT |DESCRIPTION |KEY TAKEAWAYS |TECHNOLOGY |STATUS |
+|:-: |:--  |:--  |:--  |:--  |:-: |
+|00 |[Libft](https://github.com/zelhajou/42-libft)| A library of useful C functions |Basics of C programming, data structures |C |✅ 122  |
+|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
+|01 |[Ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C string formatting, variadic functions |C | ✅  100 |
+|02 |[Born2beroot](https://github.com/zelhajou/42-Born2beRoot)| A project on Virtualization basics |Virtualization, Linux basics |VM, debian |✅  108|
+|03 |[Get_next_line](https://github.com/zelhajou/42-get_next_line)| A function that reads a file line-by-line |File I/O, memory management |C |✅  125|
+|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
+|04 |[Push_swap](https://github.com/zelhajou/42-push_swap)| A program that sorts a stack of numbers |Algorithm optimization, stack manipulation |C |✅ 125|
+|05 |[Minitalk](https://github.com/zelhajou/42-minitalk)| A communication program using UNIX signals |UNIX signals, inter-process communication |C | ✅  100|
+|06 |[Fractol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |Graphics programming, fractal mathematics |C | ✅  100 |
+|07 |[Exam_rank_02](https://github.com/users/zelhajou/projects/13/views/1)| Programming skills assessment |Problem-solving, time management |C | ✅  100 |
+|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
+|08 |[Philosophers](https://github.com/zelhajou/42-Philosophers)| Dining Philosophers problem simulation |Concurrency, thread synchronization |C | ✅  100 |
+|09 | [Minishell](https://github.com/zelhajou/42-minishell) | Custom shell emulating bash |Shell scripting, process management |C | ✅  101 |
+|10 | [Exam_rank_03](#) | Programming skills assessment |Advanced programming concepts, debugging |C | ✅  100 |
+|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
+|11 | [Net_practice](https://github.com/zelhajou/42-net_practice) | Networking concepts and protocols |Networking fundamentals, protocol analysis |Networking, Protocols | ✅  100 |
+|12 | [cub3d](https://github.com/zelhajou/42-cub3D) | 3D maze using raycasting |Graphics programming, raycasting |C | ✅  115 |
+|13 | CPP Module 00 | Introduction to C++ |C++ basics, object-oriented programming |C++ | 🚧 In Progress |
 
 <!-- 🚧 In Progres -->
-##  🛠️ Skills
+## 🛠️ Skills
 
 ### Hard-skills
 
-- Low-Level Programming
+- System-level Programming (C, C++)
 - Algorithms And Data Structures
-- C/C++ (Programming Language)
-- Virtualization
-- Shell Scripting
-- Version Control
+- Virtualization (Docker, VM)
+- Shell Scripting (Bash)
+- Version Control (Git)
 - Computer Networking
+- Operating Systems (Linux)
+- Graphics Programming
+- Web Development
+- Software Engineering
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,bash,git,vscode,vim,emacs,md,github,figma)](https://skillicons.dev)
 
@@ -85,6 +86,8 @@ The table below presents the 42cursus curriculum in the chronological order in w
 - **Self-learning and proactivity:** At 42, self-learning is at the core of its peer-to-peer learning methodology. There are no teachers whatsoever; the learning process is based on googling, enquiring your classmates, and empirical knowledge, with each student learning at their own pace.
 - **Teamwork:** Some projects must or should be developed in groups, which promotes collaborative work among cadets. The major challenge here is to equalize the different knowledge levels while finding a common work methodology that allows all team members to contribute to the project.
 - **Time management and resiliency:** The school is open 24/7. Thus, the cadets are free to work whenever they want, which demands excellent time management skills and resiliency for not "drowning" amid the massive load of work demanded by the program.
+- **Problem-solving:** The projects are designed to challenge the cadets' problem-solving skills, requiring them to think outside the box and find creative solutions to complex problems.
+- **Communication:** The peer-to-peer learning methodology requires cadets to communicate effectively with their peers, both to ask for help and to help others. This promotes the development of communication skills, which are essential in the workplace.
 
 ## 💻 Tech Stack
 
@@ -100,12 +103,14 @@ from any website.
 - [TeraBox](https://terabox.com/) - Cloud storage service
 
 ### Editor
+
 - [Replit](https://replit.com/) - Online IDE for coding in multiple languages
 - [Godbolt](https://www.godbolt.org/) - Online compiler explorer
 - [cppinsights](https://www.cppinsights.io/) - Online C++ code analysis tool
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor
 
 ### VS Code Extensions
+
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=42School.42header) - 42 header for C and C++ files
 - [42 ft count lines](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line) - Count lines of code in C and C++ files
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display PDF files in Visual Studio Code
@@ -113,6 +118,7 @@ from any website.
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
+
 ## 📊 My 42 stats
 
 [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
@@ -120,7 +126,7 @@ from any website.
 ## 📚🛋️ [Bookshelf](https://github.com/zelhajou/1337-Bookshelf)
 
 | **Name**| **Description**| **Category** | **Image** |
-| --------- | --------- | --------- | --------- | 
+| --------- | --------- | --------- | --------- |
 |  [The Linux Programming Interface-Michael Kerrisk](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf)       | A comprehensive guide to system programming on the Linux platform by Michael Kerrisk. Covers system calls, libraries, and more. |  Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/e8ceb45e-9c83-47f0-a5f1-41cd01c0d642" width="200"> |
 | [Advanced Programming in the Linux Environment](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/advanced%20programming%20in%20the%20linux%20environment.pdf) | Explores advanced topics in Linux programming, offering insights into system calls, libraries, and techniques for efficient software development. |  Computer System-level Programming |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/08f28684-3f19-46fa-a284-ce64141b1bd5" width="200"> |
 | [Operating System Concepts](https://github.com/zelhajou/Bookshelf/blob/main/System-level%20Programming/Operating%20System%20Concepts%20(9th%2C2012_12).pdf)            | A classic textbook on operating system principles and concepts, providing a foundational understanding of OS design and functionality. |  Computer System-level Programming |  <img src="https://github.com/zelhajou/42-cursus/assets/39954629/98c74ba3-665e-481d-828e-a492ec516fa3" width="200">  |
@@ -128,7 +134,7 @@ from any website.
 | Computer Networks - A Tanenbaum - 5th edition | A comprehensive textbook on computer networking, authored by Andrew S. Tanenbaum, covering a wide range of networking topics including protocols, architectures, and applications. | Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/6141d72a-e655-429d-84f8-c0bd06f42709" width="200">  |
 | UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API | A classic reference on UNIX network programming, authored by W. Richard Stevens, offering in-depth coverage of the Sockets API and various networking concepts on UNIX-based systems | Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/9e14fd69-a5c7-46cb-9042-e1cb6a401f44" width="200"> |
 
-##  📝 Writing
+## 📝 Writing
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
 
@@ -146,42 +152,42 @@ from any website.
 
 ### 42
 
-- [42 Intra](https://profile.intra.42.fr/)
-- [42tools](https://www.42tools.me/subjects/index.html)
-- [find-peers](https://find-peers.codam.nl/Khouribga)
-- [42-resources](https://github.com/jotavare/42-resources)
-- [42_CheatSheet](https://github.com/agavrel/42_CheatSheet)
-- [42 cursus gitbook](https://42-cursus.gitbook.io/guide/)
+- [42 Intra](https://profile.intra.42.fr/) - 42's intranet
+- [42tools](https://www.42tools.me/subjects/index.html) - 42's tools and resources
+- [find-peers](https://find-peers.codam.nl/Khouribga) - Find peers at 42
+- [42-resources](https://github.com/jotavare/42-resources) - A collection of resources for 42 students
+- [42_CheatSheet](https://github.com/agavrel/42_CheatSheet) - A collection of cheatsheets for 42 students
+- [42 cursus gitbook](https://42-cursus.gitbook.io/guide/) - A guide to the 42 cursus
 - [codequoi](https://www.codequoi.com/en/home-english/)
 - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 
 ### 1337
 
-- https://iscsi-tools.1337.ma/
-- https://mail-students.1337.ma/SOGo/
+- <https://iscsi-tools.1337.ma/> - iSCSI tools
+- <https://mail-students.1337.ma/SOGo/> - 1337 webmail
 
 ### Github Repositories
 
-- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university)
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-- [developer-handbook](https://github.com/apptension/developer-handbook)
-- [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - A collection of resources for learning low-level programming
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - A list of tutorials to help you build your own software
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - A curated list of project-based tutorials
+- [developer-handbook](https://github.com/apptension/developer-handbook) - A collection of resources for developers
+- [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - A collection of resources for developers
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 
 ### AI prompts
 
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-- [dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts#-write-detailed-blogs)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - A curated list of awesome chatbot prompts
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - A guide to prompt engineering
+- [dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts#-write-detailed-blogs) - A collection of prompts for training chatbots
 
 ### General Resources
 
-- [Developer Roadmap](https://roadmap.sh/)
-- [Devdocs](https://devdocs.io/)
-- [Devhints](https://devhints.io/)
+- [Developer Roadmap](https://roadmap.sh/) - Roadmap for web developers
+- [Devdocs](https://devdocs.io/) - A collection of API documentation
+- [Devhints](https://devhints.io/) - A collection of cheatsheets for web developers
 
 ### Youtube Channels
 
@@ -199,23 +205,23 @@ from any website.
 ## 🤝 Contact
 
 <a href="mailto:zelhajou@gmail.com">
-   <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
+    <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
 </a>
 <a href="https://www.linkedin.com/in/zelhajou/">
-   <img align="left" alt="Linkedin" width="18px" src="https://cdn.simpleicons.org/linkedin/000/fff" />
+    <img align="left" alt="Linkedin" width="18px" src="https://cdn.simpleicons.org/linkedin/000/fff" />
 </a>
 <a href="https://twitter.com/aaaikrz">
-   <img align="left" alt="Twitter" width="18px" src="https://cdn.simpleicons.org/x/000/fff" />
+    <img align="left" alt="Twitter" width="18px" src="https://cdn.simpleicons.org/x/000/fff" />
 </a>
 <a href="https://discord.com/users/aaaikrz">
-   <img align="left" alt="Discord" width="18px" src="https://cdn.simpleicons.org/discord/000/fff" />
+    <img align="left" alt="Discord" width="18px" src="https://cdn.simpleicons.org/discord/000/fff" />
 </a>
 <a href="https://t.me/aaaikrz">
-   <img align="left" alt="Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/000/fff" />
+    <img align="left" alt="Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/000/fff" />
 </a>
 <a href="https://www.instagram.com/aaaikrz/">
-   <img align="left" alt="Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/000/fff" />
+    <img align="left" alt="Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/000/fff" />
 </a>
 <a href="https://www.youtube.com/channel/UCWc0bGsAyEes36f7uggxmUQ">
-   <img align="left" alt="Youtube" width="18px" src="https://cdn.simpleicons.org/youtube/000/fff" />
+    <img align="left" alt="Youtube" width="18px" src="https://cdn.simpleicons.org/youtube/000/fff" />
 </a>
