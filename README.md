@@ -2,9 +2,26 @@
 
 This repository contains my projects developed at [1337](https://1337.ma/en/) programming school for the [42](https://42.fr/en/homepage/) Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
 
-<br>
 
-[About 42](#about-42) | [Curriculum](#curriculum) | [Projects](#projects) | [Skills](#skills) | [Stats](#stats) | [Bookshelf](#bookshelf) | [Articles](#articles) | [Study notes](#study-notes-and-cheat-sheets) | [Tech Stack](#tech-stack) | [Bookmarks](#bookmarks) | [Contact](#contact)
+<details>
+
+<summary><b>Table of Contents</b></summary>
+
+<a href="#about-42">About 42</a><br>
+<a href="#curriculum">Curriculum</a><br>
+<a href="#projects">Projects</a><br>
+<a href="#skills">Skills</a><br>
+<a href="#stats">Stats</a><br>
+<a href="#bookshelf">Bookshelf</a><br>
+<a href="#articles">Articles</a><br>
+<a href="#study-notes-and-cheat-sheets">Study notes and cheat sheets</a><br>
+<a href="#tech-stack">Tech Stack</a><br>
+<a href="#bookmarks">Bookmarks</a><br>
+<a href="#music-and-playlists">Music and Playlists</a><br>
+<a href="#contact">Contact</a><br>
+
+</details>
+
 ## About 42
 
 42 is a global education initiative that offers a new way of learning technology:
@@ -121,82 +138,73 @@ These are some of the study notes and cheat sheets I've created to help me learn
 
 ## Tech Stack
 
-### Apps
+- Apps and Tools
+    - [Discord](https://discord.com/) - Free communications app
+    - [Obsidian](https://obsidian.md/) -  A private and flexible note‑taking app that adapts to the way you think.
+    - [Commander One](https://mac.eltima.com/file-manager.html) - Free file manager for Mac to replace Finder
+    - [tldraw](https://tldraw.com/) - A collaborative whiteboard tool
+    - [Edge](https://www.microsoft.com/en-us/edge) - Web browser
+    - [12ft.io](https://12ft.io/) - Remove popups, banners, and ads
+    from any website.
+    - [TeraBox](https://terabox.com/) - Cloud storage service
 
-- [Discord](https://discord.com/) - Free communications app
-- [Obsidian](https://obsidian.md/) -  A private and flexible note‑taking app that adapts to the way you think.
-- [Commander One](https://mac.eltima.com/file-manager.html) - Free file manager for Mac to replace Finder
-- [tldraw](https://tldraw.com/) - A collaborative whiteboard tool
-- [Edge](https://www.microsoft.com/en-us/edge) - Web browser
-- [12ft.io](https://12ft.io/) - Remove popups, banners, and ads
-from any website.
-- [TeraBox](https://terabox.com/) - Cloud storage service
+- Editor and IDE
+    - [Replit](https://replit.com/) - Online IDE for coding in multiple languages
+    - [Godbolt](https://www.godbolt.org/) - Online compiler explorer
+    - [cppinsights](https://www.cppinsights.io/) - Online C++ code analysis tool
+    - [Visual Studio Code](https://code.visualstudio.com/) - Code editor
 
-### Editor
-
-- [Replit](https://replit.com/) - Online IDE for coding in multiple languages
-- [Godbolt](https://www.godbolt.org/) - Online compiler explorer
-- [cppinsights](https://www.cppinsights.io/) - Online C++ code analysis tool
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editor
-
-### VS Code Extensions
-
-- [42 Header](https://marketplace.visualstudio.com/items?itemName=42School.42header) - 42 header for C and C++ files
-- [42 ft count lines](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line) - Count lines of code in C and C++ files
-- [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display PDF files in Visual Studio Code
-- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown
-- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
-- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
+- VS Code Extensions
+    - [42 Header](https://marketplace.visualstudio.com/items?itemName=42School.42header) - 42 header for C and C++ files
+    - [42 ft count lines](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line) - Count lines of code in C and C++ files
+    - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display PDF files in Visual Studio Code
+    - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown
+    - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
+    - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
+    - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
 
 ## Bookmarks
 
 These are some of the websites I've bookmarked for 42-related resources, programming tools, and other useful information.
 
-### 42 Resources
+- 42 Resources
+    - [42 Intra](https://profile.intra.42.fr/) - 42's intranet
+    - [42tools](https://www.42tools.me/subjects/index.html) - 42's tools and resources
+    - [find-peers](https://find-peers.codam.nl/Khouribga) - Find peers at 42
+    - [42-resources](https://github.com/jotavare/42-resources) - A collection of resources for 42 students
+    - [42_CheatSheet](https://github.com/agavrel/42_CheatSheet) - A collection of cheatsheets for 42 students
+    - [42 cursus gitbook](https://42-cursus.gitbook.io/guide/) - A guide to the 42 cursus
+    - [codequoi](https://www.codequoi.com/en/home-english/)
+    - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 
-- [42 Intra](https://profile.intra.42.fr/) - 42's intranet
-- [42tools](https://www.42tools.me/subjects/index.html) - 42's tools and resources
-- [find-peers](https://find-peers.codam.nl/Khouribga) - Find peers at 42
-- [42-resources](https://github.com/jotavare/42-resources) - A collection of resources for 42 students
-- [42_CheatSheet](https://github.com/agavrel/42_CheatSheet) - A collection of cheatsheets for 42 students
-- [42 cursus gitbook](https://42-cursus.gitbook.io/guide/) - A guide to the 42 cursus
-- [codequoi](https://www.codequoi.com/en/home-english/)
-- [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
+- 1337 Resources
+    - <https://iscsi-tools.1337.ma/> - iSCSI tools
+    - <https://mail-students.1337.ma/SOGo/> - 1337 webmail
 
-### 1337 Resources
+- Github Repositories and Gists
+    - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - A collection of resources for learning low-level programming
+    - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer
+    - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+    - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - A list of tutorials to help you build your own software
+    - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - A curated list of project-based tutorials
+    - [developer-handbook](https://github.com/apptension/developer-handbook) - A collection of resources for developers
+    - [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - A collection of resources for developers
+    - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 
-- <https://iscsi-tools.1337.ma/> - iSCSI tools
-- <https://mail-students.1337.ma/SOGo/> - 1337 webmail
+- AI prompts and Chatbot Resources
+    - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - A curated list of awesome chatbot prompts
+    - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - A guide to prompt engineering
+    - [dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts#-write-detailed-blogs) - A collection of prompts for training chatbots
 
-### Github Repositories and Gists
+- General Resources 
+    - [Developer Roadmap](https://roadmap.sh/) - Roadmap for web developers
+    - [Devdocs](https://devdocs.io/) - A collection of API documentation
+    - [Devhints](https://devhints.io/) - A collection of cheatsheets for web developers
 
-- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - A collection of resources for learning low-level programming
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
-- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - A list of tutorials to help you build your own software
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - A curated list of project-based tutorials
-- [developer-handbook](https://github.com/apptension/developer-handbook) - A collection of resources for developers
-- [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - A collection of resources for developers
-- [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
+- Youtube Channels and Podcasts
 
-### AI prompts and Chatbot Resources
-
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - A curated list of awesome chatbot prompts
-- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - A guide to prompt engineering
-- [dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts#-write-detailed-blogs) - A collection of prompts for training chatbots
-
-### General Resources 
-
-- [Developer Roadmap](https://roadmap.sh/) - Roadmap for web developers
-- [Devdocs](https://devdocs.io/) - A collection of API documentation
-- [Devhints](https://devhints.io/) - A collection of cheatsheets for web developers
-
-### Youtube Channels and Podcasts
-
-### Blogs and Newsletters
-
-- [ML4Devs](https://www.ml4devs.com/) - Machine Learning for Developers
+- Blogs and Newsletters
+    - [ML4Devs](https://www.ml4devs.com/) - Machine Learning for Developers
 
 ## Music and Playlists
 
