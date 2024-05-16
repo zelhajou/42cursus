@@ -1,4 +1,4 @@
-# frontend_world
+# Frontend web development
 
 ## Tools
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
