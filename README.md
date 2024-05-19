@@ -16,7 +16,6 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 <a href="#articles">Articles</a><br>
 <a href="#study-notes-and-cheat-sheets">Study notes and cheat sheets</a><br>
 <a href="#tech-stack">Tech Stack</a><br>
-<a href="#bookmarks">Bookmarks</a><br>
 <a href="#music-and-playlists">Music and Playlists</a><br>
 <a href="#contact">Contact</a><br>
 
@@ -128,7 +127,7 @@ These are some of the blogs and articles I've written about my experiences at 42
 
 - [Jun Han Ng](https://hackmd.io/@nszl)
 
-## Study notes and cheat sheets
+## Study Notes and Cheat Sheets
 
 These are some of the study notes and cheat sheets I've created to help me learn and remember key concepts in computer science, programming, and other subjects.
 
@@ -136,6 +135,8 @@ These are some of the study notes and cheat sheets I've created to help me learn
 -  Programming languages ([C](https://github.com/zelhajou/C-cheat_sheet), [C++](https://github.com/zelhajou/42-cursus/tree/main/Computer%20Science/Programming%20Knowledge/Programming%20Languages/C%2B%2B))
 - [Frontend web development](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend) ([HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML), [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS))
 
+### Bookmarks
+[42-bookmarks](https://start.me/p/Kg1qnw/42-cursus) - A collection of bookmarks for 42-related resources, programming tools, and other useful information.
 
 ## Tech Stack
 
@@ -148,6 +149,7 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [12ft.io](https://12ft.io/) - Remove popups, banners, and ads
     from any website.
     - [TeraBox](https://terabox.com/) - Cloud storage service
+	- [10015](https://10015.io/) - All Online Tools in “One Box”
 
 - Editor and IDE
     - [Replit](https://replit.com/) - Online IDE for coding in multiple languages
@@ -163,49 +165,6 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
     - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
     - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
-
-## Bookmarks
-
-These are some of the websites I've bookmarked for 42-related resources, programming tools, and other useful information.
-
-- 42 Resources
-    - [42 Intra](https://profile.intra.42.fr/) - 42's intranet
-    - [42tools](https://www.42tools.me/subjects/index.html) - 42's tools and resources
-    - [find-peers](https://find-peers.codam.nl/Khouribga) - Find peers at 42
-    - [42-resources](https://github.com/jotavare/42-resources) - A collection of resources for 42 students
-    - [42_CheatSheet](https://github.com/agavrel/42_CheatSheet) - A collection of cheatsheets for 42 students
-    - [42 cursus gitbook](https://42-cursus.gitbook.io/guide/) - A guide to the 42 cursus
-    - [codequoi](https://www.codequoi.com/en/home-english/)
-    - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
-
-- 1337 Resources
-    - <https://iscsi-tools.1337.ma/> - iSCSI tools
-    - <https://mail-students.1337.ma/SOGo/> - 1337 webmail
-
-- Github Repositories and Gists
-    - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - A collection of resources for learning low-level programming
-    - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer
-    - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
-    - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - A list of tutorials to help you build your own software
-    - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - A curated list of project-based tutorials
-    - [developer-handbook](https://github.com/apptension/developer-handbook) - A collection of resources for developers
-    - [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - A collection of resources for developers
-    - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
-
-- AI prompts and Chatbot Resources
-    - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - A curated list of awesome chatbot prompts
-    - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - A guide to prompt engineering
-    - [dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts#-write-detailed-blogs) - A collection of prompts for training chatbots
-
-- General Resources 
-    - [Developer Roadmap](https://roadmap.sh/) - Roadmap for web developers
-    - [Devdocs](https://devdocs.io/) - A collection of API documentation
-    - [Devhints](https://devhints.io/) - A collection of cheatsheets for web developers
-
-- Youtube Channels and Podcasts
-
-- Blogs and Newsletters
-    - [ML4Devs](https://www.ml4devs.com/) - Machine Learning for Developers
 
 ## Music and Playlists
 
