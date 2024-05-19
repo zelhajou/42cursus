@@ -150,7 +150,6 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [12ft.io](https://12ft.io/) - Remove popups, banners, and ads
     from any website.
     - [TeraBox](https://terabox.com/) - Cloud storage service
-	- [10015](https://10015.io/) - All Online Tools in “One Box”
 
 - Editor and IDE
     - [Replit](https://replit.com/) - Online IDE for coding in multiple languages

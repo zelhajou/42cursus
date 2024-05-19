@@ -110,9 +110,6 @@ int main() {
 }
 ```
 
-
-
-
 ```
 |-- Advanced Techniques
 |   |-- Recursion
