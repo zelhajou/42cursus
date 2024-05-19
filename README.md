@@ -136,6 +136,7 @@ These are some of the study notes and cheat sheets I've created to help me learn
 - [Frontend web development](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend) ([HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML), [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS))
 
 **Bookmarks**
+
 [42-bookmarks](https://start.me/p/Kg1qnw/42-cursus) - A collection of bookmarks for 42-related resources, programming tools, and other useful information.
 
 ## Tech Stack
