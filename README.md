@@ -26,7 +26,7 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 42 is a global education initiative that offers a new way of learning technology:
 no teachers, no classrooms, students learning from their fellow students (peer-to-peer learning), with a methodology that develops both computing and life skills. The 42cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
-\* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zelhajou/42-piscine_c).
+For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zelhajou/42-piscine_c).
 
 ## Curriculum
 
@@ -135,7 +135,7 @@ These are some of the study notes and cheat sheets I've created to help me learn
 -  Programming languages ([C](https://github.com/zelhajou/C-cheat_sheet), [C++](https://github.com/zelhajou/42-cursus/tree/main/Computer%20Science/Programming%20Knowledge/Programming%20Languages/C%2B%2B))
 - [Frontend web development](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend) ([HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML), [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS))
 
-### Bookmarks
+**Bookmarks**
 [42-bookmarks](https://start.me/p/Kg1qnw/42-cursus) - A collection of bookmarks for 42-related resources, programming tools, and other useful information.
 
 ## Tech Stack
@@ -153,8 +153,6 @@ These are some of the study notes and cheat sheets I've created to help me learn
 
 - Editor and IDE
     - [Replit](https://replit.com/) - Online IDE for coding in multiple languages
-    - [Godbolt](https://www.godbolt.org/) - Online compiler explorer
-    - [cppinsights](https://www.cppinsights.io/) - Online C++ code analysis tool
     - [Visual Studio Code](https://code.visualstudio.com/) - Code editor
 
 - VS Code Extensions
