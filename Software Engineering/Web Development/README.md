@@ -11,10 +11,6 @@ Web development is a field of computer science and software engineering that foc
 
 - [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
 
-## Skills
-- https://andreasbm.github.io/web-skills/
-- https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-
 ## Interview
 
 - https://github.com/Chalarangelo/30-seconds-of-interviews
