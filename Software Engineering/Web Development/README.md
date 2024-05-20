@@ -15,14 +15,6 @@ Web development is a field of computer science and software engineering that foc
 - https://andreasbm.github.io/web-skills/
 - https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 
-## Free Resources
-
-- https://free-for.dev/#/
-- https://devresourc.es/
-- https://xsgames.co/devassets/index.php
-- https://app.lazyweb.rocks/
-- https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend
-
 ## Interview
 
 - https://github.com/Chalarangelo/30-seconds-of-interviews
