@@ -50,7 +50,7 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 The following table lists the projects I've completed as part of the 42 Cursus. Each project is linked to its repository, where you can find the project's description, requirements, and my implementation.
 
 |CIRCLE |PROJECT |DESCRIPTION |KEY TAKEAWAYS |TECHNOLOGY |STATUS |
-|:-: |:--  |:--  |:--  |:--  |:-: |:-: |
+|:-: |:--  |:--  |:--  |:--  |:-: |
 |00 |[Libft](https://github.com/zelhajou/42-libft)| A library of useful C functions |Basics of C programming, data structures |C |✅ 122  |
 |:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |
 |01 |[Ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C string formatting, variadic functions |C | ✅  100 |
