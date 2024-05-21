@@ -207,6 +207,9 @@ Feel free to reach out to me if you have any questions, suggestions, or just wan
 <a href="https://www.tiktok.com/@aaaikrz_">
 	<img align="left" alt="Tiktok" width="18px" src="https://cdn.simpleicons.org/tiktok/000/fff" />
 </a>
+<a href="https://www.twitch.tv/aaaikrz">
+	<img align="left" alt="Twitch" width="18px" src="https://cdn.simpleicons.org/twitch/000/fff" />
+</a>
 <a href="https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=05c72a19cd994cd7">
     <img align="left" alt="Spotify" width="18px" src="https://cdn.simpleicons.org/spotify/000/fff" />
 </a>
