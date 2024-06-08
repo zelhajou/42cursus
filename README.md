@@ -64,7 +64,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 |:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
 |08 |[Philosophers](https://github.com/zelhajou/42-Philosophers)| Dining Philosophers problem simulation |Concurrency, thread synchronization |C | ✅  100 |
 |09 |[Minishell](https://github.com/zelhajou/42-minishell) | Custom shell emulating bash |Shell scripting, process management |C | ✅  101 |
-|10 |[⚡ Exam_rank_03](#) | Programming skills assessment |Advanced programming concepts, debugging |C | ✅  100 | |
+|10 |[Exam_rank_03](#) | Programming skills assessment |Advanced programming concepts, debugging |C | ✅  100 | |
 |:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
 |11 |[Net_practice](https://github.com/zelhajou/42-net_practice) | Networking concepts and protocols |Networking fundamentals, protocol analysis |Networking, Protocols | ✅  100 |
 |12 |[Cub3d](https://github.com/zelhajou/42-cub3D) | 3D maze using raycasting |Graphics programming, raycasting |C | ✅  115 |
