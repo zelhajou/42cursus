@@ -139,13 +139,9 @@ These are some of the study notes and cheat sheets I've created to help me learn
 -  Programming languages ([C](https://github.com/zelhajou/42cursus-piscine-c/tree/main/C%20Cheat%20Sheet), [C++](https://github.com/zelhajou/42-cpp_modules/tree/main/docs/cpp-cheat-sheet))
 - [Frontend web development](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend) ([HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML), [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS))
 
-**Bookmarks**
-
-[42-bookmarks](https://start.me/p/Kg1qnw/42-cursus) - A collection of bookmarks for 42-related resources, programming tools, and other useful information.
-
 ## Tech Stack
 
-- Apps and Tools
+- **Apps and Tools**
     - [Discord](https://discord.com/) - Free communications app
     - [Obsidian](https://obsidian.md/) -  A private and flexible note‑taking app that adapts to the way you think.
     - [Commander One](https://mac.eltima.com/file-manager.html) - Free file manager for Mac to replace Finder
@@ -155,11 +151,11 @@ These are some of the study notes and cheat sheets I've created to help me learn
     from any website.
     - [TeraBox](https://terabox.com/) - Cloud storage service
 
-- Editor and IDE
+- **Editor and IDE**
     - [Replit](https://replit.com/) - Online IDE for coding in multiple languages
     - [Visual Studio Code](https://code.visualstudio.com/) - Code editor
 
-- VS Code Extensions
+- **VS Code Extensions**
     - [42 Header](https://marketplace.visualstudio.com/items?itemName=42School.42header) - 42 header for C and C++ files
     - [42 ft count lines](https://marketplace.visualstudio.com/items?itemName=DoKca.42-ft-count-line) - Count lines of code in C and C++ files
     - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Display PDF files in Visual Studio Code
@@ -167,6 +163,16 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
     - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
     - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
+
+- **Bookmarks**: A collection of bookmarks for 42-related resources, programming tools, and other useful information.
+    - [42 Intra](https://profile.intra.42.fr/) - 42's intranet
+    - [42tools](https://www.42tools.me/subjects/index.html) - 42's tools and resources
+    - [find-peers](https://find-peers.codam.nl/Khouribga) - Find peers at 42
+    - [42-resources](https://github.com/jotavare/42-resources) - A collection of resources for 42 students
+    - [42_CheatSheet](https://github.com/agavrel/42_CheatSheet) - A collection of cheatsheets for 42 students
+    - [42 cursus gitbook](https://42-cursus.gitbook.io/guide/) - A guide to the 42 cursus
+    - [codequoi](https://www.codequoi.com/en/home-english/)
+    - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 
 ## Music and Playlists
 
