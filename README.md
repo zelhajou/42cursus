@@ -165,6 +165,8 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
 
 - **Bookmarks**: A collection of bookmarks for 42-related resources, programming tools, and other useful information.
+    - https://iscsi-tools.1337.ma/ - iSCSI tools
+    - https://mail-students.1337.ma/SOGo/ - 1337 webmail
     - [42 Intra](https://profile.intra.42.fr/) - 42's intranet
     - [42tools](https://www.42tools.me/subjects/index.html) - 42's tools and resources
     - [find-peers](https://find-peers.codam.nl/Khouribga) - Find peers at 42
