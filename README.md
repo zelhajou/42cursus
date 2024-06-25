@@ -68,9 +68,9 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 |:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
 |11 |[Net_practice](https://github.com/zelhajou/42-net_practice) | Networking concepts and protocols |Networking fundamentals, protocol analysis |Networking, Protocols | ✅  100 |
 |12 |[Cub3d](https://github.com/zelhajou/42-cub3D) | 3D maze using raycasting |Graphics programming, raycasting |C | ✅  115 |
-|13 |[CPP Modules 00 - 04](https://github.com/zelhajou/42cursus-cpp-modules)| C++ fundamentals and advanced concepts | Namespaces, classes, memory allocation, pointers, inheritance, polymorphism, templates |C++ | 🚧 In Progress |
+|13 |[CPP Modules 00 - 04](https://github.com/zelhajou/42cursus-cpp-modules)| C++ fundamentals and advanced concepts | Namespaces, classes, memory allocation, pointers, inheritance, polymorphism, templates |C++ | ✅  80|
 |14 |Exam_rank_04| Microshell exam | Shell command execution, piping, error handling | C | ✅  100 |
-
+|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
 
 
 <!-- 🚧 In Progres -->
