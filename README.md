@@ -38,7 +38,7 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 <details>
 
-<summary><b>Click to expand the 42 Holy Graph</b></summary>
+<summary><ins><b>Click to expand the 42 Holy Graph</b></ins></summary>
 
 ![42 Holy Graph](https://github.com/zelhajou/42-cursus/assets/39954629/7df2085b-6c9e-4fb1-9d27-5c019ddabfb8)
 
