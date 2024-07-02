@@ -71,7 +71,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 |13 |[CPP Modules 00 - 04](https://github.com/zelhajou/42cursus-cpp-modules)| C++ fundamentals and advanced concepts | Namespaces, classes, memory allocation, pointers, inheritance, polymorphism, templates |C++ | ✅  80|
 |14 |Exam Rank 04| Microshell exam | Shell command execution, piping, error handling | C | ✅  100 |
 |:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
-|15 |[CPP Modules 05 - 09](https://github.com/zelhajou/42cursus-cpp-modules)| Advanced C++ concepts |Operator overloading, exception handling, file I/O, STL, advanced OOP |C++ | 🚧 In Progress |
+|15 |[CPP Modules 05 - 08](https://github.com/zelhajou/42cursus-cpp-modules)| Advanced C++ concepts |Operator overloading, exception handling, file I/O, STL, advanced OOP |C++ | 🚧 In Progress |
 |16 |[Inception](https://github.com/zelhajou/42cursus-inception) | Docker-based system setup and configuration |Containerization, Docker, system orchestration |Docker | 🚧 In Progress |
 |17 |[Webserv]() | Building a web server from scratch |HTTP protocol, socket programming, multi-threading |C++ | 🚧 In Progress |
 |18 |Exam Rank 05 | Advanced programming skills assessment |Complex problem-solving, optimization, advanced C++ concepts |C++ | 📝 Pending |
