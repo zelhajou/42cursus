@@ -199,7 +199,7 @@ Feel free to reach out to me if you have any questions, suggestions, or just wan
 <a href="https://www.linkedin.com/in/zelhajou/">
     <img align="left" alt="Linkedin" width="18px" src="https://cdn.simpleicons.org/linkedin/000/fff" />
 </a>
-<a href="https://twitter.com/aaaikrz">
+<a href="https://twitter.com/zelhajou">
     <img align="left" alt="Twitter" width="18px" src="https://cdn.simpleicons.org/x/000/fff" />
 </a>
 <a href="https://discord.com/users/aaaikrz">
