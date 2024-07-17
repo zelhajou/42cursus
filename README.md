@@ -109,9 +109,19 @@ These are some of the skills I've developed during my time at 42.
 
 ## Stats
 
-These are some of my stats and achievements at 42.
+**42 Stats**
 
 [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
+
+**GitHub Stats**
+
+<div align="left">
+
+| <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
+|:-:|:-:|
+
+</div>
+
 
 ## [Bookshelf](https://github.com/zelhajou/1337-Bookshelf)
 
