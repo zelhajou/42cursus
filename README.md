@@ -190,6 +190,16 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [codequoi](https://www.codequoi.com/en/home-english/)
     - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 
+- **Github Repositories and Gists**
+    - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - A collection of resources for learning low-level programming
+    - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer
+    - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+    - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - A list of tutorials to help you build your own software
+    - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - A curated list of project-based tutorials
+    - [developer-handbook](https://github.com/apptension/developer-handbook) - A collection of resources for developers
+    - [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - A collection of resources for developers
+    - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
+
 ## Music and Playlists
 
 Here are some of my favorite music and playlists to listen to while coding or relaxing.
