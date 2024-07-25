@@ -97,7 +97,7 @@ These are some of the skills I've developed during my time at 42.
 - Web Development
 - Software Engineering
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,bash,git,vscode,vim,emacs,md,latex,docker,github,figma,html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,ubuntu,apple,bash,git,vscode,vim,emacs,md,latex,docker,github,figma,html,css,javascript,nginx)](https://skillicons.dev)
 
 ### Soft-skills
 
