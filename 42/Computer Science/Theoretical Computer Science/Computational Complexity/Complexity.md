@@ -11,7 +11,8 @@ Complexity in computer science refers to the analysis of the efficiency and reso
 - Time complexity is typically expressed using [[Big-O notation]] (e.g., O(n), O(n^2), O(log n)), where "n" represents the size of the input.
 - Common categories of time complexity include:
     - **Constant Time (O(1)):** The algorithm's runtime is independent of the input size.
-   ```c
+
+```c
 #include <stdio.h>
 
 void printFirstElement(int arr[], int n) {
@@ -30,7 +31,8 @@ int main() {
 // This code has a time complexity of O(1) because it performs a single operation regardless of the size of the input.
 ```
     - **Linear Time (O(n)):** The runtime increases linearly with the input size.
-      ```c
+
+```c
 #include <stdio.h>
 
 void printElements(int arr[], int n) {
@@ -50,7 +52,8 @@ int main() {
 
 ```
     - **Quadratic Time (O(n^2)):** The runtime is proportional to the square of the input size.
-    ```c
+
+```c
 #include <stdio.h>
 
 void printPairs(int arr[], int n) {
@@ -73,7 +76,8 @@ int main() {
 
 ```
     - **Logarithmic Time (O(log n)):** The runtime increases logarithmically with the input size, common in efficient algorithms like binary search.
-    ```c
+
+```c
     #include <stdio.h>
 
 int binarySearch(int arr[], int n, int target) {
@@ -171,5 +175,3 @@ int main() {
 # 8. **Trade-offs and Algorithm Design:**
 
 - Complexity analysis helps in making trade-offs between time and space efficiency, as well as in designing algorithms optimized for specific use cases.
-
-# [[Complexity in other fields]]
