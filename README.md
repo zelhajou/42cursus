@@ -145,6 +145,8 @@ These are some of the blogs and articles I've written about my experiences at 42
 **Other blogs and articles by 42 students:**
 
 - [Jun Han Ng](https://hackmd.io/@nszl)
+- [codequoi](https://www.codequoi.com/en/home-english/)
+
 
 ## Study Notes and Cheat Sheets
 
@@ -161,8 +163,6 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [Obsidian](https://obsidian.md/) -  A private and flexible note‑taking app that adapts to the way you think.
     - [Commander One](https://mac.eltima.com/file-manager.html) - Free file manager for Mac to replace Finder
     - [tldraw](https://tldraw.com/) - A collaborative whiteboard tool
-    - [12ft.io](https://12ft.io/) - Remove popups, banners, and ads
-    from any website.
     - [TeraBox](https://terabox.com/) - Cloud storage service
 
 - **Editor and IDE**
@@ -187,7 +187,6 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [42-resources](https://github.com/jotavare/42-resources) - A collection of resources for 42 students
     - [42_CheatSheet](https://github.com/agavrel/42_CheatSheet) - A collection of cheatsheets for 42 students
     - [42 cursus gitbook](https://42-cursus.gitbook.io/guide/) - A guide to the 42 cursus
-    - [codequoi](https://www.codequoi.com/en/home-english/)
     - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
 
 - **Github Repositories and Gists**
