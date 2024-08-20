@@ -86,6 +86,19 @@ These are some of the skills I've developed during my time at 42.
 
 ### Hard-skills
 
+- Computer Systems
+    - Distributed Systems (Operating Systems, Linux)
+        - Linux Virtualization (KVM/QEMU, Docker)
+        - Linux Command-Line Tools and Utilities
+            - Text Editors (nano, vim, emacs)
+            - Compression and Archiving (tar, gzip, zip)
+            - Networking Tools (ping, netstat, nslookup, etc.)
+            - System Monitoring (top, htop, iotop, etc.)
+            - Package Management Tools
+            - Remote Access (ssh, scp)
+            - Disk and File System Tools (df, du, lsblk, etc.)
+        - Shell and Command Line (Bash, Zsh)
+
 - System-level Programming (C, C++)
 - Algorithms And Data Structures
 - Virtualization (Docker, VM)
