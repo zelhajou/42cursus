@@ -88,7 +88,20 @@ These are some of the skills I've developed during my time at 42.
 
 - Computer Systems
     - Distributed Systems (Operating Systems, Linux)
-        - Linux Virtualization (KVM/QEMU, Docker)
+        - Linux Kernel and System Programming
+            - System Calls
+            - Processes and Threads
+            - Signals and IPC (Inter-Process Communication)
+            - Memory Management
+            - File I/O
+            - Sockets and Networking
+            - Threads and Concurrency
+        - Linux Development
+            - C/C++ Development (gcc, g++, make, gdb)
+            - Scripting Languages (Python, Shell Scripting)
+            - Version Control Systems (Git)
+            - IDEs (Integrated Development Environments)
+        - Linux Virtualization (Docker, VM)
         - Linux Command-Line Tools and Utilities
             - Text Editors (nano, vim, emacs)
             - Compression and Archiving (tar, gzip, zip)
