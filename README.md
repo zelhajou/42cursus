@@ -183,12 +183,12 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - https://mail-students.1337.ma/SOGo/ - 1337 webmail
     - [42 Intra](https://profile.intra.42.fr/) - 42's intranet
     - [42tools](https://www.42tools.me/subjects/index.html) - 42's tools and resources
+    - [bleach_42](https://github.com/Ra-Wo/bleach_42) - Script to free up some space
     - [find-peers](https://find-peers.codam.nl/Khouribga) - Find peers at 42
     - [42-resources](https://github.com/jotavare/42-resources) - A collection of resources for 42 students
     - [42_CheatSheet](https://github.com/agavrel/42_CheatSheet) - A collection of cheatsheets for 42 students
     - [42 cursus gitbook](https://42-cursus.gitbook.io/guide/) - A guide to the 42 cursus
     - [Ocean's 42](https://suspectedoceano.notion.site/suspectedoceano/Ocean-s-42-fd42e3ed0f6049ca98fb3b290b84d4d0)
-    - [bleach_42](https://github.com/Ra-Wo/bleach_42)
 
 - **Github Repositories and Gists**
     - [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - A collection of resources for learning low-level programming
