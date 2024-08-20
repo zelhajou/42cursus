@@ -86,42 +86,66 @@ These are some of the skills I've developed during my time at 42.
 
 ### Hard-skills
 
-- Computer Systems
-    - Distributed Systems (Operating Systems, Linux)
-        - Linux Kernel and System Programming
-            - System Calls
-            - Processes and Threads
-            - Signals and IPC (Inter-Process Communication)
-            - Memory Management
-            - File I/O
-            - Sockets and Networking
-            - Threads and Concurrency
-        - Linux Development
-            - C/C++ Development (gcc, g++, make, gdb)
-            - Scripting Languages (Python, Shell Scripting)
-            - Version Control Systems (Git)
-            - IDEs (Integrated Development Environments)
-        - Linux Virtualization (Docker, VM)
-        - Linux Command-Line Tools and Utilities
-            - Text Editors (nano, vim, emacs)
-            - Compression and Archiving (tar, gzip, zip)
-            - Networking Tools (ping, netstat, nslookup, etc.)
-            - System Monitoring (top, htop, iotop, etc.)
-            - Package Management Tools
-            - Remote Access (ssh, scp)
-            - Disk and File System Tools (df, du, lsblk, etc.)
-        - Shell and Command Line (Bash, Zsh)
+- Computer Science
+    - Computer Systems
+        - Distributed Systems (Operating Systems, Linux)
+            - Linux Kernel and System Programming
+                - System Calls
+                - Processes and Threads
+                - Signals and IPC (Inter-Process Communication)
+                - Memory Management
+                - File I/O
+                - Sockets and Networking
+                - Threads and Concurrency
+            - Linux Development
+                - C/C++ Development (gcc, g++, make)
+                - Scripting Languages (Python, Shell Scripting)
+                - Version Control Systems (Git)
+                - IDEs (Integrated Development Environments)
+            - Linux Virtualization (Docker, VM)
+            - Linux Command-Line Tools and Utilities
+                - Text Editors (nano, vim, emacs)
+                - Compression and Archiving (tar, gzip, zip)
+                - Networking Tools (ping, netstat, nslookup, etc.)
+                - System Monitoring (top, htop, iotop, etc.)
+                - Package Management Tools
+                - Remote Access (ssh, scp)
+                - Disk and File System Tools (df, du, lsblk, etc.)
+            - Shell and Command Line (Bash, Zsh)
+            - Linux Networking
+                - IP Addressing and Subnetting
+                - TCP/IP Protocol Suite
+                - OSI Model
+                - Network Protocols (HTTP, FTP, SSH, DNS)
+    - Theoretical Computer Science
+        - Algorithms and Data Structures
+            - Sorting Algorithms (Bubble Sort, Quick Sort, Merge Sort)
+            - Searching Algorithms (Linear Search, Binary Search)
+            - Data Structures (Arrays, Linked Lists, Stacks, Queues, Trees, Graphs)
+        - Complexity Theory
+            - Big O Notation
+            - Time and Space Complexity
 
-- System-level Programming (C, C++)
-- Algorithms And Data Structures
-- Virtualization (Docker, VM)
-- Shell Scripting (Bash)
-- Version Control (Git)
-- Computer Networking
-- Operating Systems (Linux)
-- Graphics Programming
-- Web Development
 - Software Engineering
+    - Programming Languages
+        - C Programming
+            - Standard Library Functions
+            - Memory Management (malloc, free)
+            - Pointers and References
+            - Data Types and Structures
+            - Preprocessor Directives
+            - Compilation and Linking
+        - C++ Programming
+            - Object-Oriented Programming (OOP)
+            - Classes and Objects
+            - Inheritance and Polymorphism
+            - Templates and Generic Programming
+            - Exception Handling
+            - Standard Template Library (STL)
+        - Shell Scripting
+            - Bash Scripting
+            - Command-Line Utilities
+
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,ubuntu,apple,bash,git,vscode,vim,emacs,md,latex,docker,github,figma,html,css,javascript,nginx)](https://skillicons.dev)
 
