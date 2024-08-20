@@ -90,8 +90,6 @@ Linux Knowledge
  - Remote Access (ssh, scp)
  - Disk and File System Tools (df, du, lsblk, etc.)
 
-# [[Shell and Command Line]]
-
 
 ```
 |-- Linux Desktop Environments
