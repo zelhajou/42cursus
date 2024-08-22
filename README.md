@@ -105,12 +105,11 @@ These are some of the skills I've developed during my time at 42.
             - Linux Virtualization (Docker, VM)
             - Linux Command-Line Tools and Utilities
                 - Text Editors (nano, vim, emacs)
-                - Compression and Archiving (tar, gzip, zip)
-                - Networking Tools (ping, netstat, nslookup, etc.)
-                - System Monitoring (top, htop, iotop, etc.)
+                - Networking Tools
+                - System Monitoring
                 - Package Management Tools
-                - Remote Access (ssh, scp)
-                - Disk and File System Tools (df, du, lsblk, etc.)
+                - Remote Access
+                - Disk and File System Tools
             - Shell and Command Line (Bash, Zsh)
             - Linux Networking
                 - IP Addressing and Subnetting
@@ -130,7 +129,7 @@ These are some of the skills I've developed during my time at 42.
     - Programming Languages
         - C Programming
             - Standard Library Functions
-            - Memory Management (malloc, free)
+            - Memory Management
             - Pointers and References
             - Data Types and Structures
             - Preprocessor Directives
