@@ -36,13 +36,15 @@ The **inner circle** is the basic curriculum, with all projects being mandatory 
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
+<!--
 <details>
 
 <summary><ins><b>Click to expand the 42 Holy Graph</b></ins></summary>
 
+</details>
+-->
 ![42 Holy Graph](https://github.com/user-attachments/assets/ccabd3a7-bd07-4e37-ad30-b8fdeb8a363c)
 
-</details>
 
 
 ## Projects
@@ -153,6 +155,10 @@ These are some of the skills I've developed during my time at 42.
 ```
 
 
+![13v6seyveh661](https://github.com/user-attachments/assets/943fff17-50fb-4a74-b6cd-8c369319dc0c)
+
+
+
 
 ### Soft-skills
 
@@ -166,11 +172,15 @@ These are some of the skills I've developed during my time at 42.
 
 **42 Stats**
 
+<div align="center">
+
 [![zelhajou's 42 stats](https://badge.mediaplus.ma/binary/zelhajou)](https://github.com/oakoudad/badge42)
+
+</div>
 
 **GitHub Stats**
 
-<div align="left">
+<div align="center">
 
 | <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
 |:-:|:-:|
