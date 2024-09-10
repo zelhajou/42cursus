@@ -35,9 +35,9 @@ For further information about 42's **selection process** (the "Piscine"), please
 
 ## Curriculum
 
-**42cursus** comprises two groups of projects: the first one is known as _"inner circle"_ and the second one, _"outer treks"_ - due to the **Holy Graph** layout (see image below).
+**42cursus** comprises two groups of projects: the first one is known as _"inner circle"_ and the second one, _"outer treks"_
 
-The **inner circle** is the basic curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
+The **inner circle** is the commoncore curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
