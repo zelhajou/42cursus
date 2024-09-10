@@ -1,5 +1,7 @@
 
-![Frame 1](https://github.com/user-attachments/assets/21c67071-8796-4409-8914-47253349f4be)
+
+![Frame 1 (1)](https://github.com/user-attachments/assets/a6e99675-2055-4444-9767-6d6140ddfa33)
+
 
 # 42cursus
 
