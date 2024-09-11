@@ -21,7 +21,9 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 <a href="#articles">Articles</a><br>
 <a href="#study-notes-and-cheat-sheets">Study notes and cheat sheets</a><br>
 <a href="#tech-stack">Tech Stack</a><br>
+<!--
 <a href="#music-and-playlists">Music and Playlists</a><br>
+-->
 <a href="#contact">Contact</a><br>
 
 </details>
@@ -273,6 +275,7 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - A collection of resources for developers
     - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 
+<!--
 ## Music and Playlists
 
 Here are some of my favorite music and playlists to listen to while coding or relaxing.
@@ -281,6 +284,7 @@ Here are some of my favorite music and playlists to listen to while coding or re
 - [Spotify](https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=43be812e860148c4) - Take a moment to listen to some of my favorite playlists. I hope you enjoy them as much as I do!
 - [Radiooooo](https://radiooooo.com/) -  A website that lets you explore music from different countries and decades.
 - [Moroccan tapes](https://moroccantapes.com/) - A website that showcases Moroccan music from the 60s, 70s, and 80s.
+-->
 
 ## Contact
 
