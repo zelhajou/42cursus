@@ -18,14 +18,13 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 <a href="#skills">Skills</a><br>
 <a href="#stats">Stats</a><br>
 <a href="#bookshelf">Bookshelf</a><br>
-<a href="#articles">Articles</a><br>
+<a href="#blogs-and-articles">Blogs and Articles</a><br>
 <a href="#study-notes-and-cheat-sheets">Study notes and cheat sheets</a><br>
 <a href="#tech-stack">Tech Stack</a><br>
+<a href="#contact">Contact</a><br>
 <!--
 <a href="#music-and-playlists">Music and Playlists</a><br>
 -->
-<a href="#contact">Contact</a><br>
-
 </details>
 
 ## About 42
