@@ -227,6 +227,7 @@ These are some of the study notes and cheat sheets I've created to help me learn
 -  Programming languages ([C](https://github.com/zelhajou/42cursus-piscine-c/tree/main/C%20Cheat%20Sheet), [C++](https://github.com/zelhajou/42cursus-cpp-modules/tree/main/C%2B%2B%20Cheat%20Sheet))
 - Frontend web development ([HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML), [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS))
 
+**All in One**:
 - [cheatsheets.zip](https://cheatsheets.zip/)
 - [QuickRef.ME](https://quickref.me/)
 
@@ -273,6 +274,9 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [developer-handbook](https://github.com/apptension/developer-handbook) - A collection of resources for developers
     - [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - A collection of resources for developers
     - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
+
+- **General Resources**
+    - [Devdocs](https://devdocs.io/) - A collection of API documentation
 
 <!--
 ## Music and Playlists
