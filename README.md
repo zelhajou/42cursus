@@ -94,8 +94,67 @@ These are some of the skills I've developed during my time at 42.
 
 ### Hard-skills
 
+```markdown
+├── Skills & Tools
+    ├── Programming Languages
+    │   ├── C
+    │   ├── C++
+    │   └── Shell Scripting
+    ├── Operating Systems
+    │   ├── Linux (Debian)
+    │   └── Unix-based systems
+    ├── Software Development
+    │   ├── Data Structures and Algorithms
+    │   ├── Object-Oriented Programming (OOP)
+    │   ├── Memory Management
+    │   ├── Concurrency and Multithreading
+    │   └── Inter-Process Communication (IPC)
+    ├── System Programming
+    │   ├── Process Management
+    │   ├── Thread Synchronization
+    │   ├── Signal Handling
+    │   ├── File I/O Operations
+    │   └── Socket Programming
+    ├── Networking
+    │   ├── TCP/IP Protocols
+    │   ├── HTTP Protocol
+    │   └── Network Configuration
+    ├── Graphics Programming
+    │   ├── Raycasting
+    │   └── Fractal Rendering
+    ├── DevOps & Containerization
+    │   ├── Virtualization
+    │   ├── Docker
+    │   └── System Configuration and Management
+    ├── Web Development
+    │   ├── Web Server Implementation
+    │   └── HTTP Server Programming
+    ├── Version Control
+    │   └── Git
+    ├── Problem Solving
+    │   ├── Algorithm Design and Optimization
+    │   └── Debugging and Troubleshooting
+    ├── Software Engineering Practices
+    │   ├── Code Organization and Modularity
+    │   ├── Project Planning and Management
+    │   └── Documentation
+    ├── Tools
+    │   ├── Makefile
+    │   ├── GCC Compiler
+    │   ├── GDB Debugger
+    │   └── Valgrind (Memory Debugging)
+    └── Concepts
+        ├── UNIX Philosophy
+        ├── Microservices Architecture
+        └── RESTful API Design
+```
+<div align="center">
+    
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,ubuntu,apple,bash,git,vscode,vim,emacs,md,latex,docker,github,figma,html,css,javascript,nginx)](https://skillicons.dev)
 
+</div>
+
+<!--
 
 ```sh
 
@@ -159,7 +218,7 @@ These are some of the skills I've developed during my time at 42.
             └── Command-Line Utilities
 
 ```
-
+-->
 <!--
 ![13v6seyveh661](https://github.com/user-attachments/assets/943fff17-50fb-4a74-b6cd-8c369319dc0c)
 -->
