@@ -144,9 +144,8 @@ These are some of the skills I've developed during my time at 42.
     │   ├── GDB Debugger
     │   └── Valgrind (Memory Debugging)
     └── Concepts
-        ├── UNIX Philosophy
-        ├── Microservices Architecture
-        └── RESTful API Design
+         └──  UNIX Philosophy
+
 ```
 <div align="center">
     
@@ -158,7 +157,10 @@ These are some of the skills I've developed during my time at 42.
 
 ```sh
 
-.
+        ├── Microservices Architecture
+        └── RESTful API Design
+
+
 ├── Computer Science
 │   ├── Computer Systems
 │   │   └── Distributed Systems (Operating Systems, Linux)
