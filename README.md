@@ -7,18 +7,18 @@
 
 This repository contains my projects developed at [1337](https://1337.ma/en/) programming school for the [42](https://42.fr/en/homepage/) Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
 
-<b>Table of Contents</b>
+## Table of Contents
 
-<a href="#about-42">About 42</a><br>
-<a href="#curriculum">Curriculum</a><br>
-<a href="#projects">Projects</a><br>
-<a href="#skills">Skills</a><br>
-<a href="#stats">Stats</a><br>
-<a href="#bookshelf">Bookshelf</a><br>
-<a href="#blogs-and-articles">Blogs and Articles</a><br>
-<a href="#study-notes-and-cheat-sheets">Study notes</a><br>
-<a href="#tech-stack">Tech Stack</a><br>
-<a href="#contact">Contact</a><br>
+- [About 42](#about-42)
+- [Curriculum](#curriculum)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Stats](#stats)
+- [Bookshelf](#bookshelf)
+- [Blogs and Articles](#blogs-and-articles)
+- [Study Notes and Cheat Sheets](#study-notes-and-cheat-sheets)
+- [Tech Stack](#tech-stack)
+- [Contact](#contact)
 
 
 ## About 42
