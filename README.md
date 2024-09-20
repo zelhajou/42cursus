@@ -160,9 +160,9 @@ These are some of the skills I've developed during my time at 42.
 
 ```
 
-
+<!--
 ![13v6seyveh661](https://github.com/user-attachments/assets/943fff17-50fb-4a74-b6cd-8c369319dc0c)
-
+-->
 
 
 
