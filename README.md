@@ -9,18 +9,16 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 
 ## Table of Contents
 
-- [About 42](#about-42)
-- [Curriculum](#curriculum)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Stats](#stats)
-- [Bookshelf](#bookshelf)
-- [Blogs and Articles](#blogs-and-articles)
-- [Study Notes](#study-note)
-- [Tech Stack](#tech-stack)
-- [Contact](#contact)
-
-
+- 🏫 [About 42](#about-42)
+- 📚 [Curriculum](#curriculum)
+- 🚀 [Projects](#projects)
+- 🛠️ [Skills](#skills)
+- 📊 [Stats](#stats)
+- 📚 [Bookshelf](#bookshelf)
+- 📝 [Blogs and Articles](#blogs-and-articles)
+- 📓 [Study Notes](#study-notes)
+- 💻 [Tech Stack](#tech-stack)
+- 📞 [Contact](#contact)
 ## About 42
 
 42 is a global education initiative that offers a new way of learning technology:
