@@ -16,7 +16,7 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 - [Stats](#stats)
 - [Bookshelf](#bookshelf)
 - [Blogs and Articles](#blogs-and-articles)
-- [Study Notes and Cheat Sheets](#study-notes-and-cheat-sheets)
+- [Study Notes](#study-note)
 - [Tech Stack](#tech-stack)
 - [Contact](#contact)
 
@@ -274,7 +274,7 @@ These are some of the blogs and articles I've written about my experiences at 42
 - [codequoi](https://www.codequoi.com/en/home-english/)
 
 
-## Study Notes and Cheat Sheets
+## Study Notes
 
 These are some of the study notes and cheat sheets I've created to help me learn and remember key concepts in computer science, programming, and other subjects.
 
