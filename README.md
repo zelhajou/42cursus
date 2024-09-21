@@ -49,34 +49,33 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 The following table lists the projects I've completed as part of the 42 Cursus. Each project is linked to its repository, where you can find the project's description, requirements, and my implementation.
 
-|CIRCLE |PROJECT |DESCRIPTION |KEY TAKEAWAYS |TECHNOLOGY |STATUS |
-|:-: |:--  |:--  |:--  |:--  |:-: |
-|00 |[Libft](https://github.com/zelhajou/42-libft)| A library of useful C functions |Basics of C programming, data structures |C |✅ 122  |
-|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |
-|01 |[ft_printf](https://github.com/zelhajou/42-ft_printf)|A function that mimics the behavior of the C library printf function|C string formatting, variadic functions |C | ✅  100 |
-|02 |[Born2beroot](https://github.com/zelhajou/42-Born2beRoot)| A project on Virtualization basics |Virtualization, Linux basics |VM, debian |✅  108|
-|03 |[get_next_line](https://github.com/zelhajou/42-get_next_line)| A function that reads a file line-by-line |File I/O, memory management |C |✅  125|
-|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
-|04 |[Push_swap](https://github.com/zelhajou/42-push_swap)| A program that sorts a stack of numbers |Algorithm optimization, stack manipulation |C |✅ 125|
-|05 |[Minitalk](https://github.com/zelhajou/42-minitalk)| A communication program using UNIX signals |UNIX signals, inter-process communication |C | ✅  100|
-|06 |[Fract-ol](https://github.com/zelhajou/42-fractol)| Renders Julia and Mandelbrot fractals |Graphics programming, fractal mathematics |C | ✅  100 |
-|07 |Exam Rank 02| Programming skills assessment |Problem-solving, time management |C | ✅  100 |
-|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
-|08 |[Philosophers](https://github.com/zelhajou/42-Philosophers)| Dining Philosophers problem simulation |Concurrency, thread synchronization |C | ✅  100 |
-|09 |[Minishell](https://github.com/zelhajou/42-minishell) | Custom shell emulating bash |Shell scripting, process management |C | ✅  101 |
-|10 |Exam Rank 03 | Programming skills assessment | get_next_line or ft_printf function implementation |C | ✅  100 |
-|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
-|11 |[Net_practice](https://github.com/zelhajou/42-net_practice) | Networking concepts and protocols |Networking fundamentals, protocol analysis |Networking, Protocols | ✅  100 |
-|12 |[Cub3d](https://github.com/zelhajou/42-cub3D) | 3D maze using raycasting |Graphics programming, raycasting |C | ✅  115 |
-|13 |[CPP Modules 00 - 04](https://github.com/zelhajou/42cursus-cpp-modules)| C++ fundamentals and advanced concepts | Namespaces, classes, memory allocation, pointers, inheritance, polymorphism, templates |C++ | ✅  80|
-|14 |Exam Rank 04| Microshell exam | Shell command execution, piping, error handling | C | ✅  100 |
-|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
-|15 |[Webserv](https://github.com/zelhajou/42cursus-webserv) | Building a web server from scratch |HTTP protocol, socket programming, multi-threading |C++ | ✅ 125 |
-|16 |[Inception](https://github.com/zelhajou/42cursus-inception) | Docker-based system setup and configuration |Containerization, Docker, system orchestration |Docker | 🚧 In Progress |
-|17 |[CPP Modules 05 - 08](https://github.com/zelhajou/42cursus-cpp-modules)| Advanced C++ concepts |Operator overloading, exception handling, file I/O, STL, advanced OOP |C++ | 🚧 In Progress |
-|18 |Exam Rank 05 | Advanced programming skills assessment |Complex problem-solving, optimization, advanced C++ concepts |C++ | 📝 Pending |
-|:dizzy:| :dizzy: | :dizzy: |:dizzy: | :dizzy: |:dizzy: |
-
+| Level | Project | Description | Skills | Language | Status | Team |
+|:-:|:--|:--|:--|:--|:-:|:-:|
+| 00 | [Libft](https://github.com/zelhajou/42-libft) | A library of useful C functions | Basics of C programming, data structures | C | ✅ 122 | 👤 Solo |
+| :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: |
+| 01 | [ft_printf](https://github.com/zelhajou/42-ft_printf) | A function that mimics the behavior of the C library printf function | C string formatting, variadic functions | C | ✅ 100 | 👤 Solo |
+| 02 | [Born2beroot](https://github.com/zelhajou/42-Born2beRoot) | A project on Virtualization basics | Virtualization, Linux basics | VM, debian | ✅ 108 | 👤 Solo |
+| 03 | [get_next_line](https://github.com/zelhajou/42-get_next_line) | A function that reads a file line-by-line | File I/O, memory management | C | ✅ 125 | 👤 Solo |
+| :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: |
+| 04 | [Push_swap](https://github.com/zelhajou/42-push_swap) | A program that sorts a stack of numbers | Algorithm optimization, stack manipulation | C | ✅ 125 | 👤 Solo |
+| 05 | [Minitalk](https://github.com/zelhajou/42-minitalk) | A communication program using UNIX signals | UNIX signals, inter-process communication | C | ✅ 100 | 👤 Solo |
+| 06 | [Fract-ol](https://github.com/zelhajou/42-fractol) | Renders Julia and Mandelbrot fractals | Graphics programming, fractal mathematics | C | ✅ 100 | 👤 Solo |
+| 07 | Exam Rank 02 | Programming skills assessment | Problem-solving, time management | C | ✅ 100 | 👤 Solo |
+| :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: |
+| 08 | [Philosophers](https://github.com/zelhajou/42-Philosophers) | Dining Philosophers problem simulation | Concurrency, thread synchronization | C | ✅ 100 | 👤 Solo |
+| 09 | [Minishell](https://github.com/zelhajou/42-minishell) | Custom shell emulating bash | Shell scripting, process management | C | ✅ 101 | 👥 Team (2) |
+| 10 | Exam Rank 03 | Programming skills assessment | get_next_line or ft_printf function implementation | C | ✅ 100 | 👤 Solo |
+| :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: |
+| 11 | [Net_practice](https://github.com/zelhajou/42-net_practice) | Networking concepts and protocols | Networking fundamentals, protocol analysis | Networking, Protocols | ✅ 100 | 👤 Solo |
+| 12 | [Cub3d](https://github.com/zelhajou/42-cub3D) | 3D maze using raycasting | Graphics programming, raycasting | C | ✅ 115 | 👥 Team (2) |
+| 13 | [CPP Modules 00 - 04](https://github.com/zelhajou/42cursus-cpp-modules) | C++ fundamentals and advanced concepts | Namespaces, classes, memory allocation, pointers, inheritance, polymorphism, templates | C++ | ✅ 80 | 👤 Solo |
+| 14 | Exam Rank 04 | Microshell exam | Shell command execution, piping, error handling | C | ✅ 100 | 👤 Solo |
+| :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: |
+| 15 | [Webserv](https://github.com/zelhajou/42cursus-webserv) | Building a web server from scratch | HTTP protocol, socket programming C++ | ✅ 125 | 👥👤 Team (3) |
+| 16 | [Inception](https://github.com/zelhajou/42cursus-inception) | Docker-based system setup and configuration | Containerization, Docker, system orchestration | Docker | 🚧 In Progress | 👤 Solo |
+| 17 | [CPP Modules 05 - 09](https://github.com/zelhajou/42cursus-cpp-modules) | Advanced C++ concepts | Operator overloading, exception handling, file I/O, STL, advanced OOP | C++ | 🚧 In Progress | 👤 Solo |
+| 18 | Exam Rank 05 | Advanced programming skills assessment | Complex problem-solving, optimization, advanced C++ concepts | C++ | 📝 Pending | 👤 Solo |
+| :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: |
 
 <!-- 🚧 In Progres -->
 <!--  ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-ft_printf?style=social) | -->
