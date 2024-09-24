@@ -364,6 +364,12 @@ Feel free to reach out to me if you have any questions, suggestions, or just wan
     <img align="left" alt="Instagram" width="18px" src="https://cdn.simpleicons.org/instagram/000/fff" />
 </a>
 
+<br>
+<br>
+<br>
 
+<div align="center">
 
+![8rtdcmuc8jk51](https://github.com/user-attachments/assets/6d614260-90e0-43b1-afb7-97f8e8f9f247)
 
+</div>
