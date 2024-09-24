@@ -290,7 +290,6 @@ These are some of the study notes and cheat sheets I've created to help me learn
     - [Obsidian](https://obsidian.md/) -  A private and flexible note‑taking app that adapts to the way you think.
     - [Commander One](https://mac.eltima.com/file-manager.html) - Free file manager for Mac to replace Finder
     - [tldraw](https://tldraw.com/) - A collaborative whiteboard tool
-    - [TeraBox](https://terabox.com/) - Cloud storage service
 
 - **Editor and IDE**
     - [Replit](https://replit.com/) - Online IDE for coding in multiple languages
