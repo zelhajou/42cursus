@@ -331,6 +331,8 @@ These are some of the study notes and cheat sheets I've created to help me learn
 
 - **Youtube Channels**
     - [Wacky Science](https://www.youtube.com/@wacky.science)
+    - [Quanta Magazine](https://www.youtube.com/@QuantaScienceChannel)
+    - [Core Dumped](https://www.youtube.com/@CoreDumpped)
 <!--
 ## Music and Playlists
 
