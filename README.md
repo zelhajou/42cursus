@@ -329,6 +329,8 @@ These are some of the study notes and cheat sheets I've created to help me learn
 - **General Resources**
     - [Devdocs](https://devdocs.io/) - A collection of API documentation
 
+- **Youtube Channels**
+    - [Wacky Science](https://www.youtube.com/@wacky.science)
 <!--
 ## Music and Playlists
 
