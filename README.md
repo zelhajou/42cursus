@@ -285,7 +285,7 @@ These are some of the study notes and cheat sheets I've created to help me learn
 
 ## Tech Stack
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th>Category</th>
