@@ -31,5 +31,3 @@ else
 	echo 'export PATH=$HOME/goinfre/homebrew/bin:$PATH' >> ~/.zshrc
 	cd - &>/dev/null
 fi
-
-./install.sh
