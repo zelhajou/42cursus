@@ -83,6 +83,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 These are some of the skills I've developed during my time at 42.
 
+<!--
 ### Hard-skills
 
 ```markdown
@@ -137,6 +138,8 @@ These are some of the skills I've developed during my time at 42.
     └── Concepts
          └──  UNIX Philosophy
 
+-->
+
 ```
 <div align="center">
     
@@ -147,9 +150,6 @@ These are some of the skills I've developed during my time at 42.
 <!--
 
 ```sh
-
-        ├── Microservices Architecture
-        └── RESTful API Design
 
 
 ├── Computer Science
