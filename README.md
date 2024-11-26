@@ -83,7 +83,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 These are some of the skills I've developed during my time at 42.
 
-### Fundamental C Programming ([Libft]((https://github.com/zelhajou/42-libft)))
+### Fundamental C Programming ([Libft](https://github.com/zelhajou/42-libft))
 
 <pre>
 ├── Memory Management
@@ -175,7 +175,7 @@ These are some of the skills I've developed during my time at 42.
 │   ├── subnet masks
 │   ├── routing tables
 │   └── network troubleshooting
-└── Web Server Implementation (<a href="https://github.com/zelhajou/42-webserv">Webserv)
+└── Web Server Implementation (<a href="https://github.com/zelhajou/42-webserv">Webserv</a>)
     ├── socket programming
     ├── HTTP protocol
     ├── request handling
