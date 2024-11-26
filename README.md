@@ -83,6 +83,187 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 These are some of the skills I've developed during my time at 42.
 
+### Fundamental C Programming ([Libft]((https://github.com/zelhajou/42-libft)))
+
+<pre>
+├── Memory Management
+│   ├── malloc/free implementation
+│   ├── memory copy and set operations
+│   └── memory block manipulation
+├── String Operations
+│   ├── string manipulation (strdup, strjoin, strtrim)
+│   ├── string comparison functions
+│   ├── character classification
+│   └── string conversion (atoi, itoa)
+└── Data Structures
+    ├── linked list implementation
+    ├── node manipulation
+    └── list traversal algorithms
+</pre>
+
+### Input/Output Management
+<pre>
+├── Printf Implementation (<a href="https://github.com/zelhajou/42-ft_printf">ft_printf</a>)
+│   ├── variadic functions usage
+│   ├── format specifier parsing
+│   ├── type conversion handling
+│   └── buffer management
+├── File Operations (<a href="https://github.com/zelhajou/42-get_next_line">get_next_line</a>)
+│   ├── file descriptor handling
+│   ├── static variable usage
+│   ├── buffer reading strategies
+│   └── memory leak prevention
+└── Standard I/O
+    ├── input parsing
+    ├── output formatting
+    └── error handling
+</pre>
+
+### System Administration ([Born2beroot](https://github.com/zelhajou/42-Born2beRoot))
+<pre>
+├── Virtualization
+│   ├── Virtual Machine setup
+│   ├── Debian system installation
+│   └── system resource management
+├── System Security
+│   ├── password policy implementation
+│   ├── user/group management
+│   └── sudo configuration
+└── Service Management
+    ├── SSH server configuration
+    ├── UFW firewall setup
+    └── system monitoring (cron)
+</pre>
+
+### Algorithm Implementation
+<pre>
+├── Stack Operations (<a href="https://github.com/zelhajou/42-push_swap">Push_swap</a>)
+│   ├── stack data structure
+│   ├── sorting algorithms
+│   ├── operation optimization
+│   └── complexity analysis
+└── Mathematical Visualization (<a href="https://github.com/zelhajou/42-fract-ol">Fract-ol</a>)
+    ├── fractal mathematics
+    ├── complex number operations
+    ├── zoom handling
+    └── color mapping
+</pre>
+
+
+### Process & Thread Management
+<pre>
+├── Signal Handling (<a href="https://github.com/zelhajou/42-minitalk">Minitalk</a>)
+│   ├── UNIX signals
+│   ├── bit manipulation
+│   └── process communication
+├── Thread Synchronization (Philosophers)
+│   ├── mutex implementation
+│   ├── deadlock prevention
+│   ├── resource sharing
+│   └── dining philosophers algorithm
+└── Process Control (<a href="https://github.com/zelhajou/42-minishell">Minishell</a>)
+    ├── process creation (fork)
+    ├── process execution (execve)
+    ├── pipe implementation
+    └── signal handling
+</pre>
+
+### Networking
+<pre>
+├── Network Configuration (<a href="https://github.com/zelhajou/42-net_practice">NetPractice</a>)
+│   ├── IP addressing
+│   ├── subnet masks
+│   ├── routing tables
+│   └── network troubleshooting
+└── Web Server Implementation (<a href="https://github.com/zelhajou/42-webserv">Webserv)
+    ├── socket programming
+    ├── HTTP protocol
+    ├── request handling
+    └── response generation
+</pre>
+
+### Graphics Programming ([Cub3D](https://github.com/zelhajou/42-cub3D))
+<pre>
+├── Raycasting Engine
+│   ├── ray calculation
+│   ├── wall rendering
+│   └── texture mapping
+├── Game Development
+│   ├── player movement
+│   ├── collision detection
+│   └── map parsing
+└── Graphics Optimization
+    ├── frame rate management
+    ├── rendering efficiency
+    └── memory usage optimization
+</pre>
+
+
+### Object-Oriented Programming (CPP Modules)
+<pre>
+├── Basic Concepts (<a href="https://github.com/zelhajou/42cursus-cpp-modules">00-04</a>)   
+│   ├── class implementation
+│   ├── encapsulation
+│   ├── inheritance
+│   └── polymorphism
+├── Advanced Features (<a href="https://github.com/zelhajou/42cursus-cpp-modules">05-09</a>)
+│   ├── templates
+│   ├── exception handling
+│   └── operator overloading
+└── Standard Template Library
+    ├── containers
+    ├── algorithms
+    └── iterators
+</pre>
+  
+### Containerization ([Inception](https://github.com/zelhajou/42-inception))
+<pre>
+├── Docker
+│   ├── container creation
+│   ├── image building
+│   └── volume management
+├── Service Configuration
+│   ├── nginx setup
+│   ├── WordPress configuration
+│   └── MariaDB management
+└── Network Architecture
+    ├── container networking
+    ├── port mapping
+    └── service discovery
+</pre>
+
+### Development Tools & Practices
+<pre>
+├── Build System
+│   ├── Makefile creation
+│   └── compilation flags
+├── Debugging
+│   ├── GDB usage
+│   ├── Valgrind for memory checking
+│   └── error tracking
+└── Version Control
+    ├── Git fundamentals
+    ├── repository management
+    └── collaborative workflow
+</pre>
+
+## Project Planning & Management
+<pre>
+├── Time Management
+│   ├── project scheduling
+│   ├── deadline adherence
+│   └── resource allocation
+├── Documentation
+│   ├── code documentation
+│   ├── README creation
+│   └── man page writing
+└── Team Collaboration
+    ├── pair programming (<a href="https://github.com/zelhajou/42-minishell">Minishell</a>, <a href="https://github.com/zelhajou/42-cub3D">Cub3D</a>)
+    ├── code review
+    └── project coordination
+</pre>
+
+
 <!--
 ### Hard-skills
 
@@ -138,9 +319,10 @@ These are some of the skills I've developed during my time at 42.
     └── Concepts
          └──  UNIX Philosophy
 
+```
 -->
 
-```
+
 <div align="center">
     
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,ubuntu,apple,bash,git,vscode,vim,emacs,md,latex,docker,github,figma,html,css,javascript,nginx)](https://skillicons.dev)
@@ -210,13 +392,6 @@ These are some of the skills I've developed during my time at 42.
             ├── Bash Scripting
             └── Command-Line Utilities
 
-```
--->
-<!--
-![13v6seyveh661](https://github.com/user-attachments/assets/943fff17-50fb-4a74-b6cd-8c369319dc0c)
--->
-
-
 
 ### Soft-skills
 
@@ -225,6 +400,16 @@ These are some of the skills I've developed during my time at 42.
 - **Time management and resiliency:** The school is open 24/7. Thus, the cadets are free to work whenever they want, which demands excellent time management skills and resiliency for not "drowning" amid the massive load of work demanded by the program.
 - **Problem-solving:** The projects are designed to challenge the cadets' problem-solving skills, requiring them to think outside the box and find creative solutions to complex problems.
 - **Communication:** The peer-to-peer learning methodology requires cadets to communicate effectively with their peers, both to ask for help and to help others. This promotes the development of communication skills, which are essential in the workplace.
+
+
+```
+-->
+<!--
+![13v6seyveh661](https://github.com/user-attachments/assets/943fff17-50fb-4a74-b6cd-8c369319dc0c)
+-->
+
+
+
 
 ## Stats
 
