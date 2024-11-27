@@ -80,10 +80,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <!-- 🚧 In Progres -->
 <!--  ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-ft_printf?style=social) | -->
 ## Skills
-
-These are some of the skills I've developed during my time at 42.
-
-### Fundamental C Programming ([Libft](https://github.com/zelhajou/42-libft))
+### 🔧 Fundamental C Programming ([Libft](https://github.com/zelhajou/42-libft))
 
 <pre>
 ├── Memory Management
@@ -101,7 +98,7 @@ These are some of the skills I've developed during my time at 42.
     └── list traversal algorithms
 </pre>
 
-### Input/Output Management
+### 📝 Input/Output Management
 <pre>
 ├── Printf Implementation (<a href="https://github.com/zelhajou/42-ft_printf">ft_printf</a>)
 │   ├── variadic functions usage
@@ -119,7 +116,7 @@ These are some of the skills I've developed during my time at 42.
     └── error handling
 </pre>
 
-### System Administration ([Born2beroot](https://github.com/zelhajou/42-Born2beRoot))
+### 💻 System Administration ([Born2beroot](https://github.com/zelhajou/42-Born2beRoot))
 <pre>
 ├── Virtualization
 │   ├── Virtual Machine setup
@@ -135,7 +132,7 @@ These are some of the skills I've developed during my time at 42.
     └── system monitoring (cron)
 </pre>
 
-### Algorithm Implementation
+### 🧮 Algorithm Implementation
 <pre>
 ├── Stack Operations (<a href="https://github.com/zelhajou/42-push_swap">Push_swap</a>)
 │   ├── stack data structure
@@ -150,7 +147,7 @@ These are some of the skills I've developed during my time at 42.
 </pre>
 
 
-### Process & Thread Management
+### ⚡ Process & Thread Management
 <pre>
 ├── Signal Handling (<a href="https://github.com/zelhajou/42-minitalk">Minitalk</a>)
 │   ├── UNIX signals
@@ -168,7 +165,7 @@ These are some of the skills I've developed during my time at 42.
     └── signal handling
 </pre>
 
-### Networking
+### 🌐 Networking
 <pre>
 ├── Network Configuration (<a href="https://github.com/zelhajou/42-net_practice">NetPractice</a>)
 │   ├── IP addressing
@@ -182,7 +179,7 @@ These are some of the skills I've developed during my time at 42.
     └── response generation
 </pre>
 
-### Graphics Programming ([Cub3D](https://github.com/zelhajou/42-cub3D))
+### 🎮 Graphics Programming ([Cub3D](https://github.com/zelhajou/42-cub3D))
 <pre>
 ├── Raycasting Engine
 │   ├── ray calculation
@@ -199,7 +196,7 @@ These are some of the skills I've developed during my time at 42.
 </pre>
 
 
-### Object-Oriented Programming (CPP Modules)
+### 🔵 Object-Oriented Programming (CPP Modules)
 <pre>
 ├── Basic Concepts (<a href="https://github.com/zelhajou/42cursus-cpp-modules">00-04</a>)   
 │   ├── class implementation
@@ -216,7 +213,7 @@ These are some of the skills I've developed during my time at 42.
     └── iterators
 </pre>
   
-### Containerization ([Inception](https://github.com/zelhajou/42-inception))
+### 🐳 Containerization ([Inception](https://github.com/zelhajou/42-inception))
 <pre>
 ├── Docker
 │   ├── container creation
@@ -232,7 +229,7 @@ These are some of the skills I've developed during my time at 42.
     └── service discovery
 </pre>
 
-### Development Tools & Practices
+### 🛠️ Development Tools & Practices
 <pre>
 ├── Build System
 │   ├── Makefile creation
@@ -247,7 +244,7 @@ These are some of the skills I've developed during my time at 42.
     └── collaborative workflow
 </pre>
 
-## Project Planning & Management
+### 📊 Project Planning & Management
 <pre>
 ├── Time Management
 │   ├── project scheduling
@@ -264,63 +261,7 @@ These are some of the skills I've developed during my time at 42.
 </pre>
 
 
-<!--
-### Hard-skills
 
-```markdown
-├── Skills & Tools
-    ├── Programming Languages
-    │   ├── C
-    │   ├── C++
-    │   └── Shell Scripting
-    ├── Operating Systems
-    │   ├── Linux (Debian)
-    │   └── Unix-based systems
-    ├── Software Development
-    │   ├── Data Structures and Algorithms
-    │   ├── Object-Oriented Programming (OOP)
-    │   ├── Memory Management
-    │   ├── Concurrency and Multithreading
-    │   └── Inter-Process Communication (IPC)
-    ├── System Programming
-    │   ├── Process Management
-    │   ├── Thread Synchronization
-    │   ├── Signal Handling
-    │   ├── File I/O Operations
-    │   └── Socket Programming
-    ├── Networking
-    │   ├── TCP/IP Protocols
-    │   ├── HTTP Protocol
-    │   └── Network Configuration
-    ├── Graphics Programming
-    │   ├── Raycasting
-    │   └── Fractal Rendering
-    ├── DevOps & Containerization
-    │   ├── Virtualization
-    │   ├── Docker
-    │   └── System Configuration and Management
-    ├── Web Development
-    │   ├── Web Server Implementation
-    │   └── HTTP Server Programming
-    ├── Version Control
-    │   └── Git
-    ├── Problem Solving
-    │   ├── Algorithm Design and Optimization
-    │   └── Debugging and Troubleshooting
-    ├── Software Engineering Practices
-    │   ├── Code Organization and Modularity
-    │   ├── Project Planning and Management
-    │   └── Documentation
-    ├── Tools
-    │   ├── Makefile
-    │   ├── GCC Compiler
-    │   ├── GDB Debugger
-    │   └── Valgrind (Memory Debugging)
-    └── Concepts
-         └──  UNIX Philosophy
-
-```
--->
 
 
 <div align="center">
@@ -329,81 +270,6 @@ These are some of the skills I've developed during my time at 42.
 
 </div>
 
-<!--
-
-```sh
-
-
-├── Computer Science
-│   ├── Computer Systems
-│   │   └── Distributed Systems (Operating Systems, Linux)
-│   │       ├── Linux Kernel and System Programming
-│   │       │   ├── System Calls
-│   │       │   ├── Processes and Threads
-│   │       │   ├── Signals and IPC (Inter-Process Communication)
-│   │       │   ├── Memory Management
-│   │       │   ├── File I/O
-│   │       │   ├── Sockets and Networking
-│   │       │   └── Threads and Concurrency
-│   │       ├── Linux Development
-│   │       │   ├── C/C++ Development (gcc, g++, make)
-│   │       │   ├── Scripting Languages (Python, Shell Scripting)
-│   │       │   ├── Version Control Systems (Git)
-│   │       │   └── IDEs (Integrated Development Environments)
-│   │       ├── Linux Virtualization (Docker, VM)
-│   │       ├── Linux Command-Line Tools and Utilities
-│   │       │   ├── Text Editors (nano, vim, emacs)
-│   │       │   ├── Networking Tools
-│   │       │   ├── System Monitoring
-│   │       │   ├── Package Management Tools
-│   │       │   ├── Remote Access
-│   │       │   └── Disk and File System Tools
-│   │       ├── Shell and Command Line (Bash, Zsh)
-│   │       └── Linux Networking
-│   │           ├── IP Addressing and Subnetting
-│   │           ├── TCP/IP Protocol Suite
-│   │           ├── OSI Model
-│   │           └── Network Protocols (HTTP, FTP, SSH, DNS)
-│   └── Theoretical Computer Science
-│       ├── Algorithms and Data Structures
-│       │   ├── Sorting Algorithms (Bubble Sort, Quick Sort, Merge Sort)
-│       │   ├── Searching Algorithms (Linear Search, Binary Search)
-│       │   └── Data Structures (Arrays, Linked Lists, Stacks, Queues, Trees, Graphs)
-│       └── Complexity Theory
-│           ├── Big O Notation
-│           └── Time and Space Complexity
-└── Software Engineering
-    └── Programming Languages
-        ├── C Programming
-        │   ├── Standard Library Functions
-        │   ├── Memory Management
-        │   ├── Pointers and References
-        │   ├── Data Types and Structures
-        │   ├── Preprocessor Directives
-        │   └── Compilation and Linking
-        ├── C++ Programming
-        │   ├── Object-Oriented Programming (OOP)
-        │   ├── Classes and Objects
-        │   ├── Inheritance and Polymorphism
-        │   ├── Templates and Generic Programming
-        │   ├── Exception Handling
-        │   └── Standard Template Library (STL)
-        └── Shell Scripting
-            ├── Bash Scripting
-            └── Command-Line Utilities
-
-
-### Soft-skills
-
-- **Self-learning and proactivity:** At 42, self-learning is at the core of its peer-to-peer learning methodology. There are no teachers whatsoever; the learning process is based on googling, enquiring your classmates, and empirical knowledge, with each student learning at their own pace.
-- **Teamwork:** Some projects must or should be developed in groups, which promotes collaborative work among cadets. The major challenge here is to equalize the different knowledge levels while finding a common work methodology that allows all team members to contribute to the project.
-- **Time management and resiliency:** The school is open 24/7. Thus, the cadets are free to work whenever they want, which demands excellent time management skills and resiliency for not "drowning" amid the massive load of work demanded by the program.
-- **Problem-solving:** The projects are designed to challenge the cadets' problem-solving skills, requiring them to think outside the box and find creative solutions to complex problems.
-- **Communication:** The peer-to-peer learning methodology requires cadets to communicate effectively with their peers, both to ask for help and to help others. This promotes the development of communication skills, which are essential in the workplace.
-
-
-```
--->
 <!--
 ![13v6seyveh661](https://github.com/user-attachments/assets/943fff17-50fb-4a74-b6cd-8c369319dc0c)
 -->
