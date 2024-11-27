@@ -172,7 +172,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 │   ├── subnet masks
 │   ├── routing tables
 │   └── network troubleshooting
-└── Web Server Implementation (<a href="https://github.com/zelhajou/42-webserv">Webserv</a>)
+└── Web Server Implementation (<a href="https://github.com/zelhajou/42cursus-webserv">Webserv</a>)
     ├── socket programming
     ├── HTTP protocol
     ├── request handling
@@ -248,12 +248,11 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <pre>
 ├── Time Management
 │   ├── project scheduling
-│   ├── deadline adherence
+│   └── deadline adherence
 │   └── resource allocation
 ├── Documentation
 │   ├── code documentation
-│   ├── README creation
-│   └── man page writing
+│   └── README creation
 └── Team Collaboration
     ├── pair programming (<a href="https://github.com/zelhajou/42-minishell">Minishell</a>, <a href="https://github.com/zelhajou/42-cub3D">Cub3D</a>)
     ├── code review
