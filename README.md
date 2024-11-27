@@ -316,11 +316,6 @@ These are some of the blogs and articles I've written about my experiences at 42
 
 - [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
 
-**Other blogs and articles by 42 students:**
-
-- [Jun Han Ng](https://hackmd.io/@nszl)
-- [codequoi](https://www.codequoi.com/en/home-english/)
-
 
 ## Study Notes
 
@@ -329,10 +324,6 @@ These are some of the study notes and cheat sheets I've created to help me learn
 - Text editors and version control ([Emacs](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/Emacs.md), [Vim](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Text%20Editors/VIM.md),  [Git](https://github.com/zelhajou/42-cursus/blob/main/Computer%20Science/Computer%20Systems/Distributed%20Systems/Operating%20Systems/Linux/Git.md))
 -  Programming languages ([C](https://github.com/zelhajou/42cursus-piscine-c/tree/main/C%20Cheat%20Sheet), [C++](https://github.com/zelhajou/42cursus-cpp-modules/tree/main/C%2B%2B%20Cheat%20Sheet))
 - Frontend web development ([HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML), [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS))
-
-**All in One**:
-- [cheatsheets.zip](https://cheatsheets.zip/)
-- [QuickRef.ME](https://quickref.me/)
 
 ## Tech Stack
 
