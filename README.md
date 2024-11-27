@@ -254,7 +254,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 │   ├── code documentation
 │   └── README creation
 └── Team Collaboration
-    ├── pair programming (<a href="https://github.com/zelhajou/42-minishell">Minishell</a>, <a href="https://github.com/zelhajou/42-cub3D">Cub3D</a>)
+    ├── pair programming (<a href="https://github.com/zelhajou/42-minishell">Minishell</a>, <a href="https://github.com/zelhajou/42-cub3D">Cub3D</a>, <a href="https://github.com/zelhajou/42-webserv">Webserv</a>)
     ├── code review
     └── project coordination
 </pre>
