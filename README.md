@@ -80,7 +80,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <!-- 🚧 In Progres -->
 <!--  ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-ft_printf?style=social) | -->
 ## Skills
-### 🔧 Fundamental C Programming ([Libft](https://github.com/zelhajou/42-libft))
+### 🔧 Fundamental C Programming ([Libft](https://github.com/zelhajou/42cursus-libft))
 
 <pre>
 ├── Memory Management
@@ -100,12 +100,12 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 ### 📝 Input/Output Management
 <pre>
-├── Printf Implementation (<a href="https://github.com/zelhajou/42-ft_printf">ft_printf</a>)
+├── Printf Implementation (<a href="https://github.com/zelhajou/42cursus-ft_printf">ft_printf</a>)
 │   ├── variadic functions usage
 │   ├── format specifier parsing
 │   ├── type conversion handling
 │   └── buffer management
-├── File Operations (<a href="https://github.com/zelhajou/42-get_next_line">get_next_line</a>)
+├── File Operations (<a href="https://github.com/zelhajou/42cursus-get_next_line">get_next_line</a>)
 │   ├── file descriptor handling
 │   ├── static variable usage
 │   ├── buffer reading strategies
@@ -116,7 +116,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
     └── error handling
 </pre>
 
-### 💻 System Administration ([Born2beroot](https://github.com/zelhajou/42-Born2beRoot))
+### 💻 System Administration ([Born2beroot](https://github.com/zelhajou/42cursus-Born2beRoot))
 <pre>
 ├── Virtualization
 │   ├── Virtual Machine setup
@@ -134,12 +134,12 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 ### 🧮 Algorithm Implementation
 <pre>
-├── Stack Operations (<a href="https://github.com/zelhajou/42-push_swap">Push_swap</a>)
+├── Stack Operations (<a href="https://github.com/zelhajou/42cursus-push_swap">Push_swap</a>)
 │   ├── stack data structure
 │   ├── sorting algorithms
 │   ├── operation optimization
 │   └── complexity analysis
-└── Mathematical Visualization (<a href="https://github.com/zelhajou/42-fract-ol">Fract-ol</a>)
+└── Mathematical Visualization (<a href="https://github.com/zelhajou/42cursus-fract-ol">Fract-ol</a>)
     ├── fractal mathematics
     ├── complex number operations
     ├── zoom handling
@@ -158,7 +158,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 │   ├── deadlock prevention
 │   ├── resource sharing
 │   └── dining philosophers algorithm
-└── Process Control (<a href="https://github.com/zelhajou/42-minishell">Minishell</a>)
+└── Process Control (<a href="https://github.com/zelhajou/42cursus-minishell">Minishell</a>)
     ├── process creation (fork)
     ├── process execution (execve)
     ├── pipe implementation
@@ -167,7 +167,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 ### 🌐 Networking
 <pre>
-├── Network Configuration (<a href="https://github.com/zelhajou/42-net_practice">NetPractice</a>)
+├── Network Configuration (<a href="https://github.com/zelhajou/42cursus-net_practice">NetPractice</a>)
 │   ├── IP addressing
 │   ├── subnet masks
 │   ├── routing tables
@@ -179,7 +179,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
     └── response generation
 </pre>
 
-### 🎮 Graphics Programming ([Cub3D](https://github.com/zelhajou/42-cub3D))
+### 🎮 Graphics Programming ([Cub3D](https://github.com/zelhajou/42cursus-cub3D))
 <pre>
 ├── Raycasting Engine
 │   ├── ray calculation
@@ -213,7 +213,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
     └── iterators
 </pre>
   
-### 🐳 Containerization ([Inception](https://github.com/zelhajou/42-inception))
+### 🐳 Containerization ([Inception](https://github.com/zelhajou/42cursus-inception))
 <pre>
 ├── Docker
 │   ├── container creation
@@ -254,7 +254,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 │   ├── code documentation
 │   └── README creation
 └── Team Collaboration
-    ├── pair programming (<a href="https://github.com/zelhajou/42-minishell">Minishell</a>, <a href="https://github.com/zelhajou/42-cub3D">Cub3D</a>, <a href="https://github.com/zelhajou/42-webserv">Webserv</a>)
+    ├── pair programming (<a href="https://github.com/zelhajou/42cursus-minishell">Minishell</a>, <a href="https://github.com/zelhajou/42cursus-cub3D">Cub3D</a>, <a href="https://github.com/zelhajou/42cursus-webserv">Webserv</a>)
     ├── code review
     └── project coordination
 </pre>
