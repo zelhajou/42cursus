@@ -7,9 +7,10 @@ REPO_URL="https://github.com/Ra-Wo/bleach_42"
 echo "Cloning the repository..."
 git clone "$REPO_URL"
 
+mv bleach_42 ~/.bleach_42
+
 # Navigate into the cloned directory
-REPO_NAME=$(basename "$REPO_URL" .git)
-cd "$REPO_NAME" || { echo "Failed to enter directory $REPO_NAME"; exit 1; }
+cd ~/.bleach_42
 
 # Make sure the installation script is executable
 echo "Making the installation script executable..."
