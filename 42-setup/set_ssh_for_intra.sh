@@ -35,7 +35,7 @@ print_message "SSH key added to the SSH agent."
 print_message "Your public SSH key is:"
 cat "$SSH_KEY_PATH.pub"
 echo
-print_message "Copy the above key and add it to Intra (https://intra.1337.ma):"
+print_message "Copy the above key and add it to Intra (https://intra.42.fr/):"
 print_message "Profile -> SSH Keys -> Add SSH Key."
 print_message "Waiting for you to add the key..."
 
