@@ -73,10 +73,10 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 | 15 | [Webserv](https://github.com/zelhajou/42cursus-webserv) | Building a web server from scratch | HTTP protocol, socket programming, multi-threading | C++ | ✅ 125 | 👥👤 Team (3) |
 | 16 | [Inception](https://github.com/zelhajou/42cursus-inception) | Docker-based system setup and configuration | Containerization, Docker, system orchestration | Docker | ✅ 100 | 👤 Solo |
 | 17 | [CPP Modules 05 - 09](https://github.com/zelhajou/42cursus-cpp-modules) | Advanced C++ concepts | Operator overloading, exception handling, file I/O, STL, advanced OOP | C++ | 🚧 In Progress | 👤 Solo |
-| 18 | Exam Rank 05 | Advanced programming skills assessment | Complex problem-solving, optimization, advanced C++ concepts | C++ | 📝 Pending | 👤 Solo |
+| 18 | Exam Rank 05 | Advanced programming skills assessment | Complex problem-solving, optimization, advanced C++ concepts | C++ | ✅ 100 | 👤 Solo |
 | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: |
 
-<!-- 🚧 In Progres -->
+<!-- 🚧 In Progres 📝 Pending -->
 <!--  ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-ft_printf?style=social) | -->
 ## Skills
 ### 🔧 Fundamental C Programming ([Libft](https://github.com/zelhajou/42cursus-libft))
