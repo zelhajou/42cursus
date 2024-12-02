@@ -70,11 +70,12 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 | 13 | [CPP Modules 00 - 04](https://github.com/zelhajou/42cursus-cpp-modules) | C++ fundamentals and advanced concepts | Namespaces, classes, memory allocation, pointers, inheritance, polymorphism, templates | C++ | ✅ 80 | 👤 Solo |
 | 14 | Exam Rank 04 | Microshell exam | Shell command execution, piping, error handling | C | ✅ 100 | 👤 Solo |
 | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: |
-| 15 | [Webserv](https://github.com/zelhajou/42cursus-webserv) | Building a web server from scratch | HTTP protocol, socket programming, multi-threading | C++ | ✅ 125 | 👥👤 Team (3) |
+| 15 | [Webserv](https://github.com/zelhajou/42cursus-webserv) | Building a web server from scratch | HTTP protocol, socket programming, multi-threading | C++ | ✅ 125 | 👥 Team (3) |
 | 16 | [Inception](https://github.com/zelhajou/42cursus-inception) | Docker-based system setup and configuration | Containerization, Docker, system orchestration | Docker | ✅ 100 | 👤 Solo |
 | 17 | [CPP Modules 05 - 09](https://github.com/zelhajou/42cursus-cpp-modules) | Advanced C++ concepts | Operator overloading, exception handling, file I/O, STL, advanced OOP | C++ | 🚧 In Progress | 👤 Solo |
 | 18 | Exam Rank 05 | Advanced programming skills assessment | Complex problem-solving, optimization, advanced C++ concepts | C++ | ✅ 100 | 👤 Solo |
 | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: |
+| 19 | ft_transcendence | A full-stack web application featuring real-time multiplayer Pong game with user authentication, chat, and tournaments | Web development, Microservices, Real-time networking | TypeScript, Python, PostgreSQL | 🚧 In Progress | 👥 Team |
 
 <!-- 🚧 In Progres 📝 Pending -->
 <!--  ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-ft_printf?style=social) | -->
@@ -226,6 +227,27 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
     ├── container networking
     ├── port mapping
     └── service discovery
+</pre>
+
+### 🌐 Full-Stack Development ([ft_transcendence](https://github.com/zelhajou/42cursus-ft_transcendence))
+<pre>
+├── Frontend Development
+│   ├── single-page application
+│   ├── real-time game interface
+│   └── responsive design
+├── Backend Architecture
+│   ├── microservices design
+│   ├── REST API development
+│   └── WebSocket implementation
+├── Database Management
+│   ├── PostgreSQL
+│   ├── data modeling
+│   └── query optimization
+└── DevOps & Security
+    ├── Docker containerization
+    ├── SSL/HTTPS configuration
+    ├── authentication & authorization
+    └── monitoring & logging
 </pre>
 
 ### 🛠️ Development Tools & Practices
