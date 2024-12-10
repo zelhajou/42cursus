@@ -56,3 +56,4 @@ tree
 xz
 zlib
 zstd
+gh
