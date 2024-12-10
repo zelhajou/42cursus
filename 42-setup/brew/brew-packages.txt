@@ -55,5 +55,4 @@ sqlite
 tree
 xz
 zlib
-zstd
-gh
+zstdgh
