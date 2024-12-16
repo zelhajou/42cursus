@@ -5,11 +5,16 @@
 -->
 # 42cursus
 
-This repository contains my projects developed at [1337](https://1337.ma/en/) programming school for the [42](https://42.fr/en/homepage/) Cursus, a programming curriculum developed by 42 Paris. The 42 Cursus is an intensive, peer-to-peer learning program designed to teach computer science and programming skills through project-based learning. Each project is graded by peers using a peer-evaluation system called "correction," and successful completion of each project is required to progress to the next level of the program.
+Hey! This is where I keep all my coding projects from my time at [42](https://42.fr/en/homepage/). I'm studying at [1337](https://1337.ma/en/) (part of the [42](https://42.fr/en/homepage/) Network) and I'm learning everything from scratch - starting with C programming and working my way up to building entire web apps.
+
+What makes 42 different is there are no teachers and no lectures. Instead, you figure things out on your own, work on real projects, and learn alongside other students. Every project has to go through peer reviews (we call them "corrections") before you can move forward. It's intense, but it's a great way to learn how to code and solve problems.
+
+In this repo, you'll find my progress through the whole curriculum - from basic stuff like coding my own C library to more complex projects like building web servers and creating full-stack applications. Each project taught me something new about computer science and software development.
 
 ## Table of Contents
-
+<!--
 - 🏫 [About 42](#about-42)
+-->
 - 📚 [Curriculum](#curriculum)
 - 🚀 [Projects](#projects)
 - 🛠️ [Skills](#skills)
@@ -18,13 +23,15 @@ This repository contains my projects developed at [1337](https://1337.ma/en/) pr
 - 📝 [Blogs and Articles](#blogs-and-articles)
 - 📓 [Study Notes](#study-notes)
 - 📞 [Contact](#contact)
+
+<!--
 ## About 42
 
 42 is a global education initiative that offers a new way of learning technology:
 no teachers, no classrooms, students learning from their fellow students (peer-to-peer learning), with a methodology that develops both computing and life skills. The 42cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
 
 For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/zelhajou/42-piscine_c).
-
+-->
 ## Curriculum
 
 **42cursus** comprises two groups of projects: the first one is known as _"inner circle"_ and the second one, _"outer treks"_
