@@ -496,6 +496,12 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </tr>
 
 <tr>
+<th width="200px">Project</th>
+<th  width="1200px">Details</th>
+</tr>
+
+
+<tr>
 <td>
 <div align="center">
 <a href="https://github.com/zelhajou/42cursus-webserv">
@@ -673,6 +679,12 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </div>
 </td>
 </tr>
+
+<tr>
+<th width="200px">Project</th>
+<th  width="1200px">Details</th>
+</tr>
+
 
 <tr>
 <td>
