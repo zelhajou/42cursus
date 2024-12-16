@@ -92,7 +92,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </tr>
 
 <tr>
-<th width="120px">Project</th>
+<th width="140px">Project</th>
 <th  width="1200px">Details</th>
 </tr>
 
