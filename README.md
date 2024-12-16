@@ -100,7 +100,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <td>
 <div align="center">
 <a href="https://github.com/zelhajou/42-libft">
-<strong>Libft</strong>
+<strong>libft</strong>
 </a><br>
 <img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-122%2F100-success"/>
@@ -134,7 +134,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <div align="center">
 
 <a href="https://github.com/zelhajou/42-ft_printf">
-<strong>ft_printf</strong>
+<strong>printf</strong>
 </a><br>
 <img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-100%2F100-success"/>
@@ -201,10 +201,11 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <tr>
 <td>
 <div align="center">
-<strong>Born2beroot</strong><br>
+
 <a href="https://github.com/zelhajou/42-Born2beRoot">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>born2beroot</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-108%2F100-success"/>
 </div>
 </td>
@@ -229,7 +230,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Service configuration
 - Security policies
 
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 </table>
