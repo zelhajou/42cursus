@@ -19,10 +19,12 @@ In this repo, you'll find my progress through the whole curriculum - from basic 
 - 🚀 [Projects](#projects)
 - 🛠️ [Skills](#skills)
 - 📊 [Stats](#stats)
-- 📚 [Bookshelf](#bookshelf)
 - 📝 [Blogs and Articles](#blogs-and-articles)
-- 📓 [Study Notes](#study-notes)
+- 📚 [Bookshelf](#bookshelf)
 - 📞 [Contact](#contact)
+<!--
+- 📓 [Study Notes](#study-notes)
+-->
 
 <!--
 ## About 42
@@ -74,6 +76,24 @@ Note: The Holy Graph visualization above maps the complete curriculum structure.
 
 The following table lists the projects I've completed as part of the 42 Cursus. Each project is linked to its repository, where you can find the project's description, requirements, and my implementation.
 
+<!--
+| Level | Project Group | Key Projects | Core Learning Outcomes | Technologies & Tools | Grade |
+|-------|--------------|--------------|----------------------|---------------------|--------|
+| **Foundation** | Core C Programming | • Libft<br>• ft_printf<br>• get_next_line | • Memory management<br>• String manipulation<br>• File operations<br>• Data structures<br>• Standard I/O | • C<br>• Make<br>• GDB<br>• Valgrind | ✅ 122<br>✅ 100<br>✅ 125 |
+| **System** | Unix & Virtualization | • Born2beroot | • System administration<br>• Security configuration<br>• Service management<br>• Network setup | • Debian<br>• VM<br>• SSH<br>• UFW | ✅ 108 |
+| **Algorithms** | Data Structures & Mathematics | • Push_swap<br>• Fract-ol | • Sorting algorithms<br>• Stack operations<br>• Complex numbers<br>• Optimization | • C<br>• MinilibX<br>• Algorithm design | ✅ 125<br>✅ 100 |
+| **Processes** | Inter-Process Communication | • Minitalk<br>• Philosophers<br>• Minishell | • Signal handling<br>• Thread synchronization<br>• Process management<br>• Shell implementation | • C<br>• Unix signals<br>• Threads<br>• Processes | ✅ 100<br>✅ 100<br>✅ 101 |
+| **Networking** | Protocol & Server Implementation | • NetPractice<br>• Webserv | • Network protocols<br>• IP addressing<br>• Web server design<br>• Socket programming | • Networking<br>• HTTP<br>• TCP/IP<br>• C++ | ✅ 100<br>✅ 125 |
+| **Graphics** | 3D Rendering & Game Dev | • Cub3D | • Raycasting<br>• Game physics<br>• Texture mapping<br>• Collision detection | • C<br>• MinilibX<br>• Math libraries | ✅ 115 |
+| **Object-Oriented** | C++ Programming | • CPP Modules 00-04<br>• CPP Modules 05-09 | • OOP principles<br>• Templates<br>• STL<br>• Exception handling | • C++<br>• STL<br>• Modern C++ | ✅ 80<br>🚧 In Progress |
+| **DevOps** | Containerization | • Inception | • Container orchestration<br>• Service configuration<br>• Database management | • Docker<br>• Nginx<br>• WordPress<br>• MariaDB | ✅ 100 |
+| **Full-Stack** | Web Development | • ft_transcendence | • Frontend development<br>• Backend architecture<br>• Real-time features<br>• Database design | • TypeScript<br>• PostgreSQL<br>• WebSocket<br>• Docker | 🚧 In Progress |
+
+**Project Status Legend:**
+- ✅ Completed (with score)
+- 🚧 In Progress
+
+-->
 | # | Project | Description | Skills | Language | Status | Team |
 |:-:|:--|:--|:--|:--|:-:|:-:|
 | 00 | [Libft](https://github.com/zelhajou/42-libft) | A library of useful C functions | Basics of C programming, data structures | C | ✅ 122 | 👤 Solo |
@@ -106,6 +126,38 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <!-- 🚧 In Progres 📝 Pending -->
 <!--  ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-ft_printf?style=social) | -->
 ## Skills
+
+
+### 🔧 Programming & Development
+- **Languages:** C, C++, Bash, HTML/CSS, JavaScript
+- **Core Skills:** Memory management, data structures, algorithms, OOP
+- **Tools:** Git, Make, Docker, GDB, Valgrind
+- **Environments:** VSCode, Vim, Emacs, Linux, macOS
+
+### 💻 System & Network
+- **System Programming:** Process management, IPC, threading, memory optimization
+- **Network:** Socket programming, HTTP/TCP/IP, web server development
+- **Security:** System hardening, SSH, firewall configuration, authentication
+
+### 🎮 Graphics & Mathematics
+- **Graphics:** Raycasting, 3D rendering, game physics, collision detection
+- **Mathematical:** Fractal computation, complex number operations, optimization
+
+### 🐳 DevOps & Web
+- **Containerization:** Docker, service configuration, container orchestration
+- **Web Development:** Full-stack applications, REST APIs, WebSockets
+- **Databases:** PostgreSQL, MariaDB, data modeling
+
+### 🛠️ Professional Practice
+- **Development:** Code review, documentation, debugging, testing
+- **Collaboration:** Team projects, pair programming, project management
+- **Problem Solving:** Algorithm design, optimization, architectural planning
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,ubuntu,apple,bash,git,vscode,vim,emacs,md,latex,docker,github,figma,html,css,javascript,nginx)](https://skillicons.dev)
+
+
+
+<!--
 ### 🔧 Fundamental C Programming ([Libft](https://github.com/zelhajou/42cursus-libft))
 
 <pre>
@@ -306,15 +358,9 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
     └── project coordination
 </pre>
 
+-->
 
 
-
-
-<div align="center">
-    
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,ubuntu,apple,bash,git,vscode,vim,emacs,md,latex,docker,github,figma,html,css,javascript,nginx)](https://skillicons.dev)
-
-</div>
 
 <!--
 ![13v6seyveh661](https://github.com/user-attachments/assets/943fff17-50fb-4a74-b6cd-8c369319dc0c)
@@ -342,6 +388,12 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 </div>
 
+## Blogs and Articles
+
+These are some of the blogs and articles I've written about my experiences at 42 and other topics related to computer science and programming.
+
+- [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
+
 
 ## [Bookshelf](https://github.com/zelhajou/1337-Bookshelf)
 
@@ -356,13 +408,8 @@ These are some of the books I've read or plan to read to deepen my knowledge in 
 | Computer Networks - A Tanenbaum - 5th edition | A comprehensive textbook on computer networking, authored by Andrew S. Tanenbaum, covering a wide range of networking topics including protocols, architectures, and applications. | Computer Networking | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/6141d72a-e655-429d-84f8-c0bd06f42709" width="200">  |
 | UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API | A classic reference on UNIX network programming, authored by W. Richard Stevens, offering in-depth coverage of the Sockets API and various networking concepts on UNIX-based systems | Computer System-level Programming | <img src="https://github.com/zelhajou/42-cursus/assets/39954629/9e14fd69-a5c7-46cb-9042-e1cb6a401f44" width="200"> |
 
-## Blogs and Articles
 
-These are some of the blogs and articles I've written about my experiences at 42 and other topics related to computer science and programming.
-
-- [Building the 42-School Minitalk Project: A Guide to UNIX Signal-Based Communication in C](https://medium.com/@aaaikrz/building-the-42-school-minitalk-project-a-guide-to-unix-signal-based-communication-in-c-d11605643747)
-
-
+<!--
 ## Study Notes
 
 These are some of the study notes and cheat sheets I've created to help me learn and remember key concepts in computer science, programming, and other subjects.
@@ -371,6 +418,7 @@ These are some of the study notes and cheat sheets I've created to help me learn
 -  Programming languages ([C](https://github.com/zelhajou/42cursus-piscine-c/tree/main/C%20Cheat%20Sheet), [C++](https://github.com/zelhajou/42cursus-cpp-modules/tree/main/C%2B%2B%20Cheat%20Sheet))
 - Frontend web development ([HTML](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/HTML), [CSS](https://github.com/zelhajou/42-cursus/tree/main/Software%20Engineering/Web%20Development/Frontend/Fundamentals/CSS))
 
+-->
 
 ## Contact
 
