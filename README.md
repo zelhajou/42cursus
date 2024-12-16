@@ -92,8 +92,8 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </tr>
 
 <tr>
-<th width="140px">Project</th>
-<th  width="1200px">Details</th>
+<th width="200px">Project</th>
+<th  width="1200x">Details</th>
 </tr>
 
 <tr>
@@ -248,7 +248,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </tr>
 
 <tr>
-<th width="140px">Project</th>
+<th width="200px">Project</th>
 <th  width="1200px">Details</th>
 </tr>
 
@@ -490,7 +490,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </tr>
 
 <tr>
-<th width="140px">Project</th>
+<th width="200px">Project</th>
 <th  width="1200px">Details</th>
 </tr>
 
@@ -588,7 +588,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 
 <tr>
-<th width="140px">Project</th>
+<th width="200px">Project</th>
 <th  width="1200px">Details</th>
 </tr>
 
