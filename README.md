@@ -334,6 +334,12 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </tr>
 
 <tr>
+<th width="200px">Project</th>
+<th  width="1200px">Details</th>
+</tr>
+
+
+<tr>
 <td>
 <div align="center">
 
@@ -487,11 +493,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 ![Graphics](https://img.shields.io/badge/Focus-Graphics-FF6B6B?style=flat)
 </div>
 </td>
-</tr>
-
-<tr>
-<th width="200px">Project</th>
-<th  width="1200px">Details</th>
 </tr>
 
 <tr>
