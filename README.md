@@ -3,8 +3,7 @@
 <!--
 ![Frame 1 (2)](https://github.com/user-attachments/assets/1d01f499-41e3-40c8-8bf7-709f48db0c01)
 -->
-
-# 42 cursus
+## Hey! 👋
 
 This is where I keep all my coding projects from my time at [42](https://42.fr/en/homepage/). I'm studying at [1337](https://1337.ma/en/) (part of the [42](https://42.fr/en/homepage/) Network) and I'm learning everything from scratch - starting with C programming and working my way up to building entire web apps.
 
@@ -35,11 +34,29 @@ For further information about 42's **selection process** (the "Piscine"), please
 -->
 ## Curriculum
 
-**42cursus** comprises two groups of projects: the first one is known as _"inner circle"_ and the second one, _"outer treks"_
+The 42 curriculum is structured like a galaxy of projects, organized in concentric circles from basic to advanced:
 
-The **inner circle** is the commoncore curriculum, with all projects being mandatory to attain level 7 - which is the minimum level required for activities such as internships and interchange.
+**Inner Circle (Common Core)**
+- Begins with fundamental C programming
+- Projects increase in complexity as you progress
+- At certain points, you can choose between different projects:
+    - For example, between graphics projects (FdF/fract-ol) or Unix projects (minitalk/pipex)
+    - Some levels offer multiple project options, where you only need to complete one to progress
+- All mandatory phases must be completed to finish the common core
+-Required for activities like internships and student exchange
 
-The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
+**Outer Treks**
+- A collection of diverse project trails available after the inner circle
+- Covers various specialization areas:
+
+    - Operating Systems
+    - Web Development
+    - Graphics
+    - Network & System Administration
+    - And more...
+
+These tracks allow students to specialize in their preferred areas of software development and computer science.
+
 
 <!--
 <details>
@@ -51,6 +68,7 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 ![42 Holy Graph](https://github.com/user-attachments/assets/ccabd3a7-bd07-4e37-ad30-b8fdeb8a363c)
 
 
+Note: The Holy Graph visualization above maps the complete curriculum structure. The turquoise nodes indicate completed projects, while grey nodes represent projects yet to be tackled. Each connection line shows the prerequisites needed to unlock the next project, with some levels offering multiple paths to choose from.
 
 ## Projects
 
