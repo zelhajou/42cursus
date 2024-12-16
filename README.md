@@ -99,10 +99,10 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <tr>
 <td>
 <div align="center">
-<strong>Libft</strong><br>
 <a href="https://github.com/zelhajou/42-libft">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>Libft</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-122%2F100-success"/>
 </div>
 </td>
@@ -126,18 +126,17 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Data structure implementation
 - Code organization
 - Documentation
-
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 
 <tr>
 <td>
 <div align="center">
-<strong>ft_printf</strong><br>
+
 <a href="https://github.com/zelhajou/42-ft_printf">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>ft_printf</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-100%2F100-success"/>
 </div>
 </td>
@@ -161,17 +160,17 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - String formatting
 - Code modularity
 
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 
 <tr>
 <td>
 <div align="center">
-<strong>get_next_line</strong><br>
+
 <a href="https://github.com/zelhajou/42-get_next_line">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>get_next_line</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-125%2F100-success"/>
 </div>
 </td>
@@ -196,7 +195,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Buffer handling
 - Memory leaks prevention
 
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 
