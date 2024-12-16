@@ -490,6 +490,11 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </tr>
 
 <tr>
+<th width="140px">Project</th>
+<th  width="1200px">Details</th>
+</tr>
+
+<tr>
 <td>
 <div align="center">
 <a href="https://github.com/zelhajou/42cursus-webserv">
@@ -579,6 +584,12 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 ![C++](https://img.shields.io/badge/Focus-Modern_C++-00599C?style=flat&logo=cplusplus)
 </div>
 </td>
+</tr>
+
+
+<tr>
+<th width="140px">Project</th>
+<th  width="1200px">Details</th>
 </tr>
 
 <tr>
