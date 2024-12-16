@@ -78,13 +78,13 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 
 
-## Foundation Projects
+### Foundation Projects
 <table>
 <tr>
 <td colspan="2">
 <div align="center">
 
-### Core Programming Phase
+#### Core Programming Phase
 ![C](https://img.shields.io/badge/Language-C-00599C?style=flat&logo=c)
 ![UNIX](https://img.shields.io/badge/Environment-UNIX-FCC624?style=flat&logo=linux)
 </div>
@@ -236,13 +236,13 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </tr>
 </table>
 
-## Algorithm Projects
+### Algorithm Projects
 <table>
 <tr>
 <td colspan="2">
 <div align="center">
 
-### Data Structures & Mathematics
+#### Data Structures & Mathematics
 ![Algorithms](https://img.shields.io/badge/Focus-Algorithms-FF6B6B?style=flat)
 ![Data Structures](https://img.shields.io/badge/Focus-Data_Structures-4CAF50?style=flat)
 </div>
@@ -320,13 +320,13 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </tr>
 </table>
 
-## System Programming Projects
+### System Programming Projects
 <table>
 <tr>
 <td colspan="2">
 <div align="center">
 
-### Process & Thread Management
+#### Process & Thread Management
 ![IPC](https://img.shields.io/badge/Focus-IPC-FF6B6B?style=flat)
 ![Threading](https://img.shields.io/badge/Focus-Threading-4CAF50?style=flat)
 </div>
@@ -480,13 +480,13 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </td>
 </tr>
 
-## Advanced Projects
+### Advanced Projects
 <table>
 <tr>
 <td colspan="2">
 <div align="center">
 
-### Network & Graphics Programming
+#### Network & Graphics Programming
 ![Networking](https://img.shields.io/badge/Focus-Network_Programming-0089D6?style=flat)
 ![Graphics](https://img.shields.io/badge/Focus-Graphics-FF6B6B?style=flat)
 </div>
@@ -583,7 +583,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <td colspan="2">
 <div align="center">
 
-### Object-Oriented Programming
+#### Object-Oriented Programming
 ![C++](https://img.shields.io/badge/Focus-Modern_C++-00599C?style=flat&logo=cplusplus)
 </div>
 </td>
@@ -667,7 +667,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <td colspan="2">
 <div align="center">
 
-### DevOps & Full-Stack Development
+#### DevOps & Full-Stack Development
 ![Docker](https://img.shields.io/badge/Focus-Containerization-2496ED?style=flat&logo=docker)
 ![Web](https://img.shields.io/badge/Focus-Web_Development-3178C6?style=flat&logo=typescript)
 </div>
@@ -798,9 +798,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ✅ Completed (with score)
 - 🚧 In Progress
 
--->
 
-<!--
 | Level | Project | Description & Skills | Technical Stack | Status |
 |-------|----------|---------------------|-----------------|---------|
 | **Foundation**<br>*Core C Programming* | [![Libft](https://img.shields.io/badge/Libft-Repository-2ea44f?logo=github)](https://github.com/zelhajou/42-libft) | **C Library Implementation**<br>• Memory management<br>• Data structures<br>• String manipulation<br>• Low-level operations | ![C](https://img.shields.io/badge/C-00599C?logo=c) ![Make](https://img.shields.io/badge/Make-A42E2B?logo=gnu) | ![Score](https://img.shields.io/badge/122%2F100-passed-00C853) |
@@ -824,9 +822,8 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 ![Exam 03](https://img.shields.io/badge/Exam%2003-100%2F100-00C853)
 ![Exam 04](https://img.shields.io/badge/Exam%2004-100%2F100-00C853)
 ![Exam 05](https://img.shields.io/badge/Exam%2005-100%2F100-00C853)
--->
 
-<!--
+
 | Level | Project Group | Key Projects | Core Learning Outcomes | Technologies & Tools | Grade |
 |-------|--------------|--------------|----------------------|---------------------|--------|
 | **Foundation** | Core C Programming | • Libft<br>• ft_printf<br>• get_next_line | • Memory management<br>• String manipulation<br>• File operations<br>• Data structures<br>• Standard I/O | • C<br>• Make<br>• GDB<br>• Valgrind | ✅ 122<br>✅ 100<br>✅ 125 |
@@ -842,10 +839,8 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 **Project Status Legend:**
 - ✅ Completed (with score)
 - 🚧 In Progress
--->
 
 
-<!--
 | # | Project | Description | Skills | Language | Status | Team |
 |:-:|:--|:--|:--|:--|:-:|:-:|
 | 00 | [Libft](https://github.com/zelhajou/42-libft) | A library of useful C functions | Basics of C programming, data structures | C | ✅ 122 | 👤 Solo |
@@ -875,8 +870,9 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: | :dizzy: |
 | 19 | ft_transcendence | A full-stack web application featuring real-time multiplayer Pong game with user authentication, chat, and tournaments | Web development, Microservices, Real-time networking | TypeScript, Python, PostgreSQL | 🚧 In Progress | 👥 Team |
 
-<!-- 🚧 In Progres 📝 Pending -->
-<!--  ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-ft_printf?style=social) | -->
+ 🚧 In Progres 📝 Pending
+  ![GitHub Repo stars](https://img.shields.io/github/stars/zelhajou/42-ft_printf?style=social) |
+
 -->
 
 
