@@ -250,10 +250,10 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <tr>
 <td>
 <div align="center">
-<strong>Push_swap</strong><br>
 <a href="https://github.com/zelhajou/42-push_swap">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>Push_swap</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-125%2F100-success"/>
 </div>
 </td>
@@ -277,18 +277,16 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Stack operations
 - Complexity analysis
 - Problem-solving
-
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 
 <tr>
 <td>
 <div align="center">
-<strong>Fract-ol</strong><br>
 <a href="https://github.com/zelhajou/42-fractol">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>Fract-ol</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-100%2F100-success"/>
 </div>
 </td>
@@ -312,8 +310,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - User input handling
 - Performance optimization
 - Graphics programming
-
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 </table>
@@ -334,10 +330,11 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <tr>
 <td>
 <div align="center">
-<strong>Minitalk</strong><br>
+
 <a href="https://github.com/zelhajou/42-minitalk">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>Minitalk</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-100%2F100-success"/>
 </div>
 </td>
@@ -361,18 +358,16 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Signal management
 - Binary operations
 - Client-server architecture
-
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 
 <tr>
 <td>
 <div align="center">
-<strong>Philosophers</strong><br>
 <a href="https://github.com/zelhajou/42-Philosophers">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>Philosophers</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-100%2F100-success"/>
 </div>
 </td>
@@ -396,18 +391,16 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Resource management
 - Race condition handling
 - Performance monitoring
-
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 
 <tr>
 <td>
 <div align="center">
-<strong>Minishell</strong><br>
 <a href="https://github.com/zelhajou/42-minishell">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>Minishell</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Team-2_Members-orange"/>
 <img src="https://img.shields.io/badge/Score-101%2F100-success"/>
 </div>
 </td>
@@ -433,7 +426,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Environment handling
 - Error management
 
-**Project Type**: ![Team](https://img.shields.io/badge/Team-2_Members-orange)
+
 
 **Collaboration Aspects**:
 - Code integration
@@ -446,10 +439,10 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <tr>
 <td>
 <div align="center">
-<strong>NetPractice</strong><br>
 <a href="https://github.com/zelhajou/42-net_practice">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>NetPractice</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-100%2F100-success"/>
 </div>
 </td>
@@ -474,7 +467,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Routing concepts
 - Subnet planning
 
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 
@@ -494,10 +486,10 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <tr>
 <td>
 <div align="center">
-<strong>Webserv</strong><br>
 <a href="https://github.com/zelhajou/42cursus-webserv">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>Webserv</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Team-3_Members-orange">
 <img src="https://img.shields.io/badge/Score-125%2F100-success"/>
 </div>
 </td>
@@ -524,8 +516,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Performance optimization
 - Configuration management
 
-**Project Type**: ![Team](https://img.shields.io/badge/Team-3_Members-orange)
-
 **Advanced Features**:
 - CGI execution
 - Multiple client handling
@@ -537,10 +527,10 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <tr>
 <td>
 <div align="center">
-<strong>Cub3D</strong><br>
 <a href="https://github.com/zelhajou/42cursus-cub3D">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>Cub3D</strong><br>
 </a><br>
+<img src="https://img.shields.io/badge/Team-2_Members-orange"/>
 <img src="https://img.shields.io/badge/Score-115%2F100-success"/>
 </div>
 </td>
@@ -567,8 +557,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Memory management
 - Event handling
 
-**Project Type**: ![Team](https://img.shields.io/badge/Team-2_Members-orange)
-
 **Graphics Features**:
 - Wall rendering
 - Texture management
@@ -590,10 +578,10 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <tr>
 <td>
 <div align="center">
-<strong>CPP Modules<br>(00-04)</strong><br>
 <a href="https://github.com/zelhajou/42cursus-cpp-modules">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>CPP Modules<br>(00-04)</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-80%2F100-yellow"/>
 </div>
 </td>
@@ -619,18 +607,16 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Operator overloading
 - Type conversion
 - Memory handling
-
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 
 <tr>
 <td>
 <div align="center">
-<strong>CPP Modules<br>(05-09)</strong><br>
 <a href="https://github.com/zelhajou/42cursus-cpp-modules">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>CPP Modules<br>(05-09)</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Status-In_Progress-blue"/>
 </div>
 </td>
@@ -656,8 +642,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Exception safety
 - Algorithm implementation
 - Container management
-
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
 </td>
 </tr>
 
@@ -675,10 +659,10 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <tr>
 <td>
 <div align="center">
-<strong>Inception</strong><br>
 <a href="https://github.com/zelhajou/42cursus-inception">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>Inception</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
 <img src="https://img.shields.io/badge/Score-100%2F100-success"/>
 </div>
 </td>
@@ -703,8 +687,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Network configuration
 - Database administration
 
-**Project Type**: ![Solo](https://img.shields.io/badge/Solo-Project-blue)
-
 **Services**:
 - NGINX web server
 - WordPress
@@ -716,10 +698,10 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <tr>
 <td>
 <div align="center">
-<strong>ft_transcendence</strong><br>
 <a href="https://github.com/zelhajou/42cursus-ft_transcendence">
-<img src="https://img.shields.io/badge/Repository-2ea44f?logo=github&logoColor=white" alt="Repository"/>
+<strong>ft_transcendence</strong>
 </a><br>
+<img src="https://img.shields.io/badge/Team-Project-orange"/>
 <img src="https://img.shields.io/badge/Status-In_Progress-blue"/>
 </div>
 </td>
@@ -746,8 +728,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Security implementation
 - Database design
 - API development
-
-**Project Type**: ![Team](https://img.shields.io/badge/Team-Project-orange)
 
 **Features**:
 - OAuth 2.0 authentication
