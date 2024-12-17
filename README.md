@@ -17,6 +17,8 @@ In this repo, you'll find my progress through the whole curriculum - from basic 
 -->
 - 📚 [Curriculum](#curriculum)
 - 🚀 [Projects](#projects)
+    - [Core Programming Fundamentals](#core-programming-fundamentals)
+    - [Unix & System Programming](#unix--system-programming)
 - 🛠️ [Skills](#skills)
 - 📊 [Stats](#stats)
 - 📝 [Blogs and Articles](#blogs-and-articles)
@@ -217,6 +219,189 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </tr>
 
 </table>
+
+
+
+### Unix & System Programming
+<table>
+<tr>
+<td colspan="2">
+<div align="center">
+
+#### System Administration & Process Management
+<img src="https://img.shields.io/badge/System-Administration-FCC624?style=flat&logo=linux"/>
+<img src="https://img.shields.io/badge/Process-Management-00ADD8?style=flat"/>
+</div>
+</td>
+</tr>
+
+<tr>
+<th width="200px">Project</th>
+<th width="1200px">Details</th>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42-Born2beRoot">
+<strong>Born2beroot</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
+<img src="https://img.shields.io/badge/Score-108%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Set up and configure a secure Linux server with strict rules</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>System administration and security setup</li>
+<li>User and group management</li>
+<li>Service configuration (SSH, UFW, sudo)</li>
+<li>System monitoring script development</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Linux system administration</li>
+<li>Security policy implementation</li>
+<li>Service management</li>
+<li>System monitoring and maintenance</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42-minitalk">
+<strong>Minitalk</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
+<img src="https://img.shields.io/badge/Score-100%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Create a client-server communication system using UNIX signals</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>Signal handling (SIGUSR1, SIGUSR2)</li>
+<li>Bit manipulation for data transfer</li>
+<li>Client-server architecture</li>
+<li>Error handling and recovery</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/UNIX-FCC624?logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Signal_Processing-555555?style=flat"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Inter-process communication</li>
+<li>Signal handling mechanisms</li>
+<li>Binary data transmission</li>
+<li>Process synchronization</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42-Philosophers">
+<strong>Philosophers</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
+<img src="https://img.shields.io/badge/Score-100%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Solve the dining philosophers problem using threads and mutexes</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>Thread creation and management</li>
+<li>Mutex implementation for resource control</li>
+<li>Deadlock prevention strategies</li>
+<li>Performance optimization</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thread_Management-555555?style=flat"/>
+<img src="https://img.shields.io/badge/Mutex_Operations-555555?style=flat"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Concurrent programming concepts</li>
+<li>Thread synchronization techniques</li>
+<li>Resource sharing management</li>
+<li>Race condition prevention</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42-minishell">
+<strong>Minishell</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Team-2_Members-orange"/>
+<img src="https://img.shields.io/badge/Score-101%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Create a basic shell interpreter similar to bash</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>Command parsing and lexical analysis</li>
+<li>Process creation and management</li>
+<li>Built-in command implementation</li>
+<li>Signal handling and environment management</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Parser_Development-555555?style=flat"/>
+<img src="https://img.shields.io/badge/Process_Management-555555?style=flat"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Shell program architecture</li>
+<li>Process control and execution</li>
+<li>Environment variable handling</li>
+<li>Collaborative development</li>
+</ul>
+</td>
+</tr>
+
+</table>
+
 
 
 
