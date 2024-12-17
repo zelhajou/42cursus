@@ -19,6 +19,7 @@ In this repo, you'll find my progress through the whole curriculum - from basic 
 - 🚀 [Projects](#projects)
     - [Core Programming Fundamentals](#core-programming-fundamentals)
     - [Unix & System Programming](#unix--system-programming)
+    - [Algorithms & Data Structures](#algorithms--data-structures)
 - 🛠️ [Skills](#skills)
 - 📊 [Stats](#stats)
 - 📝 [Blogs and Articles](#blogs-and-articles)
@@ -402,6 +403,107 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 </table>
 
+
+
+### Algorithms & Data Structures
+<table>
+<tr>
+<td colspan="2">
+<div align="center">
+
+#### Algorithm Implementation & Optimization
+<img src="https://img.shields.io/badge/Focus-Algorithms-FF6B6B?style=flat"/>
+<img src="https://img.shields.io/badge/Focus-Data_Structures-4CAF50?style=flat"/>
+</div>
+</td>
+</tr>
+
+<tr>
+<th width="200px">Project</th>
+<th width="1200px">Details</th>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42-push_swap">
+<strong>Push_swap</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
+<img src="https://img.shields.io/badge/Score-125%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Develop an efficient sorting algorithm using two stacks with limited operations</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>Custom sorting algorithm development</li>
+<li>Stack data structure management</li>
+<li>Operation sequence optimization</li>
+<li>Algorithm complexity analysis</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithm_Design-555555?style=flat"/>
+<img src="https://img.shields.io/badge/Data_Structures-555555?style=flat"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Algorithm optimization techniques</li>
+<li>Stack operations and manipulation</li>
+<li>Time complexity analysis</li>
+<li>Problem-solving methodologies</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42-net_practice">
+<strong>NetPractice</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
+<img src="https://img.shields.io/badge/Score-100%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Master network configuration and TCP/IP fundamentals</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>IP addressing and subnetting</li>
+<li>Network configuration algorithms</li>
+<li>Routing table optimization</li>
+<li>Network troubleshooting methods</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/Networking-0089D6?logo=cisco"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-555555?style=flat"/>
+<img src="https://img.shields.io/badge/Network_Design-555555?style=flat"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Network architecture principles</li>
+<li>IP addressing schemes</li>
+<li>Routing algorithms</li>
+<li>Network diagnostics</li>
+</ul>
+</td>
+</tr>
+
+</table>
 
 
 
