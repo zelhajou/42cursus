@@ -116,10 +116,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Linked list implementation
 - Character and string utilities
 
-**Technical Skills**:
-- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-- ![Make](https://img.shields.io/badge/Makefile-A42E2B?logo=gnu)
-- ![GDB](https://img.shields.io/badge/GDB-green?logo=gnu)
+**Technical Skills**: ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white), ![Make](https://img.shields.io/badge/Makefile-A42E2B?logo=gnu), ![GDB](https://img.shields.io/badge/GDB-green?logo=gnu)
 </td>
 </tr>
 
@@ -144,10 +141,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Buffer management
 - Type conversion
 
-**Technical Skills**:
-- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-- Format string parsing
-- Type handling
+**Technical Skills**: ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white), Format string parsing, Type handling
 </td>
 </tr>
 
