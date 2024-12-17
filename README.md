@@ -141,7 +141,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Buffer management
 - Type conversion
 
-**Technical Skills**: ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white), Format string parsing, Type handling
+**Technical Skills**: ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white), `Format string parsing`, `Type handling`
 </td>
 </tr>
 
