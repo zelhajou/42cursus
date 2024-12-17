@@ -218,18 +218,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 </table>
 
-Would you like me to continue with the next section? I'll proceed with:
-1. Unix & System Programming
-2. Algorithms & Data Structures
-3. Computer Graphics
-4. Network Programming
-5. Object-Oriented Programming
-6. DevOps & Cloud
-7. Full-Stack Development
-8. Achievement Summary and Exam Achievements
-
-Let me know if you want any adjustments to the current format before I continue.
-
 
 
 
