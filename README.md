@@ -410,7 +410,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 
 
-## Algorithms & Data Structures
+### Algorithms & Data Structures
 <table>
 <tr>
 <td colspan="2">
@@ -472,7 +472,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 
 
-## Computer Graphics
+### Computer Graphics
 <table>
 <tr>
 <td colspan="2">
