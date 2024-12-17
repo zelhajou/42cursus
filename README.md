@@ -120,12 +120,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 - ![Make](https://img.shields.io/badge/Makefile-A42E2B?logo=gnu)
 - ![GDB](https://img.shields.io/badge/GDB-green?logo=gnu)
-
-**Learning Outcomes**:
-- Memory allocation
-- Data structure implementation
-- Code organization
-- Documentation
 </td>
 </tr>
 
@@ -154,12 +148,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 - Format string parsing
 - Type handling
-
-**Learning Outcomes**:
-- Variadic arguments
-- String formatting
-- Code modularity
-
 </td>
 </tr>
 
@@ -188,13 +176,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 - File I/O operations
 - Memory management
-
-**Learning Outcomes**:
-- File operations
-- Static variables
-- Buffer handling
-- Memory leaks prevention
-
 </td>
 </tr>
 
@@ -223,13 +204,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 - ![VM](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-
-**Learning Outcomes**:
-- System hardening
-- User management
-- Service configuration
-- Security policies
-
 </td>
 </tr>
 </table>
@@ -277,12 +251,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 - Algorithm complexity
 - Data structures
-
-**Learning Outcomes**:
-- Algorithm optimization
-- Stack operations
-- Complexity analysis
-- Problem-solving
 </td>
 </tr>
 
@@ -310,12 +278,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 - ![MinilibX](https://img.shields.io/badge/MinilibX-Graphics-FF6B6B)
 - Complex numbers
-
-**Learning Outcomes**:
-- Mathematical visualization
-- User input handling
-- Performance optimization
-- Graphics programming
 </td>
 </tr>
 </table>
@@ -364,12 +326,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 - ![UNIX](https://img.shields.io/badge/UNIX-FCC624?logo=linux&logoColor=black)
 - Signal processing
-
-**Learning Outcomes**:
-- IPC mechanisms
-- Signal management
-- Binary operations
-- Client-server architecture
 </td>
 </tr>
 
@@ -397,12 +353,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 - Thread management
 - Mutex operations
-
-**Learning Outcomes**:
-- Concurrent programming
-- Resource management
-- Race condition handling
-- Performance monitoring
 </td>
 </tr>
 
@@ -431,14 +381,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 - Process management
 - Parser development
-
-**Learning Outcomes**:
-- Shell mechanics
-- Process control
-- Environment handling
-- Error management
-
-
 
 **Collaboration Aspects**:
 - Code integration
@@ -472,12 +414,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![Networking](https://img.shields.io/badge/Networking-0089D6?logo=cisco)
 - TCP/IP protocols
 - Network design
-
-**Learning Outcomes**:
-- Network architecture
-- IP configuration
-- Routing concepts
-- Subnet planning
 
 </td>
 </tr>
@@ -527,13 +463,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![HTTP](https://img.shields.io/badge/HTTP-Protocol-orange)
 - ![Socket](https://img.shields.io/badge/Socket-Programming-blue)
 
-**Learning Outcomes**:
-- Network protocols
-- Server architecture
-- Error handling
-- Performance optimization
-- Configuration management
-
 **Advanced Features**:
 - CGI execution
 - Multiple client handling
@@ -567,13 +496,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 - ![MinilibX](https://img.shields.io/badge/MinilibX-Graphics-FF6B6B)
 - ![Math](https://img.shields.io/badge/Mathematics-Linear_Algebra-green)
-
-**Learning Outcomes**:
-- 3D graphics principles
-- Game development
-- Performance optimization
-- Memory management
-- Event handling
 
 **Graphics Features**:
 - Wall rendering
@@ -625,12 +547,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - Object-Oriented Design
 - Memory Management
 
-**Learning Outcomes**:
-- OOP fundamentals
-- Class design
-- Operator overloading
-- Type conversion
-- Memory handling
 </td>
 </tr>
 
@@ -660,12 +576,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![STL](https://img.shields.io/badge/STL-Library-orange)
 - Template metaprogramming
 
-**Learning Outcomes**:
-- Generic programming
-- STL usage
-- Exception safety
-- Algorithm implementation
-- Container management
 </td>
 </tr>
 
@@ -711,12 +621,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 - ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 
-**Learning Outcomes**:
-- Container management
-- Service deployment
-- Network configuration
-- Database administration
-
 **Services**:
 - NGINX web server
 - WordPress
@@ -751,13 +655,6 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 - ![Django](https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white)
-
-**Learning Outcomes**:
-- Full-stack development
-- Real-time features
-- Security implementation
-- Database design
-- API development
 
 **Features**:
 - OAuth 2.0 authentication
