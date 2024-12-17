@@ -405,7 +405,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 
 
 
-### Algorithms & Data Structures
+## Algorithms & Data Structures
 <table>
 <tr>
 <td colspan="2">
@@ -463,6 +463,129 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 </td>
 </tr>
 
+</table>
+
+
+
+## Computer Graphics
+<table>
+<tr>
+<td colspan="2">
+<div align="center">
+
+#### Graphics Programming & Visualization
+<img src="https://img.shields.io/badge/Focus-Graphics-FF6B6B?style=flat"/>
+<img src="https://img.shields.io/badge/Focus-Visualization-4CAF50?style=flat"/>
+</div>
+</td>
+</tr>
+
+<tr>
+<th width="200px">Project</th>
+<th width="1200px">Details</th>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42-fractol">
+<strong>Fract-ol</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
+<img src="https://img.shields.io/badge/Score-100%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Create a graphical program to explore and render various fractals</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>Fractal rendering algorithms (Mandelbrot, Julia)</li>
+<li>User input and event handling</li>
+<li>Color mapping and gradients</li>
+<li>Zoom and navigation features</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/MinilibX-Graphics-FF6B6B"/>
+<img src="https://img.shields.io/badge/Math-Complex_Numbers-green"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Graphics programming fundamentals</li>
+<li>Complex number mathematics</li>
+<li>Event-driven programming</li>
+<li>Optimization techniques</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42cursus-cub3D">
+<strong>Cub3D</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Team-2_Members-orange"/>
+<img src="https://img.shields.io/badge/Score-115%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Develop a 3D game engine using raycasting techniques</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>Raycasting algorithm implementation</li>
+<li>Map parsing and validation</li>
+<li>Texture mapping and rendering</li>
+<li>Player movement and collision detection</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/MinilibX-Graphics-FF6B6B"/>
+<img src="https://img.shields.io/badge/Mathematics-Linear_Algebra-green"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>3D graphics fundamentals</li>
+<li>Linear algebra application</li>
+<li>Game physics basics</li>
+<li>Team collaboration</li>
+</ul>
+</td>
+</tr>
+
+</table>
+
+
+### Network Programming
+<table>
+<tr>
+<td colspan="2">
+<div align="center">
+
+#### Network & Protocol Implementation
+<img src="https://img.shields.io/badge/Focus-Networking-0089D6?style=flat"/>
+<img src="https://img.shields.io/badge/Focus-Protocols-4CAF50?style=flat"/>
+</div>
+</td>
+</tr>
+
+<tr>
+<th width="200px">Project</th>
+<th width="1200px">Details</th>
+</tr>
+
 <tr>
 <td rowspan="4">
 <div align="center">
@@ -479,9 +602,9 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <td><strong>Implementation</strong>:
 <ul>
 <li>IP addressing and subnetting</li>
-<li>Network configuration algorithms</li>
-<li>Routing table optimization</li>
-<li>Network troubleshooting methods</li>
+<li>Network topology design</li>
+<li>Routing configuration</li>
+<li>Network troubleshooting</li>
 </ul>
 </td>
 </tr>
@@ -497,13 +620,297 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <ul>
 <li>Network architecture principles</li>
 <li>IP addressing schemes</li>
-<li>Routing algorithms</li>
+<li>Subnet calculation</li>
 <li>Network diagnostics</li>
 </ul>
 </td>
 </tr>
 
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42cursus-webserv">
+<strong>Webserv</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Team-3_Members-orange"/>
+<img src="https://img.shields.io/badge/Score-125%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Build an HTTP/1.1 compliant web server from scratch</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>HTTP protocol implementation</li>
+<li>Socket programming and I/O multiplexing</li>
+<li>Request/Response handling</li>
+<li>CGI execution and configuration</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTTP-Protocol-orange"/>
+<img src="https://img.shields.io/badge/Socket-Programming-blue"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Web server architecture</li>
+<li>HTTP protocol internals</li>
+<li>Non-blocking I/O</li>
+<li>Team collaboration</li>
+</ul>
+</td>
+</tr>
+
 </table>
+
+
+
+### Object-Oriented Programming
+<table>
+<tr>
+<td colspan="2">
+<div align="center">
+
+#### Modern C++ Development
+<img src="https://img.shields.io/badge/Focus-Modern_C++-00599C?style=flat&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Focus-OOP-4CAF50?style=flat"/>
+</div>
+</td>
+</tr>
+
+<tr>
+<th width="200px">Project</th>
+<th width="1200px">Details</th>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42cursus-cpp-modules">
+<strong>CPP Modules<br>(00-04)</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
+<img src="https://img.shields.io/badge/Score-100%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Master fundamental C++ concepts and OOP principles</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>Classes and objects implementation</li>
+<li>Inheritance and polymorphism</li>
+<li>Memory management in C++</li>
+<li>Operator overloading</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-Design-orange"/>
+<img src="https://img.shields.io/badge/Memory_Management-555555?style=flat"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Object-oriented design principles</li>
+<li>Class implementation techniques</li>
+<li>C++ memory management</li>
+<li>SOLID principles</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42cursus-cpp-modules">
+<strong>CPP Modules<br>(05-09)</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
+<img src="https://img.shields.io/badge/Status-In_Progress-blue"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Advanced C++ concepts and Standard Template Library utilization</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>Template programming</li>
+<li>STL containers and algorithms</li>
+<li>Exception handling</li>
+<li>Design patterns</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/STL-Library-orange"/>
+<img src="https://img.shields.io/badge/Template_Programming-555555?style=flat"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Advanced template techniques</li>
+<li>STL container usage</li>
+<li>Error handling strategies</li>
+<li>Generic programming concepts</li>
+</ul>
+</td>
+</tr>
+
+</table>
+
+
+### DevOps & Cloud
+<table>
+<tr>
+<td colspan="2">
+<div align="center">
+
+#### Container Orchestration & Deployment
+<img src="https://img.shields.io/badge/Focus-Containerization-2496ED?style=flat&logo=docker"/>
+<img src="https://img.shields.io/badge/Focus-Service_Management-4CAF50?style=flat"/>
+</div>
+</td>
+</tr>
+
+<tr>
+<th width="200px">Project</th>
+<th width="1200px">Details</th>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42cursus-inception">
+<strong>Inception</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Solo-Project-blue"/>
+<img src="https://img.shields.io/badge/Score-100%2F100-success"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Set up a complete containerized web infrastructure using Docker</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>Multi-container application setup</li>
+<li>Docker network and volume configuration</li>
+<li>Service orchestration (NGINX, WordPress, MariaDB)</li>
+<li>Custom Docker image creation</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Container orchestration</li>
+<li>Service configuration management</li>
+<li>Network security implementation</li>
+<li>Infrastructure as Code principles</li>
+</ul>
+</td>
+</tr>
+
+</table>
+
+
+
+### Full-Stack Development
+<table>
+<tr>
+<td colspan="2">
+<div align="center">
+
+#### Web Development & Real-Time Applications
+<img src="https://img.shields.io/badge/Focus-Web_Development-3178C6?style=flat&logo=typescript"/>
+<img src="https://img.shields.io/badge/Focus-Real_Time-4CAF50?style=flat"/>
+</div>
+</td>
+</tr>
+
+<tr>
+<th width="200px">Project</th>
+<th width="1200px">Details</th>
+</tr>
+
+<tr>
+<td rowspan="4">
+<div align="center">
+<a href="https://github.com/zelhajou/42cursus-ft_transcendence">
+<strong>ft_transcendence</strong>
+</a><br>
+<img src="https://img.shields.io/badge/Team-Project-orange"/>
+<img src="https://img.shields.io/badge/Status-In_Progress-blue"/>
+</div>
+</td>
+<td><strong>Objective</strong>: Create a full-stack web application featuring real-time multiplayer game and social features</td>
+</tr>
+<tr>
+<td><strong>Implementation</strong>:
+<ul>
+<li>Single-page application development</li>
+<li>Real-time game and chat system</li>
+<li>OAuth 2.0 authentication</li>
+<li>RESTful API design</li>
+<li>Tournament and matchmaking system</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Technical Stack</strong>:<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><strong>Key Learnings</strong>:
+<ul>
+<li>Full-stack application architecture</li>
+<li>Real-time communication protocols</li>
+<li>User authentication and security</li>
+<li>Database design and management</li>
+</ul>
+</td>
+</tr>
+
+</table>
+
+### Achievement Summary
+<div align="center">
+
+#### Project Statistics
+<img src="https://img.shields.io/badge/13-Completed_Projects-success"/>
+<img src="https://img.shields.io/badge/2-In_Progress-blue"/>
+<img src="https://img.shields.io/badge/4-Team_Projects-orange"/>
+<img src="https://img.shields.io/badge/106%2F100-Average_Score-success"/>
+
+#### Exam Achievements
+<img src="https://img.shields.io/badge/Exam%2002-100%2F100-success"/>
+<img src="https://img.shields.io/badge/Exam%2003-100%2F100-success"/>
+<img src="https://img.shields.io/badge/Exam%2004-100%2F100-success"/>
+<img src="https://img.shields.io/badge/Exam%2005-100%2F100-success"/>
+</div>
 
 
 
@@ -537,6 +944,10 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 - **Problem Solving:** Algorithm design, optimization, architectural planning
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,ubuntu,apple,bash,git,vscode,vim,emacs,md,latex,docker,github,figma,html,css,javascript,nginx)](https://skillicons.dev)
+
+
+
+
 
 
 
