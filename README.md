@@ -863,7 +863,8 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <a href="https://github.com/zelhajou/42cursus-ft_transcendence">
 <strong>ft_transcendence</strong>
 </a><br>
-<img src="https://img.shields.io/badge/Team-Project-orange"/>
+<img src="https://img.shields.io/badge/Team-4_Members-orange
+"/>
 <img src="https://img.shields.io/badge/Status-In_Progress-blue"/>
 </div>
 </td>
