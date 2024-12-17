@@ -528,7 +528,7 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <strong>CPP Modules<br>(00-04)</strong>
 </a><br>
 <img src="https://img.shields.io/badge/Solo-Project-blue"/>
-<img src="https://img.shields.io/badge/Score-80%2F100-yellow"/>
+<img src="https://img.shields.io/badge/Score-100%2F100-success"/>
 </div>
 </td>
 <td width="1200px">
