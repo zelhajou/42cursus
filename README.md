@@ -25,6 +25,8 @@ In this repo, you'll find my progress through the whole curriculum - from basic 
     - [Object-Oriented Programming](#object-oriented-programming)
     - [DevOps & Cloud](#devops--cloud)
     - [Full-Stack Development](#full-stack-development)
+    - 🌟 [Achievement Summary](#achievement-summary)
+- 🗺️ [Project Progression Map](#project-progression-map)
 - 🛠️ [Skills](#skills)
 - 📊 [Stats](#stats)
 - 📝 [Blogs and Articles](#blogs-and-articles)
