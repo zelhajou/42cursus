@@ -918,6 +918,19 @@ The following table lists the projects I've completed as part of the 42 Cursus. 
 <img src="https://img.shields.io/badge/Exam%2005-100%2F100-success"/>
 </div>
 
+## Project Progression Map
+
+<div align="center">
+
+[![](https://mermaid.ink/img/pako:eNqFVW1r2zAQ_ivGo98cSJymTfNh0DZ09ENXQweDOSXI9snWKktGkpuG0v8-vdlxHEYSsE738tzpdHf6DHNeQLgKS4GaKvi13rBA_y4uggfesgIpwlmQVEiCE0iFhEpfzPc1mEy-B5RkWKX2--pULG1ljSBM4RSrraNOFEpG0xLUlsGH2lLC4EQj44LFGQjOVXp3oL1eH-wjI4ogGtwJxPIqSLh254TOswunldVW7lCTJh31eqJUEw2F6Fv65AmvokM9Bjlmd2ajuH6YrJJcBogVwS0tuSCqqmWQIFV51x2ehcEC5YrT9MGsE069c8-2KnmbzYv0Xn_X4yy87KWCOkgE17dZ65DKgaMuQneKilAu08QuvKlAyC4VltWfSVZAqc2FpcYef4LacfF27GlwZxaHgWrMAUgOqTZIPO2xBlKrvYNMgnhPf7t17PE5-ws6Nc-CAFNQjA5og3RpappZep8kwXQ6mV56FMPspLGTLibTm7GP2-Jdl5EBF9x4k07iI7MARMsb0xzpY0cdfMTHKiP0B8J0pXpox-1VraHSRSxzYAVotumeI8bJpau97pzSO6dIyjXgoACMWqoCTChdfcM35h9JJfgbrL7N53NPT3akUNUqbj5G9jmvax2OM4cZXmDozafxclnMziEgXe2d-zks8KK3v85mGMXn7KUrZo-ANca0RwB8lU-n5xDKrvn8KZZ4AYckxHBdzM9GwVyBd2HkcAl5D5HHs-UiO5uIrpp8GAVc46seYzGLC7T8D8ahIpuG7h0kyAG-m5SRm1-RGUbu4oYqhwljrmQoGTRq1I2HyA2A6NBN7iKGdn4cRXYU9WkeagyaOuraxqdyqGb6MTINE_UdEB0Ve5-8MAprEDUihX6rPg3GJlQV1LAJV5r05b4JN-xLq6JW8Zc9y8OVEi1EoeBtWXWbttHPGqwJMkOyYzaI_eFcbzGiUu-hIIqLJ_c22ify6x8BCmNU?type=png)](https://mermaid.live/edit#pako:eNqFVW1r2zAQ_ivGo98cSJymTfNh0DZ09ENXQweDOSXI9snWKktGkpuG0v8-vdlxHEYSsE738tzpdHf6DHNeQLgKS4GaKvi13rBA_y4uggfesgIpwlmQVEiCE0iFhEpfzPc1mEy-B5RkWKX2--pULG1ljSBM4RSrraNOFEpG0xLUlsGH2lLC4EQj44LFGQjOVXp3oL1eH-wjI4ogGtwJxPIqSLh254TOswunldVW7lCTJh31eqJUEw2F6Fv65AmvokM9Bjlmd2ajuH6YrJJcBogVwS0tuSCqqmWQIFV51x2ehcEC5YrT9MGsE069c8-2KnmbzYv0Xn_X4yy87KWCOkgE17dZ65DKgaMuQneKilAu08QuvKlAyC4VltWfSVZAqc2FpcYef4LacfF27GlwZxaHgWrMAUgOqTZIPO2xBlKrvYNMgnhPf7t17PE5-ws6Nc-CAFNQjA5og3RpappZep8kwXQ6mV56FMPspLGTLibTm7GP2-Jdl5EBF9x4k07iI7MARMsb0xzpY0cdfMTHKiP0B8J0pXpox-1VraHSRSxzYAVotumeI8bJpau97pzSO6dIyjXgoACMWqoCTChdfcM35h9JJfgbrL7N53NPT3akUNUqbj5G9jmvax2OM4cZXmDozafxclnMziEgXe2d-zks8KK3v85mGMXn7KUrZo-ANca0RwB8lU-n5xDKrvn8KZZ4AYckxHBdzM9GwVyBd2HkcAl5D5HHs-UiO5uIrpp8GAVc46seYzGLC7T8D8ahIpuG7h0kyAG-m5SRm1-RGUbu4oYqhwljrmQoGTRq1I2HyA2A6NBN7iKGdn4cRXYU9WkeagyaOuraxqdyqGb6MTINE_UdEB0Ve5-8MAprEDUihX6rPg3GJlQV1LAJV5r05b4JN-xLq6JW8Zc9y8OVEi1EoeBtWXWbttHPGqwJMkOyYzaI_eFcbzGiUu-hIIqLJ_c22ify6x8BCmNU)
+
+<br>
+
+<img src="https://img.shields.io/badge/Foundation-Core_C_Programming-0288d1?style=flat"/> <img src="https://img.shields.io/badge/Algorithms-Data_Structures_&_Optimization-7b1fa2?style=flat"/> <img src="https://img.shields.io/badge/System-Unix_&_Process_Management-ef6c00?style=flat"/> <img src="https://img.shields.io/badge/Graphics-2D_&_3D_Visualization-2e7d32?style=flat"/> <img src="https://img.shields.io/badge/Networking-Protocol_&_Web_Services-c2185b?style=flat"/> <img src="https://img.shields.io/badge/Advanced-C++,_DevOps_&_Full--Stack-512da8?style=flat"/>
+
+
+</div>
+
 
 
 
